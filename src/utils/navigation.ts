@@ -1,7 +1,7 @@
 // An array of links for navigation bar
 const navBarLinks = [
   { name: "Home", url: "/" },
-  { name: "Scholarships", url: "/blog" },
+  { name: "Scholarships", url: "/Scholarships" },
   { name: "Internship Opportunities", url: "/Internship%20Opportunities"},
   { name: "PhD Opportunities", url: "/PhD%20Opportunities" },
   { name: "Job Opportunities", url: "/Job%20Opportunities" },

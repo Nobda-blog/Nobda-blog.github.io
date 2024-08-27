@@ -2,9 +2,9 @@
 const navBarLinks = [
   { name: "Home", url: "/" },
   { name: "Scholarships", url: "/blog" },
-  { name: "Internship Opportunities", url: "/Internship Opportunities"},
-  { name: "PhD Opportunities", url: "/PhD Opportunities" },
-  { name: "Job Opportunities", url: "/blog" },
+  { name: "Internship Opportunities", url: "/Internship%20Opportunities"},
+  { name: "PhD Opportunities", url: "/PhD%20Opportunities" },
+  { name: "Job Opportunities", url: "/Job%20Opportunities" },
   { name: "Contact", url: "/contact" },
   { name: "Services", url: "/services" },
   { name: "Blog", url: "/blog" },
@@ -16,7 +16,6 @@ const footerLinks = [
     links: [
       { name: "About us", url: "#" },
       { name: "Blog", url: "/blog" },
-      { name: "Careers", url: "#" },
       { name: "Customers", url: "#" },
     ],
   },

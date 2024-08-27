@@ -2,7 +2,6 @@
 // Import necessary components, modules and types
 import MainLayout from "@/layouts/MainLayout.astro";
 import CardBlog from "@components/ui/cards/CardBlog.astro";
-import CardBlogRecent from "@components/ui/cards/CardBlogRecent.astro";
 import CardInsight from "@components/ui/cards/CardInsight.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -91,7 +90,6 @@ const pageTitle: string = `Blog | ${SITE.title}`;
   <section
     class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
   >
-    <CardBlogRecent blogEntry={mostRecentPost} />
   </section>
   <!--Insights section-->
   <section

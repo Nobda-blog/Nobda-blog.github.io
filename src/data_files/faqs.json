@@ -1,29 +1,37 @@
 {
-  "subTitle": "Ask us anything about our brand and products, and get factual responses.",
+  "subTitle": "Ask us anything about our platform, and get factual responses.",
   "faqs": [
     {
-      "question": "What types of tools are included in the Starter Kit?",
-      "answer": "The Starter Kit features essential hand and power tools for diverse DIY projects, including hammers, drills, screwdrivers, and a variety of fasteners. It's a curated selection to help beginners and experienced DIYers alike tackle most home improvement tasks."
+      "question": "Is it obligatory to apply through our support team?",
+      "answer": "No, it’s not obligatory. We present various opportunities such as scholarships, fellowships, and internships. You have the choice to apply on your own or through our support team. However, applying with our team significantly increases your chances of acceptance, as we ensure that your application is polished and competitive."
     },
     {
-      "question": "Can I upgrade from the Starter Kit to the Professional Toolbox?",
-      "answer": "Absolutely! You can upgrade to the Professional Toolbox at any time to access a wider range of high-quality tools, enjoy priority customer support, and receive exclusive content. Contact our support team for a seamless transition."
+      "question": "Are these opportunities only for individuals from Arab countries?",
+      "answer": "No, these opportunities are open to anyone seeking great opportunities. While our primary focus is on Arab students and individuals, we welcome applicants from all backgrounds."
     },
     {
-      "question": "What discounts are available for bulk orders through the Professional Toolbox plan?",
-      "answer": "Professional Toolbox members are entitled to exclusive discounts on bulk orders, the percentage of which may vary depending on the order volume. Get in touch with us to discuss your needs, and we'll provide a tailored discount structure."
+      "question": "Does your support team provide guidance and support for the visa process, or only for application submission?",
+      "answer": "Our support doesn’t end with the application process. Once you choose to apply through our team, we handle everything—from application submission to visa processing and any other necessary requirements after acceptance."
     },
     {
-      "question": "What kind of customer support can I expect?",
-      "answer": "All our customers receive dedicated email support. With the Starter Kit, you'll receive our standard support, while the Professional Toolbox plan upgrades you to priority support, meaning faster response times and specialized assistance."
+      "question": "How do I know which opportunities are right for me?",
+      "answer": "Our platform offers personalized recommendations based on your profile and interests. You can also consult with our team to help you choose the most suitable opportunities."
     },
     {
-      "question": "How current are the online resources and tutorials?",
-      "answer": "We regularly update our online resources and tutorials to reflect the latest trends in DIY and construction, as well as introductions to new tools and techniques. Our material aims to be comprehensive and user-friendly for all skill levels."
+      "question": "What types of opportunities are available on Forsa?",
+      "answer": "We offer a wide range of opportunities, including scholarships, internships, PhD programs, job listings, cultural exchanges, and funded conferences across various fields."
     },
     {
-      "question": "Does ScrewFast offer services for large-scale construction projects?",
-      "answer": "Yes, our Enterprise Solutions are designed for larger companies requiring comprehensive services. We provide consultation, planning, and supply of high-grade tools and materials, as well as staffing solutions for substantial construction needs. Contact us for a customized quote."
+      "question": "How do I start the application process?",
+      "answer": "You can begin by creating a profile on our platform, exploring available opportunities, and choosing whether to apply independently or with the support of our expert team."
+    },
+    {
+      "question": "What is the cost of using your support services?",
+      "answer": "Our basic platform services are free, but there may be fees associated with personalized support and application assistance. Please contact our team for specific pricing details."
+    },
+    {
+      "question": "How do I track the status of my application?",
+      "answer": "If you apply through our support team, we provide regular updates and notifications on the progress of your application, including any necessary follow-up actions."
     }
   ]
 }

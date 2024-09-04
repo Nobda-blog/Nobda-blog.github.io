@@ -2,19 +2,11 @@
 // Import the necessary components
 import MainLayout from "@/layouts/MainLayout.astro";
 import HeroSection from "@components/sections/landing/HeroSection.astro";
-import HeroSectionAlt from "@components/sections/landing/HeroSectionAlt.astro";
-import ClientsSection from "@components/sections/landing/ClientsSection.astro";
-import FeaturesGeneral from "@components/sections/features/FeaturesGeneral.astro";
 import FeaturesNavs from "@components/sections/features/FeaturesNavs.astro";
-import TestimonialsSection from "@components/sections/testimonials/TestimonialsSection.astro";
-import PricingSection from "@components/sections/pricing/PricingSection.astro";
 import FAQ from "@components/sections/misc/FAQ.astro";
 import AnnouncementBanner from "@components/ui/banners/AnnouncementBanner.astro";
 import heroImage from "@images/hero-image.avif";
 import faqs from "@data/faqs.json";
-import features from "@data/features.json";
-import pricing from "@data/pricing.json";
-import featureImage from "@images/features-image.avif";
 import construction from "@images/construction-image.avif";
 import tools from "@images/automated-tools.avif";
 import dashboard from "@images/dashboard-image.avif";
@@ -42,7 +34,7 @@ const avatarSrcs: Array<string> = [
     primaryBtn="Explore Opportunities"
     primaryBtnURL="/blog"
     secondaryBtn="Start Your Journey"
-    secondaryBtnURL="/contact"
+    secondaryBtnURL="/services"
     src={heroImage}
     alt="Stack of ScrewFast product boxes containing assorted hardware tools"
   />
@@ -78,6 +70,7 @@ const avatarSrcs: Array<string> = [
       },
     ]}
   />
+  <div id="FAQ">
   <FAQ title="Frequently<br />asked questions" faqs={faqs} />
-
+  </div>
 </MainLayout>

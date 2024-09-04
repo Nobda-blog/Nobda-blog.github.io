@@ -4,7 +4,7 @@ import { SITE } from "@data/constants";
 import MainLayout from "@/layouts/MainLayout.astro";
 import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
-
+import PrimaryCTA from "@components/ui/buttons/PrimaryCTA.astro";
 // Use `getStaticPaths` to generate static routes for generated pages on build
 export async function getStaticPaths() {
   const insightPosts = await getCollection("insights");
@@ -74,6 +74,33 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
             class="text-pretty text-lg text-neutral-700 dark:text-neutral-300"
           >
             <Content />
+            <ul>
+            <li style={{ marginBottom: '20px', marginTop: '20px'}}><PrimaryCTA title="Official Link" url={post.data.officialLink} /></li>
+            <li style={{ marginBottom: '20px' }}><PrimaryCTA title="Apply Now" url={post.data.applyNowLink} /></li>
+            <li style={{ marginBottom: '20px' }}><PrimaryCTA title="Apply through our support team" url={post.data.teamApplyLink} /></li>
+            </ul> 
+            <section
+  class="mx-auto mt-10 max-w-[85rem] px-4 py-10 sm:px-6 sm:py-16 lg:px-8 lg:py-14 2xl:max-w-full"
+>
+  <div class="max-w-screen-md">
+    <h3 style="text-align: center;">Have you subscribed to the YouTube channel or the Telegram channel for scholarships?</h3>
+
+    <!-- Section subtitle -->
+    <p
+      class="mb-8 max-w-prose text-pretty font-light text-neutral-600 dark:text-neutral-400 sm:text-xl"
+    >
+    Be the first to know about our Opportunities as soon as they are released. 
+  </p>
+    <!-- Conditional rendering of PrimaryCTA component if 'btnExists' property is truthy -->
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+      <a href="https://t.me/nobdaforyou" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Join us on Telegram</a>
+      <a href="https://www.youtube.com/@RobotXMore" style="background-color: #FF0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Join us on YouTube</a>
+    </div>
+  </div>
+</section>
+
+
+      
           </article>
         </div>
       </div>

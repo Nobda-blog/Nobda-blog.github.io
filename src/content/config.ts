@@ -2,6 +2,7 @@
 
 import { z, defineCollection } from 'astro:content';
 import { docsSchema } from '@astrojs/starlight/schema';
+import { string } from 'astro/zod';
 
 const productsCollection = defineCollection({
   type: 'content',
@@ -85,6 +86,9 @@ const insightsCollection = defineCollection({
   // contents: z.array(z.string()),
   cardImage: image(),
   cardImageAlt: z.string(),
+  officialLink: z.string().optional(),
+  applyNowLink: z.string().optional(),
+  teamApplyLink: z.string().optional(),
   }),
 });
 

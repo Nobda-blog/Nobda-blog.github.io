@@ -14,7 +14,7 @@ const englishBlogEntries = await getCollection("blog", ({ id }) => {
 });
 
 const englishInsightsEntries = await getCollection("insights", ({ id }) => {
-  return id.startsWith("en/Jobs Opportunities");
+  return id.startsWith("en/Job Opportunities");
 });
 
 const blogPosts: CollectionEntry<"blog">[] = englishBlogEntries.sort(
@@ -31,7 +31,7 @@ const otherPosts: CollectionEntry<"blog">[] = blogPosts.slice(1);
 // Define variables for page content
 const title: string = "Job Opportunities";
 const subTitle: string =
-  "bal bla bla";
+  "Explore our opportunities for a better future";
 
 
 const pageTitle: string = `${title} | ${SITE.title}`;

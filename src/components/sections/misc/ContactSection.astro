@@ -1,6 +1,5 @@
 ---
 // Import the necessary dependencies.
-import AuthBtn from "@components/ui/buttons/AuthBtn.astro";
 import ContactIconBlock from "@components/ui/blocks/ContactIconBlock.astro";
 import TextInput from "@components/ui/forms/input/TextInput.astro";
 import EmailContactInput from "@components/ui/forms/input/EmailContactInput.astro";
@@ -8,13 +7,24 @@ import PhoneInput from "@components/ui/forms/input/PhoneInput.astro";
 import TextAreaInput from "@components/ui/forms/input/TextAreaInput.astro";
 import Icon from "@components/ui/icons/Icon.astro";
 
+
 // Define the variables that will be used in this component
 const title: string = "Contact us";
 const subTitle: string =
   "Have questions or want to discuss a project? Reach out, and let's craft the perfect solution with our tools and services.";
 const formTitle: string = "Fill in the form below";
 const formSubTitle: string = "We'll get back to you in 1-2 business days.";
+
+const baseClasses =
+  "inline-flex w-full items-center justify-center gap-x-2 rounded-lg px-4 py-3 text-sm font-bold text-neutral-700 focus-visible:ring outline-none transition duration-300";
+const borderClasses = "border border-transparent";
+const bgColorClasses = "bg-yellow-400 dark:focus:outline-none";
+const hoverClasses = "hover:bg-yellow-500";
+const fontSizeClasses = "2xl:text-base";
+const disabledClasses = "disabled:pointer-events-none disabled:opacity-50";
+const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
 ---
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
 
 <!-- Contact Us -->
 <section class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
@@ -31,7 +41,7 @@ const formSubTitle: string = "We'll get back to you in 1-2 business days.";
     </div>
 
     <div class="mt-12 grid items-center gap-6 lg:grid-cols-2 lg:gap-16">
-      <div class="flex flex-col rounded-xl p-4 sm:p-6 lg:p-8">
+      <div class="flex flex-col rounded-xl p-4 sm:p-6 lg:p-8" x-data="{ firstName: '',lastName :'',body:''}">
         <h2
           class="mb-8 text-xl font-bold text-neutral-700 dark:text-neutral-300"
         >
@@ -42,28 +52,54 @@ const formSubTitle: string = "We'll get back to you in 1-2 business days.";
         <form>
           <div class="grid gap-4">
             <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
-              <TextInput
-                id="hs-firstname-contacts"
-                label="First Name"
-                name="hs-firstname-contacts"
-              />
-              <TextInput
-                id="hs-lastname-contacts"
-                label="Last Name"
-                name="hs-firstname-contacts"
-              />
+        
+              <div>
+                <label for={"hs-firstname-contacts"} class="sr-only">{"First Name"}</label>
+                <input
+                  type="text"
+                  name={"hs-firstname-contacts"}
+                  id={"hs-firstname-contacts"}
+                  class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
+                  placeholder={"First Name"}
+                   x-model="firstName"
+                />
+                </div>
+  
+              <div>
+                <label for={"hs-lastname-contacts"} class="sr-only">{"Last Name"}</label>
+                <input
+                  type="text"
+                  name={"hs-firstname-contacts"}
+                  id={"hs-lastname-contacts"}
+                  class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
+                  placeholder={"Last Name"}
+                  x-model="lastName"
+                />
+                </div>
             </div>
             <EmailContactInput id="hs-email-contacts" />
             <PhoneInput id="hs-phone-number" />
-            <TextAreaInput
-              id="hs-about-contacts"
-              label="Details"
-              name="hs-about-contacts"
-            />
+            <div>
+              <label for={"hs-about-contacts"} class="sr-only">{"Details"}</label>
+              <textarea
+                id={"hs-about-contacts"}
+                name={"hs-about-contacts"}
+                rows="4"
+                class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
+                placeholder={"Details"}
+                x-model="details">
+              </textarea>
+
+            </div>
           </div>
 
           <div class="mt-4 grid">
-            <AuthBtn title="Send Message" />
+            <a
+            :href="`mailto:robotxmore@gmail.com?subject=Hello%20from%20${firstName}%20${lastName}&body=${details}`"
+            class={`${baseClasses} ${borderClasses} ${bgColorClasses} ${hoverClasses} ${fontSizeClasses} ${disabledClasses} ${ringClasses}`}
+            >
+            {title}
+            </a>
           </div>
 
           <div class="mt-3 text-center">
@@ -88,9 +124,9 @@ const formSubTitle: string = "We'll get back to you in 1-2 business days.";
 
         <ContactIconBlock
           heading="Visit our office"
-          content="Forsa"
+          content="Nobda"
           isAddressVisible={true}
-          addressContent="Fes el Bali, Morocco"
+          addressContent="Fes, Morocco"
           ><Icon name="mapPin" />
         </ContactIconBlock>
 
@@ -106,3 +142,4 @@ const formSubTitle: string = "We'll get back to you in 1-2 business days.";
     </div>
   </div>
 </section>
+

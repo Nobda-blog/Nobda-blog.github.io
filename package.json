@@ -25,6 +25,7 @@
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
     "@vercel/nft": "^0.27.3",
+    "alpinejs": "^3.14.1",
     "astro": "^4.14.2",
     "astro-compressor": "^0.4.1",
     "clipboard": "^2.0.11",
@@ -39,6 +40,7 @@
     "rimraf": "^6.0.1",
     "sharp": "^0.33.5",
     "sharp-ico": "^0.1.5",
+    "solid-js": "^1.8.22",
     "tailwindcss": "^3.4.10"
   },
   "devDependencies": {

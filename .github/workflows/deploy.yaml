@@ -19,7 +19,7 @@ jobs:
       
       - name: Install dependencies and build the site
         uses: withastro/action@v2
-        with:
+        #with:
           # Specify node version if needed (optional)
           # node-version: 20 
           # Path and package manager options, if needed:

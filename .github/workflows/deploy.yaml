@@ -34,7 +34,7 @@ jobs:
       - name: Upload build output
         uses: actions/upload-artifact@v3
         with:
-          name: vercel-output
+          name: github-pages # Artifact name must match in both upload and deploy steps
           path: .vercel/output # Upload the `.vercel/output` folder
 
   deploy:
@@ -47,7 +47,7 @@ jobs:
       - name: Download build output
         uses: actions/download-artifact@v3
         with:
-          name: vercel-output
+          name: github-pages # This should match the name used in the upload step
 
       - name: Deploy to GitHub Pages
         id: deployment

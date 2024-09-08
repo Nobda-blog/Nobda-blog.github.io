@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+      
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the site for Vercel output
+        run: |
+          # Set the VERCEL environment variable
+          export VERCEL=true
+          npm run build
+        env:
+          VERCEL: true # Ensure Vercel build output is generated
+
+      - name: Verify Vercel build output
+        run: ls -la .vercel/output # Ensure the `.vercel/output` folder is generated
+
+      - name: Upload build output
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-pages # Artifact name must match in both upload and deploy steps
+          path: .vercel/output # Upload the `.vercel/output` folder
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download build output
+        uses: actions/download-artifact@v3
+        with:
+          name: github-pages # This should match the name used in the upload step
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          folder: .vercel/output/static # Deploy the `static` content inside `.vercel/output`

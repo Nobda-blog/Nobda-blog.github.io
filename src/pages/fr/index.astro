@@ -2,23 +2,14 @@
 // Import the necessary components
 import MainLayout from "@/layouts/MainLayout.astro";
 import HeroSection from "@components/sections/landing/HeroSection.astro";
-import HeroSectionAlt from "@components/sections/landing/HeroSectionAlt.astro";
-import ClientsSection from "@components/sections/landing/ClientsSection.astro";
-import FeaturesGeneral from "@components/sections/features/FeaturesGeneral.astro";
 import FeaturesNavs from "@components/sections/features/FeaturesNavs.astro";
-import TestimonialsSection from "@components/sections/testimonials/TestimonialsSection.astro";
-import PricingSection from "@components/sections/pricing/PricingSection.astro";
 import FAQ from "@components/sections/misc/FAQ.astro";
 import AnnouncementBanner from "@components/ui/banners/AnnouncementBanner.astro";
 import heroImage from "@images/hero-image.avif";
-import faqs from "@data/fr/faqs.json";
-import features from "@data/fr/features.json";
-import pricing from "@data/fr/pricing.json";
-import featureImage from "@images/features-image.avif";
+import faqs from "@data/faqs.json";
 import construction from "@images/construction-image.avif";
 import tools from "@images/automated-tools.avif";
 import dashboard from "@images/dashboard-image.avif";
-import { getRelativeLocaleUrl } from 'astro:i18n';
 
 const avatarSrcs: Array<string> = [
   "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=2&w=300&h=300&q=80",
@@ -28,118 +19,58 @@ const avatarSrcs: Array<string> = [
 ];
 ---
 
-<MainLayout lang="fr">
+<MainLayout>
+  <!-- Add banner Here -->
   <AnnouncementBanner
     btnId="dismiss-button"
-    btnTitle="Découvrez ScrewFast sur GitHub"
+    btnTitle="Explore ScrewFast on GitHub"
     url="https://github.com/mearashadowfax/ScrewFast"
   />
 
   <HeroSection
-    title=`Équipez vos projets avec <span class="text-yellow-500 dark:text-yellow-400">ScrewFast</span>`
-    subTitle="Outils matériels de haute qualité et services de construction experts pour tous les besoins en projet."
-    primaryBtn="Commencez à explorer"
-    primaryBtnURL={getRelativeLocaleUrl("fr", "products")}
-    secondaryBtn="Contacter l'équipe commerciale"
-    secondaryBtnURL={getRelativeLocaleUrl("fr", "contact")}
-    withReview={true}
-    avatars={avatarSrcs}
-    rating=`<span class="font-bold">4.8</span> / 5`
-    starCount={4}
-    reviews=`À partir de plus de <span class="font-bold">12,8k</span> avis`
+    title=`Enhance Your Career with <span
+        class="text-yellow-500 dark:text-yellow-400">Nobda</span>`
+    subTitle=" Your trusted platform for scholarships, internships, PhD programs, and job opportunities. Advance Your Career, Secure Opportunities, Achieve Global Success!"
+    primaryBtn="Explore Opportunities"
+    primaryBtnURL="/blog"
+    secondaryBtn="Start Your Journey"
+    secondaryBtnURL="/services"
     src={heroImage}
-    alt="Pile de boîtes de produits ScrewFast contenant des outils matériels assortis"
-  />
-
-  <ClientsSection
-    title="Faites confiance aux leaders de l'industrie"
-    subTitle="Découvrez la fiabilité choisie par les géants de l'industrie."
-  />
-
-  <FeaturesGeneral
-    title="Répondre aux exigences de l'industrie"
-    subTitle="Chez ScrewFast, nous relevons les défis uniques rencontrés dans les secteurs du matériel et de la construction. Des outils de pointe aux services experts, nous sommes déterminés à vous aider à surmonter les obstacles et à atteindre vos objectifs."
-    src={featureImage}
-    alt="Produits ScrewFast dans des boîtes flottantes"
-    features={features}
+    alt="Stack of ScrewFast product boxes containing assorted hardware tools"
   />
 
   <FeaturesNavs
-    title=`Personnalisez les offres de <span class="text-yellow-500 dark:text-yellow-400">ScrewFast</span> pour répondre parfaitement à vos besoins en matériel et en construction.`
+    title=`Navigating opportunities has never been easier. Discover how <span class="text-yellow-500 dark:text-yellow-400">Nobda</span> simplifies the process from search to success.`
     tabs={[
       {
-        heading: "Outils de pointe",
+        heading: "Discover Opportunities",
         content:
-          "Optimisez vos projets avec les outils de pointe de ScrewFast. Faites l'expérience d'une efficacité accrue dans la gestion de la construction avec nos solutions automatisées sophistiquées.",
+          "From scholarships to internships, PhD programs, and job openings, our platform offers a wide range of opportunities that cater to various fields and career stages. Find what suits you best and take the next step in your professional journey.",
         svg: "tools",
         src: tools,
-        alt: "Équipement lourd jaune et noir sur un champ d'herbe brune",
+        alt: "Yellow and black heavy equipment on brown grass field",
         first: true,
       },
       {
-        heading: "Tableaux de bord intuitifs",
+        heading: "What do we offer at nobda ?",
         content:
-          "Naviguez facilement avec les tableaux de bord intuitifs de ScrewFast. Configurez et supervisez vos projets de manière transparente, avec des interfaces conviviales conçues pour une gestion efficace des flux de travail rapide et efficace.",
+          "Nobda offers a wide range of services, including access to educational opportunities such as scholarships, fellowships, cultural exchanges, funded PhD programs, and conferences. It also provides job and internship listings. Through For9a, you can apply to selected opportunities with the support of our team. Additionally, we offer personalized counseling sessions and a personality test to help users discover suitable academic and career paths.",
         svg: "dashboard",
         src: dashboard,
-        alt: "Capture d'écran ou représentation graphique du tableau de bord intuitif",
+        alt: "A screenshot or graphic representation of the intuitive dashboard",
         second: true,
       },
       {
-        heading: "Fonctionnalités robustes",
+        heading: "Who We Are ?",
         content:
-          "Minimisez la complexité, maximisez la productivité. Les fonctionnalités robustes de ScrewFast sont conçues pour rationaliser votre processus de construction, offrant des résultats qui se distinguent par leur excellence.",
+          "We are dedicated to connecting ambitious individuals with the best 		opportunities around the world. Whether you’re looking to enhance your 		skills, advance your education, or jumpstart your career, we provide the resources you need to succeed.",
         svg: "house",
         src: construction,
-        alt: "Structure métallique grise d'un bâtiment près d'une grue à tour pendant la journée",
+        alt: "Gray metal building frame near tower crane during daytime",
       },
     ]}
   />
-
-  <TestimonialsSection
-    title="Accélérez vos projets"
-    subTitle="Chez ScrewFast, nous assurons un démarrage rapide avec une configuration de compte instantanée. Découvrez la vitesse de la construction redéfinie."
-    testimonials={[
-      {
-        content:
-          "ScrewFast a considérablement augmenté l'efficacité de notre projet. La configuration a été instantanée et leurs temps de réponse rapides sont phénoménaux. Vraiment un changement de jeu dans le support matériel et de construction !",
-        author: "Samantha Ruiz",
-        role: "Directrice des opérations | ConstructIt Inc.",
-        avatarSrc:
-          "https://images.unsplash.com/photo-1593104547489-5cfb3839a3b5?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D8&auto=format&fit=facearea&facepad=2&w=320&h=320&q=80",
-      },
-    ]}
-    statistics={[
-      {
-        count: "70k+",
-        description:
-          "clients équipés — des bricoleurs aux grandes entreprises de construction",
-      },
-      {
-        count: "35%",
-        description:
-          "hausse de l'efficacité des projets avec les outils et services de ScrewFast",
-      },
-      {
-        count: "15,3%",
-        description:
-          "réduction des coûts de maintenance rapportée par des clients à long terme",
-      },
-      {
-        count: "2x",
-        description:
-          "assemblage plus rapide grâce à des solutions de fixation innovantes",
-      },
-    ]}
-  />
-
-  <PricingSection pricing={pricing} />
-
-  <FAQ title="Questions<br />fréquemment posées" faqs={faqs} />
-
-  <HeroSectionAlt
-    title="Construisons ensemble"
-    subTitle="ScrewFast est un modèle open source, méticuleusement conçu avec les frameworks Astro, Tailwind CSS et Preline UI."
-    url="https://github.com/mearashadowfax/ScrewFast"
-  />
+  <div id="FAQ">
+  <FAQ title="Frequently<br />asked questions" faqs={faqs} />
+  </div>
 </MainLayout>

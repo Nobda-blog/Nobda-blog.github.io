@@ -2,7 +2,6 @@
 // Import necessary components, modules and types
 import MainLayout from "@/layouts/MainLayout.astro";
 import CardBlog from "@components/ui/cards/CardBlog.astro";
-import CardBlogRecent from "@components/ui/cards/CardBlogRecent.astro";
 import CardInsight from "@components/ui/cards/CardInsight.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -11,11 +10,11 @@ import { SITE } from "@data/constants";
 // Get all blogs post in English and sort them based on publish date
 
 const englishBlogEntries = await getCollection("blog", ({ id }) => {
-  return id.startsWith("en/");
+  return id.startsWith("en/PhD Opportunities");
 });
 
 const englishInsightsEntries = await getCollection("insights", ({ id }) => {
-  return id.startsWith("en/");
+  return id.startsWith("en/PhD Opportunities");
 });
 
 const blogPosts: CollectionEntry<"blog">[] = englishBlogEntries.sort(
@@ -30,13 +29,12 @@ const mostRecentPost: CollectionEntry<"blog"> = blogPosts[0];
 const otherPosts: CollectionEntry<"blog">[] = blogPosts.slice(1);
 
 // Define variables for page content
-const title: string = "Blog";
-const subTitle: string = "Explore our blog posts";
-const secondTitle: string = "Opportunities";
-const secondSubTitle: string =
+const title: string = "Phd Opportunities";
+const subTitle: string =
   "Explore our opportunities for a better future";
 
-const pageTitle: string = `Blog | ${SITE.title}`;
+
+const pageTitle: string = `${title} | ${SITE.title}`;
 ---
 
 <MainLayout
@@ -88,23 +86,13 @@ const pageTitle: string = `Blog | ${SITE.title}`;
   </section>
   <!--Most recent blog post-->
   <section
-    class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
+    class="mx-auto max-w-[85rem] px-4 py-5 sm:px-6 lg:px-8 lg:py-2 2xl:max-w-full"
   >
   </section>
   <!--Insights section-->
   <section
-    class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
+    class="mx-auto max-w-[85rem] px-4 py-1 sm:px-6 lg:px-8 lg:py-2 2xl:max-w-full"
   >
-    <div class="mx-auto mb-10 max-w-2xl text-center lg:mb-14">
-      <h2
-        class="text-2xl font-bold text-neutral-800 dark:text-neutral-200 md:text-4xl md:leading-tight"
-      >
-        {secondTitle}
-      </h2>
-      <p class="mt-1 text-pretty text-neutral-600 dark:text-neutral-400">
-        {secondSubTitle}
-      </p>
-    </div>
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {
         insightPosts.map((insightEntry) => (

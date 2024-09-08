@@ -1,32 +1,27 @@
-
+// An array of links for navigation bar
 const navBarLinks = [
-  { name: "Accueil", url: "/fr" },
-  { name: "Produits", url: "/fr/products" },
-  { name: "Services", url: "/fr/services" },
-  { name: "Blog", url: "/fr/blog" },
-  { name: "Contact", url: "/fr/contact" },
+  { name: "Home", url: "/" },
+  { name: "Blog", url: "/blog" },
+  { name: "Scholarships", url: "/Scholarships" },
+  { name: "Internship Opportunities", url: "/Internship%20Opportunities"},
+  { name: "PhD Opportunities", url: "/PhD%20Opportunities" },
+  { name: "Job Opportunities", url: "/Job%20Opportunities" },
+  { name: "Services", url: "/services" },
+  { name: "Contact", url: "/contact" },
+  
 ];
-
+// An array of links for footer
 const footerLinks = [
   {
-    section: "Écosystème",
+    section: "Company",
     links: [
-      { name: "Documentation", url: "/fr/welcome-to-docs/" },
-      { name: "Outils et Équipements", url: "/fr/products" },
-      { name: "Services de Construction", url: "/fr/services" },
-    ],
-  },
-  {
-    section: "Société",
-    links: [
-      { name: "À propos de nous", url: "#" },
-      { name: "Blog", url: "/fr/blog" },
-      { name: "Carrières", url: "#" },
-      { name: "Clients", url: "#" },
+      { name: "About us", url: "#" },
+      { name: "Blog", url: "/blog" },
+      { name: "Customers", url: "#" },
     ],
   },
 ];
-
+// An object of links for social icons
 const socialLinks = {
   telegram: "https://t.me/nobdaforyou",
   instagram: "https://www.instagram.com/robotxandmore/",

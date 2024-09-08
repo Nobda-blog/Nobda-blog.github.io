@@ -137,7 +137,8 @@ export default defineConfig({
     gzip: false,
     brotli: true
   }), react()],
-  output: "static",
+  output: 'static',
+  outDir: 'dist',
   experimental: {
     clientPrerender: true,
     directRenderScript: true

@@ -7,11 +7,12 @@ import Icon from "@components/ui/icons/Icon.astro";
 
 
 // Define the variables that will be used in this component
-const title: string = "Contactez-nous";
+const title: string = "تواصل معنا";
 const subTitle: string =
-  "Vous avez des questions ou souhaitez discuter d’un projet? Communiquez avec nous et élaborons la solution parfaite grâce à nos outils et services.";
-const formTitle: string = "Remplir le formulaire ci-dessous";
-const formSubTitle: string = "Nous vous répondrons dans 1 à 2 jours ouvrables.";
+  "هل لديك أسئلة أو ترغب في مناقشة مشروع؟ تواصل معنا ودعنا نطور الحل المثالي باستخدام أدواتنا وخدماتنا.";
+const formTitle: string = "املأ النموذج أدناه";
+const formSubTitle: string = "سنرد عليك في غضون 1 إلى 2 يوم .";
+
 
 const baseClasses =
   "inline-flex w-full items-center justify-center gap-x-2 rounded-lg px-4 py-3 text-sm font-bold text-neutral-700 focus-visible:ring outline-none transition duration-300";
@@ -58,7 +59,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
                   name={"hs-firstname-contacts"}
                   id={"hs-firstname-contacts"}
                   class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
-                  placeholder={"Prénom"}
+                  placeholder={"الاسم الأول"}
                    x-model="firstName"
                 />
                 </div>
@@ -70,7 +71,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
                   name={"hs-firstname-contacts"}
                   id={"hs-lastname-contacts"}
                   class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
-                  placeholder={"Nom"}
+                  placeholder={"لقب"}
                   x-model="lastName"
                 />
                 </div>
@@ -84,7 +85,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
                   name={"hs-about-contacts"}
                   id={"hs-about-contacts"}
                   class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
-                  placeholder={"Détails"}
+                  placeholder={"تفاصيل"}
                   x-model="body"
                 />
             </div>
@@ -95,7 +96,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
             :href="`mailto:robotxmore@gmail.com?subject=Hello%20from%20${firstName}%20${lastName}&body=${body}`"
             class={`${baseClasses} ${borderClasses} ${bgColorClasses} ${hoverClasses} ${fontSizeClasses} ${disabledClasses} ${ringClasses}`}
             >
-            {"Contacez-nous"}
+            {"تواصل معنا"}
             </a>
           </div>
 
@@ -111,28 +112,28 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
       <div class="divide-y divide-neutral-300 dark:divide-neutral-700">
         <ContactIconBlock
           heading="FAQ"
-          content="Explorez notre FAQ pour des réponses rapides et claires aux questions courantes."
+          content="استكشف قسم الأسئلة الشائعة لدينا للحصول على إجابات سريعة وواضحة للأسئلة الشائعة."
           isLinkVisible={true}
-          linkTitle="Visit FAQ"
+          linkTitle="زيارة الأسئلة الشائعة"          
           linkURL="/fr/#FAQ"
           isArrowVisible={true}
           ><Icon name="chatBubble" />
         </ContactIconBlock>
 
         <ContactIconBlock
-          heading="Visiter notre bureau"
-          content="Nobda"
-          isAddressVisible={true}
-          addressContent="Fes, Maroc"
+        heading="زيارة مكتبنا"
+        content="نبذة"
+        isAddressVisible={true}
+        addressContent="فاس، المغرب"        
           ><Icon name="mapPin" />
         </ContactIconBlock>
 
         <ContactIconBlock
-          heading="Nous contacter par email"
-          content="Préférez le mot écrit? Envoyez-nous un courriel à"
-          isLinkVisible={true}
-          linkTitle="robotxmore@gmail.com"
-          linkURL="mailto:robotxmore@gmail.com"
+        heading="التواصل معنا عبر البريد الإلكتروني"
+        content="تفضل التواصل كتابيًا؟ أرسل لنا بريدًا إلكترونيًا على"
+        isLinkVisible={true}        
+        linkTitle="robotxmore@gmail.com"
+        linkURL="mailto:robotxmore@gmail.com"
           ><Icon name="envelopeOpen" />
         </ContactIconBlock>
       </div>

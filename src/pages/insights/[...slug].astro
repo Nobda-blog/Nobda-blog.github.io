@@ -6,13 +6,29 @@ import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
 import PrimaryCTA from "@components/ui/buttons/PrimaryCTA.astro";
 // Use `getStaticPaths` to generate static routes for generated pages on build
+
+
 export async function getStaticPaths() {
   const insightPosts = await getCollection("insights");
   return insightPosts.map((post) => ({
-    params: { slug: post.slug },
+    params: {slug: post.slug },
     props: { post },
   }));
 }
+
+
+// export async function getStaticPaths() {
+//   const insightPosts = await getCollection("insights"
+//   );
+//   return insightPosts.map((post) => {
+//     const slugWithoutLang = post.slug.replace(/^en\//, ""); // Remove the "fr/" prefix
+//     return {
+//       params: { slug: slugWithoutLang },
+//       props: { post },
+//     };
+//   });
+// }
+
 
 // Get the props for this page that define a specific insight post
 const { post } = Astro.props;

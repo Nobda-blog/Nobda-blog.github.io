@@ -9,10 +9,23 @@ import PrimaryCTA from "@components/ui/buttons/PrimaryCTA.astro";
 export async function getStaticPaths() {
   const insightPosts = await getCollection("insights");
   return insightPosts.map((post) => ({
-    params: { slug: post.slug },
+    params: {slug: post.slug },
     props: { post },
   }));
 }
+
+
+// export async function getStaticPaths() {
+//   const insightPosts = await getCollection("insights", ({ id }) => id.startsWith(""));
+//   return insightPosts.map((post) => {
+//     const slugWithoutLang = post.slug.replace(/^fr\//, ''); // Remove the "fr/" prefix
+//     return {
+//       params: { lang: 'fr', slug: slugWithoutLang },
+//       props: { post },
+//     };
+//   });
+// }
+
 
 // Get the props for this page that define a specific insight post
 const { post } = Astro.props;

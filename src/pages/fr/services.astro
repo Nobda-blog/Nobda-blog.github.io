@@ -4,22 +4,6 @@ import MainLayout from "@/layouts/MainLayout.astro";
 import MainSection from "@components/ui/blocks/MainSection.astro";
 import { SITE } from "@data/constants";
 
-interface Article {
-  isRightSection: boolean;
-  title: string;
-  subTitle: string;
-  btnExists?: boolean;
-  btnTitle?: string;
-  btnURL?: string;
-  single?: boolean;
-  img?: any;
-  imgAlt?: string;
-  imgOne?: any;
-  imgOneAlt?: string;
-  imgTwo?: any;
-  imgTwoAlt?: string;
-}
-
 const pageTitle: string = `Services | ${SITE.title}`;
 ---
 <MainLayout

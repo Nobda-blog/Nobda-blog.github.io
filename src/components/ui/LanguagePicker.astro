@@ -1,5 +1,5 @@
 ---
-import { languages } from "@utils//ui";
+import { languages } from "@utils/ui";
 import Icon from "./icons/Icon.astro";
 ---
 
@@ -42,58 +42,56 @@ import Icon from "./icons/Icon.astro";
   </div>
 </div>
 
-<!--Import the necessary Dropdown plugin-->
-<!--https://preline.co/plugins/html/dropdown.html-->
+<!-- Import the necessary Dropdown plugin -->
+<!-- https://preline.co/plugins/html/dropdown.html -->
 <script>
   import "@preline/dropdown/index.js";
 </script>
 
 <script>
-  // Type alias for supported languages
-  type TLanguage = "en" | "fr";
-  // array of supported languages
-  const languages: TLanguage[] = ["en", "fr"];
+type TLanguage = "en" | "fr" | "ar";
+const languages: TLanguage[] = ["en", "fr", "ar"];
 
-  document.addEventListener("DOMContentLoaded", function () {
-    const languageLinks = document.querySelectorAll(".hs-dropdown-menu a");
-    languageLinks.forEach((element) => {
-      const link = element as HTMLAnchorElement;
-      const lang = link
-        .getAttribute("href")
-        ?.replace("/", "")
-        .replace("/", "") as TLanguage;
+document.addEventListener("DOMContentLoaded", function () {
+  const languageLinks = document.querySelectorAll(".hs-dropdown-menu a");
+  languageLinks.forEach((element) => {
+    const link = element as HTMLAnchorElement;
+    const lang = link
+      .getAttribute("href")
+      ?.replace("/", "")
+      .replace("/", "") as TLanguage;
 
-      link.addEventListener("click", function (event) {
-        event.preventDefault();
+    link.addEventListener("click", function (event) {
+      event.preventDefault();
 
-        const url = new URL(window.location.href);
-        const pathParts = url.pathname
-          .split("/")
-          .filter((part) => part && !languages.includes(part as TLanguage));
+      const url = new URL(window.location.href);
+      const pathParts = url.pathname
+        .split("/")
+        .filter((part) => part && !languages.includes(part as TLanguage));
 
-        // Disable the selection of the same language
-        if (lang === url.pathname.split("/")[1]) return;
+      // Disable the selection of the same language
+      if (lang === url.pathname.split("/")[1]) return;
 
-        if (
-          url.pathname.includes("/post") ||
-          url.pathname.includes("/insight")
-        ) {
-          if (url.pathname.includes("en")) {
-            pathParts.unshift(lang);
-            pathParts.splice(2, 0, lang);
-          } else {
-            pathParts.unshift(lang);
-            pathParts.splice(2, 0, "en");
-          }
+      if (
+        url.pathname.includes("/post") ||
+        url.pathname.includes("/insight")
+      ) {
+        if (url.pathname.includes("en")) {
+          pathParts.unshift(lang);
+          pathParts.splice(2, 0, lang);
         } else {
-          if (lang !== "en") {
-            pathParts.unshift(lang);
-          }
+          pathParts.unshift(lang);
+          pathParts.splice(2, 0, "en");
         }
+      } else {
+        if (lang !== "en") {
+          pathParts.unshift(lang);
+        }
+      }
 
-        url.pathname = pathParts.join("/");
-        window.location.href = url.toString();
-      });
+      url.pathname = pathParts.join("/");
+      window.location.href = url.toString();
     });
   });
+});
 </script>

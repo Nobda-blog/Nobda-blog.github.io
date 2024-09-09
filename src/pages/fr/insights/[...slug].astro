@@ -198,18 +198,6 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
     }
   };
 
-  document.addEventListener("DOMContentLoaded", (event) => {
-    window.onscroll = onScroll;
-
-    // Set initial width of progress bar
-    const progressBar = document.getElementById("progress");
-    const progressBarMobile = document.getElementById("progress-mobile");
-
-    if (progressBar && progressBarMobile) {
-      progressBar.style.width = "0%";
-      progressBarMobile.style.width = "0%";
-    }
-  });
 </script>
 <script>
   import { gsap } from "gsap";

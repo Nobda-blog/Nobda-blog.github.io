@@ -4,9 +4,6 @@ import AvatarBlog from "@components/ui/avatars/AvatarBlog.astro";
 import { Image } from "astro:assets";
 import { formatDate } from "@utils/utils";
 import type { CollectionEntry } from "astro:content";
-import type { Page } from "astro";
-import type { RenderResult } from "astro:content";
-
 const { blogEntry,blogLocale = ""} = Astro.props;
 //casting of collectiontype to CollectionKey
 interface Props {

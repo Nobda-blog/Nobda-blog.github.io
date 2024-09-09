@@ -2,7 +2,6 @@
 
 import { z, defineCollection } from 'astro:content';
 import { docsSchema } from '@astrojs/starlight/schema';
-import { string } from 'astro/zod';
 
 const productsCollection = defineCollection({
   type: 'content',

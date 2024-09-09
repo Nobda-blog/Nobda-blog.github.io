@@ -1,13 +1,13 @@
 // An array of links for navigation bar
 const navBarLinks = [
-  { name: "Home", url: "/" },
-  { name: "Blog", url: "/blog" },
-  { name: "Scholarships", url: "/Scholarships" },
-  { name: "Internship Opportunities", url: "/Internship%20Opportunities"},
-  { name: "PhD Opportunities", url: "/PhD%20Opportunities" },
-  { name: "Job Opportunities", url: "/Job%20Opportunities" },
-  { name: "Services", url: "/services" },
-  { name: "Contact", url: "/contact" },
+  { name: "Home", url: "/fr/" },
+  { name: "Blog", url: "/fr/blog" },
+  { name: "Bourses", url: "/fr/Scholarships" },
+  { name: "Offres de Stages", url: "/fr/Internship%20Opportunities"},
+  { name: "Offres de Doctorat", url: "/fr/PhD%20Opportunities" },
+  { name: "Offres d'Emploi", url: "/fr/Job%20Opportunities" },
+  { name: "Services", url: "/fr/services" },
+  { name: "Contact", url: "/fr/contact" },
   
 ];
 // An array of links for footer

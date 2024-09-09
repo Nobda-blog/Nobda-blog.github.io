@@ -1,19 +1,17 @@
 ---
 // Import the necessary dependencies.
 import ContactIconBlock from "@components/ui/blocks/ContactIconBlock.astro";
-import TextInput from "@components/ui/forms/input/TextInput.astro";
 import EmailContactInput from "@components/ui/forms/input/EmailContactInput.astro";
 import PhoneInput from "@components/ui/forms/input/PhoneInput.astro";
-import TextAreaInput from "@components/ui/forms/input/TextAreaInput.astro";
 import Icon from "@components/ui/icons/Icon.astro";
 
 
 // Define the variables that will be used in this component
-const title: string = "Contact us";
+const title: string = "Contactez-nous";
 const subTitle: string =
-  "Have questions or want to discuss a project? Reach out, and let's craft the perfect solution with our tools and services.";
-const formTitle: string = "Fill in the form below";
-const formSubTitle: string = "We'll get back to you in 1-2 business days.";
+  "Vous avez des questions ou souhaitez discuter d’un projet? Communiquez avec nous et élaborons la solution parfaite grâce à nos outils et services.";
+const formTitle: string = "Remplir le formulaire ci-dessous";
+const formSubTitle: string = "Nous vous répondrons dans 1 à 2 jours ouvrables.";
 
 const baseClasses =
   "inline-flex w-full items-center justify-center gap-x-2 rounded-lg px-4 py-3 text-sm font-bold text-neutral-700 focus-visible:ring outline-none transition duration-300";
@@ -60,7 +58,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
                   name={"hs-firstname-contacts"}
                   id={"hs-firstname-contacts"}
                   class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
-                  placeholder={"First Name"}
+                  placeholder={"Prénom"}
                    x-model="firstName"
                 />
                 </div>
@@ -72,7 +70,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
                   name={"hs-firstname-contacts"}
                   id={"hs-lastname-contacts"}
                   class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
-                  placeholder={"Last Name"}
+                  placeholder={"Nom"}
                   x-model="lastName"
                 />
                 </div>
@@ -82,21 +80,22 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
             <div>
               <label for={"hs-about-contacts"} class="sr-only">{"Details"}</label>
               <input
-              id={"hs-about-contacts"}
-              name={"hs-about-contacts"}
-              class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
-              placeholder={"Details"}
-              x-model="details"
-              />
+                  type="text"
+                  name={"hs-about-contacts"}
+                  id={"hs-about-contacts"}
+                  class="block w-full rounded-lg border border-neutral-200 bg-neutral-50 px-4 py-3 text-sm text-neutral-700 placeholder:text-neutral-500 focus:border-neutral-200 focus:outline-none focus:ring focus:ring-neutral-400 disabled:pointer-events-none disabled:opacity-50 dark:border-neutral-600 dark:bg-neutral-700/30 dark:text-neutral-300 dark:placeholder:text-neutral-400 dark:focus:ring-1"
+                  placeholder={"Détails"}
+                  x-model="body"
+                />
             </div>
           </div>
 
           <div class="mt-4 grid">
             <a
-            :href="`mailto:robotxmore@gmail.com?subject=Hello%20from%20${firstName}%20${lastName}&body=${details}`"
+            :href="`mailto:robotxmore@gmail.com?subject=Hello%20from%20${firstName}%20${lastName}&body=${body}`"
             class={`${baseClasses} ${borderClasses} ${bgColorClasses} ${hoverClasses} ${fontSizeClasses} ${disabledClasses} ${ringClasses}`}
             >
-            {title}
+            {"Contacez-nous"}
             </a>
           </div>
 
@@ -112,25 +111,25 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
       <div class="divide-y divide-neutral-300 dark:divide-neutral-700">
         <ContactIconBlock
           heading="FAQ"
-          content="Explore our FAQ for quick, clear answers to common queries."
+          content="Explorez notre FAQ pour des réponses rapides et claires aux questions courantes."
           isLinkVisible={true}
           linkTitle="Visit FAQ"
-          linkURL="/#FAQ"
+          linkURL="/fr/#FAQ"
           isArrowVisible={true}
           ><Icon name="chatBubble" />
         </ContactIconBlock>
 
         <ContactIconBlock
-          heading="Visit our office"
+          heading="Visiter notre bureau"
           content="Nobda"
           isAddressVisible={true}
-          addressContent="Fes, Morocco"
+          addressContent="Fes, Maroc"
           ><Icon name="mapPin" />
         </ContactIconBlock>
 
         <ContactIconBlock
-          heading="Contact us by email"
-          content="Prefer the written word? Drop us an email at"
+          heading="Nous contacter par email"
+          content="Préférez le mot écrit? Envoyez-nous un courriel à"
           isLinkVisible={true}
           linkTitle="robotxmore@gmail.com"
           linkURL="mailto:robotxmore@gmail.com"

@@ -14,27 +14,23 @@ interface Props {
 const placeholder = Astro.currentLocale === "fr" ? "Entrez votre email" : "Enter your email";
 ---
 
-
-  <div id="mc_embed_shell">
-    <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
-<div id="mc_embed_signup">
-  <form action="https://gmail.us22.list-manage.com/subscribe/post?u=3908f2aa9c5bc4dfe72180e02&amp;id=3d61a43b95&amp;f_id=0025d5e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-          <div class="mc-field-group"><label for="mce-EMAIL">Adresse e-mail <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
-      <div id="mce-responses" class="clear foot">
-          <div class="response" id="mce-error-response" style="display: none;"></div>
-          <div class="response" id="mce-success-response" style="display: none;"></div>
-      </div>
-  <div aria-hidden="true" style="position: absolute; left: -5000px;">
-      /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
-      <input type="text" name="b_3908f2aa9c5bc4dfe72180e02_3d61a43b95" tabindex="-1" value="">
+<div
+  class="mt-4 flex flex-col items-center gap-2 rounded-lg bg-neutral-200 p-2 dark:bg-neutral-800 sm:flex-row sm:gap-3"
+>
+  <div class="w-full">
+    <label for={id} class="sr-only">{label}</label>
+    <input
+      type="text"
+      id={id}
+      name="footer-input"
+      class="block w-full rounded-lg border-transparent bg-neutral-100 px-4 py-3 text-sm text-neutral-600 focus:border-orange-400 focus:ring-orange-400 disabled:pointer-events-none disabled:opacity-50 dark:border-transparent dark:bg-neutral-700 dark:text-gray-300 dark:placeholder:text-neutral-300"
+      placeholder={placeholder}
+    />
   </div>
-      <div class="optionalParent">
-          <div class="clear foot">
-              <input type="submit" name="subscribe" id="mc-embedded-subscribe"  class="button" value="Subscribe">
-          </div>
-      </div>
-  </div>
-</form>
-</div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+  <a
+    class="inline-flex w-full items-center justify-center gap-x-2 whitespace-nowrap rounded-lg border border-transparent bg-orange-400 p-3 text-sm font-bold text-neutral-50 outline-none ring-zinc-500 transition duration-300 hover:bg-orange-500 focus-visible:ring disabled:pointer-events-none disabled:opacity-50 dark:ring-zinc-200 dark:focus:outline-none dark:focus:ring-1 sm:w-auto"
+    href="#"
+  >
+    {title}
+  </a>
 </div>

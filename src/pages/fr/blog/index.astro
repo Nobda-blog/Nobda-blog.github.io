@@ -2,7 +2,6 @@
 // Import necessary components, modules and types
 import MainLayout from "@/layouts/MainLayout.astro";
 import CardBlog from "@components/ui/cards/CardBlog.astro";
-import CardBlogRecent from "@components/ui/cards/CardBlogRecent.astro";
 import CardInsight from "@components/ui/cards/CardInsight.astro";
 import { getCollection } from "astro:content";
 import type { CollectionEntry } from "astro:content";
@@ -11,11 +10,11 @@ import { SITE } from "@data/constants";
 // Get all blogs post in English and sort them based on publish date
 
 const englishBlogEntries = await getCollection("blog", ({ id }) => {
-  return id.startsWith("en/");
+  return id.startsWith("fr/");
 });
 
 const englishInsightsEntries = await getCollection("insights", ({ id }) => {
-  return id.startsWith("en/");
+  return id.startsWith("fr/");
 });
 
 const blogPosts: CollectionEntry<"blog">[] = englishBlogEntries.sort(
@@ -31,10 +30,10 @@ const otherPosts: CollectionEntry<"blog">[] = blogPosts.slice(1);
 
 // Define variables for page content
 const title: string = "Blog";
-const subTitle: string = "Explore our blog posts";
-const secondTitle: string = "Opportunities";
+const subTitle: string = "Explorez nos articles de blog";
+const secondTitle: string = "Opportunités";
 const secondSubTitle: string =
-  "Explore our opportunities for a better future";
+  "Explorer nos possibilités pour un avenir meilleur";
 
 const pageTitle: string = `Blog | ${SITE.title}`;
 ---

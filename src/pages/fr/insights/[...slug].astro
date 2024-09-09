@@ -9,7 +9,7 @@ import PrimaryCTA from "@components/ui/buttons/PrimaryCTA.astro";
 export async function getStaticPaths() {
   const insightPosts = await getCollection("insights");
   return insightPosts.map((post) => ({
-    params: {slug: post.slug },
+    params: {lan:"fr",slug: post.slug },
     props: { post },
   }));
 }
@@ -65,7 +65,7 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
               </div>
             </div>
             <p class="text-pretty text-sm font-light text-neutral-500">
-              Table des Matières:
+              جدول المحتويات:
             </p>
             <div id="toc" class="">
               <ul
@@ -88,26 +88,26 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
           >
             <Content />
             <ul>
-            <li style={{ marginBottom: '20px', marginTop: '20px'}}><PrimaryCTA title="Lien Officiel" url={post.data.officialLink} /></li>
-            <li style={{ marginBottom: '20px' }}><PrimaryCTA title="Postulez dès Maintenant" url={post.data.applyNowLink} /></li>
-            <li style={{ marginBottom: '20px' }}><PrimaryCTA title="Postulez par l’intermédiaire de notre équipe d’assistance" url={post.data.teamApplyLink} /></li>
+            <li style={{ marginBottom: '20px', marginTop: '20px'}}><PrimaryCTA title="الرابط الرسمي" url={post.data.officialLink} /></li>
+            <li style={{ marginBottom: '20px' }}><PrimaryCTA title="قدم الآن" url={post.data.applyNowLink} /></li>
+            <li style={{ marginBottom: '20px' }}><PrimaryCTA title="قدم من خلال فريق الدعم لدينا" url={post.data.teamApplyLink} /></li>
             </ul> 
             <section
   class="mx-auto mt-10 max-w-[85rem] px-4 py-10 sm:px-6 sm:py-16 lg:px-8 lg:py-14 2xl:max-w-full"
 >
   <div class="max-w-screen-md">
-    <h3 style="text-align: center;">Vous êtes-vous abonné à la chaîne YouTube ou à la chaîne Telegram pour les bourses ?</h3>
+    <h3 style="text-align: center;">هل اشتركت في قناة يوتيوب أو قناة تليجرام الخاصة بالفرص؟</h3>
 
     <!-- Section subtitle -->
     <p
       class="mb-8 max-w-prose text-pretty font-light text-neutral-600 dark:text-neutral-400 sm:text-xl"
     >
-    Soyez le premier à connaître nos possibilités dès qu’elles sont publiées. 
+    كن أول من يعرف عن فرصنا بمجرد نشرها. 
   </p>
     <!-- Conditional rendering of PrimaryCTA component if 'btnExists' property is truthy -->
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-      <a href="https://t.me/nobdaforyou" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Join us on Telegram</a>
-      <a href="https://www.youtube.com/@RobotXMore" style="background-color: #FF0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Join us on YouTube</a>
+      <a href="https://t.me/nobdaforyou" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">انضم إلينا على Telegram</a>
+      <a href="https://www.youtube.com/@RobotXMore" style="background-color: #FF0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">انضم إلينا على YouTube</a>
     </div>
   </div>
 </section>

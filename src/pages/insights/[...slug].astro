@@ -11,7 +11,7 @@ import PrimaryCTA from "@components/ui/buttons/PrimaryCTA.astro";
 export async function getStaticPaths() {
   const insightPosts = await getCollection("insights");
   return insightPosts.map((post) => ({
-    params: {slug: post.slug },
+    params: {lan:"en",slug: post.slug },
     props: { post },
   }));
 }

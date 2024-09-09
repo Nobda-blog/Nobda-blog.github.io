@@ -10,11 +10,11 @@ import { SITE } from "@data/constants";
 // Get all blogs post in English and sort them based on publish date
 
 const englishBlogEntries = await getCollection("blog", ({ id }) => {
-  return id.startsWith("fr/Internship Opportunities");
+  return id.startsWith("ar/Internship Opportunities");
 });
 
 const englishInsightsEntries = await getCollection("insights", ({ id }) => {
-  return id.startsWith("fr/Internship Opportunities");
+  return id.startsWith("ar/Internship Opportunities");
 });
 
 const blogPosts: CollectionEntry<"blog">[] = englishBlogEntries.sort(
@@ -28,10 +28,9 @@ const insightPosts: CollectionEntry<"insights">[] = englishInsightsEntries;
 const otherPosts: CollectionEntry<"blog">[] = blogPosts.slice(1);
 
 // Define variables for page content
-const title: string = "Internship Opportunities";
+const title: string = "فرص التدريب";
 const subTitle: string =
-  "Explore our opportunities for a better future";
-
+  "استكشف فرصنا لمستقبل أفضل";
 
 const pageTitle: string = `${title} | ${SITE.title}`;
 ---

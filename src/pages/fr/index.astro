@@ -11,60 +11,60 @@ import construction from "@images/construction-image.avif";
 import tools from "@images/automated-tools.avif";
 import dashboard from "@images/dashboard-image.avif";
 
+
 ---
 
 <MainLayout>
   <!-- Add banner Here -->
   <AnnouncementBanner
     btnId="dismiss-button"
-    btnTitle=""
+    btnTitle="Explore ScrewFast on GitHub"
     url="https://github.com/mearashadowfax/ScrewFast"
   />
 
   <HeroSection
-    title=`Améliorez votre carrière avec <span
-        class="text-yellow-500 dark:text-yellow-400">Nobda</span>`
-    subTitle=" Your trusted platform for scholarships, internships, PhD programs, and job opportunities. Advance Your Career, Secure Opportunities, Achieve Global Success!"
-    primaryBtn="Explorer les Opportunités"
-    primaryBtnURL="/blog"
-    secondaryBtn="Commencer Votre Aventure"
-    secondaryBtnURL="/services"
+  title=`عزز مسيرتك المهنية مع <span class="text-yellow-500 dark:text-yellow-400">نبذة</span>`
+  subTitle="منصتك الموثوقة للمنح الدراسية، التدريبات، برامج الدكتوراه، وفرص العمل. عزز مسيرتك المهنية، واغتنم الفرص، وحقق النجاح العالمي!"
+  primaryBtn="استكشف الفرص"
+    primaryBtnURL="/fr/blog"
+    secondaryBtn="ابدأ رحلتك"
+    secondaryBtnURL="/fr/services"
     src={heroImage}
-    alt="hero image"
+    alt="نبذة"
   />
 
   <FeaturesNavs
-    title=`Trouver des opportunités n'a jamais été simple. Découvrez comment Nobda simplifie le processus de recherche jusqu'à la réussite.`
-    tabs={[
-      {
-        heading: "découvrir les opportunités",
-        content:
-          "From scholarships to internships, PhD programs, and job openings, our platform offers a wide range of opportunities that cater to various fields and career stages. Find what suits you best and take the next step in your professional journey.",
-        svg: "tools",
-        src: tools,
-        alt: "",
-        first: true,
-      },
-      {
-        heading: "Qu’offrons-nous chez nobda ?",
-        content:
-          "Nobda offre une vaste gamme de services, y compris l’accès à des possibilités d’éducation telles que des bourses, des bourses, des échanges culturels, des programmes de doctorat financés et des conférences. Il fournit également des listes d’emplois et de stages. Grâce à For9a, vous pouvez postuler à des opportunités sélectionnées avec le soutien de notre équipe. De plus, nous offrons des séances de counseling personnalisé et un test de personnalité pour aider les utilisateurs à découvrir des parcours académiques et professionnels appropriés.",
-        svg: "dashboard",
-        src: dashboard,
-        alt: "",
-        second: true,
-      },
-      {
-        heading: "Qui sommes-nous?",
-        content:
-          "Nous nous engageons à mettre en relation des personnes ambitieuses avec les meilleures opportunités dans le monde entier. Que vous cherchiez à améliorer votre 		 compétences, faites progresser votre éducation ou lancez votre carrière, nous vous fournissons les ressources dont vous avez besoin pour réussir.",
-        svg: "house",
-        src: construction,
-        alt: "",
-      },
-    ]}
+  title=`التنقل بين الفرص لم يكن أسهل من قبل. اكتشف كيف تُبسط <span class="text-yellow-500 dark:text-yellow-400">نبذة</span> العملية من البحث حتى تحقيق النجاح.`
+  tabs={[
+  {
+    heading: "اكتشاف الفرص",
+    content:
+      "من المنح الدراسية إلى التدريبات وبرامج الدكتوراه وإعلانات الوظائف، توفر منصتنا مجموعة واسعة من الفرص التي تلبي مختلف المجالات والمراحل المهنية. اكتشف ما يناسبك واتخذ الخطوة التالية في مسيرتك المهنية.",
+    svg: "tools",
+    src: tools,
+    alt: "معدات ثقيلة صفراء وسوداء على أرض عشبية بنية",
+    first: true,
+  },
+  {
+    heading: "ماذا نقدم في نبذة؟",
+    content:
+      "تقدم نبذة مجموعة واسعة من الخدمات، بما في ذلك الوصول إلى الفرص التعليمية مثل المنح الدراسية، الزمالات، التبادلات الثقافية، وبرامج الدكتوراه الممولة والمؤتمرات. كما نوفر إعلانات للوظائف والتدريبات. عبر منصتنا، يمكنك التقديم على فرص مختارة بدعم من فريقنا. بالإضافة إلى ذلك، نقدم جلسات استشارة شخصية واختبارات لاكتشاف المسارات الأكاديمية والمهنية المناسبة.",
+    svg: "dashboard",
+    src: dashboard,
+    alt: "لقطة شاشة أو تمثيل رسومي للوحة تحكم سهلة الاستخدام",
+    second: true,
+  },
+  {
+    heading: "من نحن؟",
+    content:
+      "نحن ملتزمون بربط الأفراد الطموحين بأفضل الفرص حول العالم. سواء كنت تبحث عن تحسين مهاراتك، تعزيز تعليمك، أو بدء مسيرتك المهنية، نحن نوفر لك الموارد التي تحتاجها لتحقيق النجاح.",
+    svg: "house",
+    src: construction,
+    alt: "إطار مبنى معدني رمادي بالقرب من رافعة برجية أثناء النهار",
+  },
+]}
   />
   <div id="FAQ">
-  <FAQ title="Frequently<br />asked questions" faqs={faqs} />
+  <FAQ title="الأسئلة الشائعة" faqs={faqs} />
   </div>
 </MainLayout>

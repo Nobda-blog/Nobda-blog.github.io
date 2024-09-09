@@ -4,20 +4,12 @@ import ThemeIcon from "@components/ThemeIcon.astro";
 import NavLink from "@components/ui/links/NavLink.astro";
 import enStrings from "@utils/navigation.ts";
 import frStrings from "@utils/fr/navigation.ts";
-import arStrings from "@utils/ar/navigation.ts";
 import BrandLogo from "@components/BrandLogo.astro";
 import LanguagePicker from "@components/ui/LanguagePicker.astro";
 
-const languageStrings: { [key: string]: typeof enStrings } = {
-  en: enStrings,
-  fr: frStrings,
-  ar: arStrings,
-};
-
-const locale = Astro.currentLocale ?? 'en'; // Default to 'en' if Astro.currentLocale is undefined
-const strings = languageStrings[locale] || enStrings; // Fallback to English if locale is not found
-const homeUrl = locale === 'ar' ? '/ar' : (locale === 'fr' ? '/fr' : '/');
-console.log(strings);
+// Select the correct translation based on the page's lang prop:
+const strings = Astro.currentLocale === "fr" ? frStrings : enStrings;
+const homeUrl = Astro.currentLocale === "fr" ? "/fr" : "/";
 ---
 
 <!-- Main header component -->

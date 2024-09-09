@@ -1,37 +1,37 @@
 {
-  "subTitle": "Posez-nous des questions sur notre plateforme et obtenez des réponses factuelles.",
+  "subTitle": "اسألنا عن أي شيء يتعلق بمنصتنا، واحصل على إجابات واقعية",
   "faqs": [
     {
-      "question": "Est-il obligatoire de faire une demande par l’intermédiaire de notre équipe d’assistance ?",
-      "answer": "Non, ce n’est pas obligatoire. Nous présentons diverses possibilités telles que des bourses d’études, des bourses et des stages. Vous avez le choix de postuler par vous-même ou par l’intermédiaire de notre équipe d’assistance. Cependant, le fait de postuler avec notre équipe augmente considérablement vos chances d’acceptation, car nous veillons à ce que votre candidature soit polie et compétitive."
+      "question": "هل من الضروري التقديم عبر فريق الدعم الخاص بنا؟",
+      "answer": "لا، ليس من الضروري. نحن نقدم فرصًا متعددة مثل المنح الدراسية، والزمالات، والتدريبات. لديك الخيار للتقديم بشكل مستقل أو عبر فريق الدعم الخاص بنا. ومع ذلك، فإن التقديم مع فريقنا يزيد بشكل كبير من فرص قبولك، حيث نضمن أن تكون طلباتك معدّة بشكل احترافي وتنافسي."
     },
     {
-      "question": "Ces possibilités ne s’adressent-elles qu’aux personnes originaires des pays arabes?",
-      "answer": "Non, ces possibilités sont ouvertes à tous ceux qui cherchent de grandes opportunités. Bien que notre objectif principal soit les étudiants et les individus arabes, nous accueillons des candidats de tous horizons."
+      "question": "هل هذه الفرص مخصصة فقط للأفراد من الدول العربية؟",
+      "answer": "لا، هذه الفرص متاحة لأي شخص يبحث عن فرص مميزة. رغم أن تركيزنا الأساسي هو على الطلاب والأفراد العرب، إلا أننا نرحب بالمتقدمين من جميع الخلفيات."
     },
     {
-      "question": "Votre équipe de soutien fournit-elle des conseils et du soutien pour le processus de visa, ou seulement pour la soumission de la demande?",
-      "answer": "Notre soutien ne se termine pas avec le processus de demande. Une fois que vous avez choisi de présenter votre demande par l’intermédiaire de notre équipe, nous gérons tout, de la soumission de la demande au traitement du visa et à toute autre exigence nécessaire après acceptation."
+      "question": "هل يوفر فريق الدعم الخاص بكم إرشادات ودعمًا في عملية التأشيرة، أم يقتصر على تقديم الطلب؟",
+      "answer": "دعمنا لا يتوقف عند عملية تقديم الطلب. بمجرد اختيارك للتقديم عبر فريقنا، نتولى جميع الخطوات من تقديم الطلب إلى معالجة التأشيرة وأي متطلبات أخرى بعد القبول."
     },
     {
-      "question": "Comment savoir quelles occasions me conviennent?",
-      "answer": "Notre plateforme vous propose des recommandations personnalisées en fonction de votre profil et de vos centres d’intérêt. Vous pouvez également consulter notre équipe pour vous aider à choisir les opportunités qui vous conviennent le mieux."
+      "question": "كيف أعرف الفرص المناسبة لي؟",
+      "answer": "تقدم منصتنا توصيات مخصصة بناءً على ملفك الشخصي واهتماماتك. يمكنك أيضًا استشارة فريقنا لمساعدتك في اختيار الفرص الأنسب لك."
     },
     {
-      "question": "Quels types d’opportunités sont disponibles sur Nobda?",
-      "answer": "Nous offrons un large éventail d’opportunités, y compris des bourses, des stages, des programmes de doctorat, des offres d’emploi, des échanges culturels et des conférences financées dans divers domaines."
+      "question": "ما هي أنواع الفرص المتاحة على منصة نبذة؟",
+      "answer": "نقدم مجموعة واسعة من الفرص، بما في ذلك المنح الدراسية، والتدريبات، وبرامج الدكتوراه، وإعلانات الوظائف، والتبادلات الثقافية، والمؤتمرات الممولة في مجالات مختلفة."
     },
     {
-      "question": "Comment puis-je commencer le processus de demande?",
-      "answer": "Vous pouvez commencer par créer un profil sur notre plateforme, explorer les opportunités disponibles et choisir de postuler de façon indépendante ou avec le soutien de notre équipe d’experts."
+      "question": "كيف أبدأ عملية التقديم؟",
+      "answer": "يمكنك البدء بإنشاء ملف شخصي على منصتنا، واستكشاف الفرص المتاحة، واختيار ما إذا كنت ترغب في التقديم بشكل مستقل أو بدعم من فريقنا المختص."
     },
     {
-      "question": "Quel est le coût d’utilisation de vos services de soutien?",
-      "answer": "Nos services de base sont gratuits, mais des frais peuvent être associés à un support personnalisé et à une assistance pour les demandes. Veuillez contacter notre équipe pour obtenir des détails sur les prix."
+      "question": "ما هي تكلفة استخدام خدمات الدعم الخاصة بكم؟",
+      "answer": "خدمات المنصة الأساسية مجانية، ولكن قد تكون هناك رسوم مرتبطة بالدعم الشخصي ومساعدة التقديم. يرجى الاتصال بفريقنا للحصول على تفاصيل الأسعار المحددة."
     },
     {
-      "question": "Comment puis-je suivre l’état de ma demande?",
-      "answer": "Si vous faites une demande par l’intermédiaire de notre équipe d’assistance, nous vous informons régulièrement de l’avancement de votre demande et des mesures de suivi nécessaires."
+      "question": "كيف أتابع حالة طلبي؟",
+      "answer": "إذا قدمت طلبك عبر فريق الدعم الخاص بنا، سنقدم لك تحديثات وإشعارات منتظمة حول تقدم طلبك، بما في ذلك أي إجراءات متابعة ضرورية."
     }
   ]
 }

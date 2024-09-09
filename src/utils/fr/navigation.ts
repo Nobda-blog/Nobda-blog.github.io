@@ -1,13 +1,13 @@
 // An array of links for navigation bar
 const navBarLinks = [
-  { name: "Home", url: "/fr/" },
-  { name: "Blog", url: "/fr/blog" },
-  { name: "Bourses", url: "/fr/Scholarships" },
-  { name: "Offres de Stages", url: "/fr/Internship%20Opportunities"},
-  { name: "Offres de Doctorat", url: "/fr/PhD%20Opportunities" },
-  { name: "Offres d'Emploi", url: "/fr/Job%20Opportunities" },
-  { name: "Services", url: "/fr/services" },
-  { name: "Contact", url: "/fr/contact" },
+  { name: "الرئيسية", url: "/fr/" },
+  { name: "مدونة", url: "/fr/blog" },
+  { name: "منح دراسية", url: "/fr/Scholarships" },
+  { name: "عروض التدريب", url: "/fr/Internship%20Opportunities"},
+  { name: "عروض الدكتوراه", url: "/fr/PhD%20Opportunities" },
+  { name: "فرص عمل", url: "/fr/Job%20Opportunities" },
+  { name: "خدمات", url: "/fr/services" },
+  { name: "اتصل بنا", url: "/fr/contact" },
   
 ];
 // An array of links for footer

@@ -1,5 +1,5 @@
 ---
-title: internship at King Abdullah University in Saudi Arabia 2025  
+title: Signal Processing - AI Internship  Unfolding Parsimonious Goniometric Algorithms  
 description: "A fully funded training grant at King Abdullah University in Saudi Arabia with a monthly salary of $1,000 and funding for living and travel expenses."  
 cardImage: "@/images/insights/intern1.avif"  
 cardImageAlt: ""

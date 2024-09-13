@@ -1,6 +1,6 @@
 ---
-title: Bard College Berlin Scholarship in Germany 2024  
-description: "A fully funded scholarship at Bard College Berlin in Germany for all available majors, covering all expenses including accommodation and transportation, without requiring a language certificate."  
+title: Complex Event Processing in an AI System for Healthcare  
+description: "This scholarship is offered by Eva Sophie Seguin in Germany and is open to international students. This scholarship is covered by the full cost of on-campus room and board. "  
 cardImage: "@/images/insights/scholarship1.avif"  
 cardImageAlt: ""
 officialLink: "https://tools.bard.edu/wwwmedia/files/5454270/16/ES_Seguin%20Scholarship.pdf"
@@ -9,16 +9,20 @@ teamApplyLink: "/contact"
 ---
 This scholarship is offered by Eva Sophie Seguin in Germany and is open to international students. The scholarship covers the full cost of room and board on campus.
 
-## About the Scholarship
+## About the scholarship
 
-Bard College Berlin takes the lead in educating students through the Eva Sophie Seguin Scholarships for the academic year 2022. This program will provide qualified candidates with great benefits that will help them pursue a bachelor's program at the college. Bard College Berlin is a private, non-profit institution of higher education in Berlin, Germany. It was founded in 1999 with the aim of bringing small-group seminars and interdisciplinary liberal arts education back to the highest level of European education. It is a private, non-profit institution of higher education.  
-**Why choose Bard College Berlin?** The student body at Bard is highly international and diverse in geography, culture, classrooms, and economic background. Students interact with faculty members in small seminars conducted in English. Bard places great importance on critical thinking, intellectual ambition, and creativity, and the connection between the classroom and the rest of life is a central feature.
+Bard College Berlin is taking the lead in educating students with the Eva Sophie Seguin Scholarships for the academic year 2025. This program will provide qualified candidates with great privileges that will help them pursue an undergraduate program at the college. Bard College Berlin is a private, non-profit institution of higher education in Berlin, Germany. Founded in 1999 with the aim of re-teaching small group seminars and interdisciplinary undergraduate education in liberal arts to the highest standard of European education, Bard College Berlin is a private, not-for-profit institution of higher education. Why choose Bard College Berlin? The student body at Bard is highly international and diverse in geography, culture, classroom and economic background. Students interact with faculty in small seminars in English. Bard attaches great importance to critical thinking, intellectual ambition, and creativity, and the relationship between the class and the rest of life is a central feature.
 
-## Country  
-Germany
+## Admission Criteria for the Bard College Berlin Scholarship
 
-## City  
-Berlin
+All Nationalities
+Apply for admission to one of our undergraduate programs
+Be at the top of their list of applicants
+Proof of financial need
+
+## Benefits of Bard College Berlin Scholarship
+Up to the full cost of room and on-campus dining; renewable for up to 4 years,
+The room and board fee waiver is renewable for up to 4 years based on the recipient maintaining an average B or better, and accommodation in on-campus housing
 
 ## Eligibility Criteria for the Bard College Berlin Scholarship
 

@@ -1,56 +1,29 @@
 ---
-title: Lausanne University Scholarship to Study in Switzerland 2025
-description: "Fully funded scholarship and monthly salary at the University of Lausanne of Switzerland and funding for all expenses of study, living and travel to Switzerland."
-cardImage: "@/images/insights/scholarship3.avif"  
+title: UNSW Scholarships in Australia 2024
+description: "UNSW Scholarships in Australia 2024 Fully Funded The University of New South Wales Scholarships in Australia invites international applicants to apply to the university. The scholarship will cover students' tuition fees as well as a stipend of $10,000 – $20,000."
+cardImage: "@/images/insights/achol3.avif"  
 cardImageAlt: ""
-officialLink: "https://www.unil.ch/international/en/home/menuinst/etudiants-internationaux/etudiantes-internationaux-reguliers/bourses-master-de-lunil.html#standard_109"
-applyNowLink: "https://www.unil.ch/immat/home/menuinst/futurs-etudiants/master/avec-un-bachelor-etranger/sinscrire-en-ligne-et-prepar.html"
+officialLink: "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login"
+applyNowLink: "https://scholarships.online.unsw.edu.au/scholarship/sc_search.login"
 teamApplyLink: "/contact"
 ---
-Are you dreaming of studying in a country with a global educational reputation? Lausanne University Scholarship offers you an exceptional opportunity to study Masters in Switzerland for 2025. Known for its high quality education and excellent quality of life, Switzerland offers full financial support so you can focus on your studies.
+## About the scholarship
+The University of New South Wales, also known as UNSW Sydney, is a public research university based in Sydney, New South Wales, Australia. She is one of the founding members of the Group of Eight, an alliance of research-intensive Australian universities. The University of New South Wales at Sydney is a world-leading education and research centre  recognised by employers and organisations around the world. Ranked among the top 70 universities worldwide, the University of New South Wales is dedicated to shaping forward-thinking graduates who have a positive impact on the world. With proper preparation and dedication, it is possible to achieve admission to this prestigious university. In order to enter the University of New South Wales, you will need a strong set of academic qualifications, including a good GPA and strong performance in HSC or equivalent.
 
-## University of Lausanne scholarship details
-The Lausanne University Scholarship is a great opportunity for international students seeking to complete their postgraduate studies. The grant includes a full exemption from tuition fees, plus a monthly allowance to help cover living expenses.
+## Country
 
-## Areas of study
-Lausanne University offers various master's programmes, including:
-- • Master of Science in Physical Education
-- • Master's Degree in Medicine
-- • Master of Law
-- • Master's degree in Health Sciences
+Australia / Australia
 
-In addition to exempting tuition fees, the scholarship offers many benefits:
+## City
 
-- • Financial support: 1,600 Swiss francs per month to cover living expenses.
-- • Waiver of registration fees.
-- • High-quality education from a prestigious university.
-- • An opportunity to learn about Swiss culture.
-- • Professional development through academic events.
+Sydney / Sydney
 
-## Eligibility Criteria
-**To apply for the grant, there are some basic requirements:**
+## Scholarship Admission Criteria
 
-- • You must be an international student.
-- • Get a recognized Calios degree.
-- • Achieve the level of B2 in French or C1 in English.
-- • Apply for CHF 200.
-- • Good health and meet all required conditions.
+To be eligible for UNSW scholarships for international students, applicants are expected to meet the following conditions:
 
-## Required Documents
-**Applicants must process the following documents:**
-
-- • Signed application form.
-- • Passport-sized photo.
-- • Biography.
-- • Academic texts.
-- • GCSEs.
-- • Cover letter.
-- • Two letters of recommendation.
-- • Copy of passport or identity.
-
-## Deadline
-- The application date is 1 November 2024, so make sure all documents are processed in advance.
-
-## How to apply
-- Please fill in the online application form and provide all the data required strictly to be eligible for the grant.
-- Prepare for a bright academic future with the Lausanne University Scholarship in Switzerland!
+Applicants must be international students
+Students wishing to conduct research studies after graduation
+Applicants must be prepared to enroll in a full-time degree program
+Applicants must have a bachelor's degree
+Applicants must have proof of English language proficiency

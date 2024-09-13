@@ -1,58 +1,58 @@
 ---
-title: Technician (M/F) in extraction and analysis of phytohormones and vitamins in algae extracts
-description: "Perform extractions and analyses of phytohormones and vitamins in algae extracts by LC/MSMS. This mission will be carried out as part of a MICA (Algaebiosteam) project. The algae extracts will therefore be provided by the project coordinator. Develop and validate the LC/MSMS method for routine analyses of algae extracts"
-cardImage: "@/images/insights/job2.avif"  
+title: فني/ة (M/F) في استخلاص وتحليل الفيتوهورمونات والفيتامينات من مستخلصات الطحالب
+description: "تنفيذ عمليات استخلاص وتحليل الفيتوهورمونات والفيتامينات من مستخلصات الطحالب باستخدام LC/MSMS. سيتم تنفيذ هذه المهمة كجزء من مشروع MICA (Algaebiosteam). سيتم توفير مستخلصات الطحالب من قبل منسق المشروع. تطوير وتأكيد طريقة LC/MSMS للتحليلات الروتينية لمستخلصات الطحالب."
+cardImage: "@/images/insights/job2.avif"
 cardImageAlt: ""
 officialLink: "https://www.ecpm.unistra.fr"
 applyNowLink: "https://www.ecpm.unistra.fr"
 teamApplyLink: "/contact"
 ---
 
-**Application Deadline**: Tuesday, September 17, 2024, 23:59 Paris time.
+**آخر موعد لتقديم الطلبات**: الثلاثاء، 17 سبتمبر 2024، الساعة 23:59 بتوقيت باريس.
 
-## General Information
+## المعلومات العامة
 
-- **Job Title**: Assistant Engineer in Formulation and Evaluation (M/F)
-- **Reference**: UMR8258-CARROQ-001
-- **Number of Positions**: 1
-- **Workplace**: Paris 06
-- **Posting Date**: Tuesday, August 27, 2024
-- **Contract Type**: Technical/Administrative Fixed-Term Contract
-- **Contract Duration**: 12 months
-- **Expected Start Date**: October 1, 2024
-- **Workload**: Full-time
-- **Salary**: Between €2,325 and €2,630 gross/month, depending on experience
-- **Desired Education Level**: Level 5 - (Bac+2)
-- **Desired Experience**: 5 to 10 years
-- **Scientific Domain**: Chemical Sciences and Material Sciences
-- **Job Category**: Assistant Engineer in Material Science / Characterization
+- **المسمى الوظيفي**: مهندس مساعد في التحضير والتقييم (M/F)
+- **المرجع**: UMR8258-CARROQ-001
+- **عدد الوظائف**: 1
+- **مكان العمل**: باريس 06
+- **تاريخ النشر**: الثلاثاء، 27 أغسطس 2024
+- **نوع العقد**: عقد محدد المدة تقني/إداري
+- **مدة العقد**: 12 شهرًا
+- **تاريخ البدء المتوقع**: 1 أكتوبر 2024
+- **نسبة العمل**: دوام كامل
+- **الراتب**: بين 2,325 و 2,630 يورو إجمالي/شهريًا، حسب الخبرة
+- **المستوى التعليمي المطلوب**: المستوى 5 - (بكالوريا + 2)
+- **الخبرة المطلوبة**: من 5 إلى 10 سنوات
+- **المجال العلمي**: العلوم الكيميائية وعلوم المواد
+- **فئة الوظيفة**: مهندس مساعد في علوم المواد / التوصيف
 
-## Missions
+## المهام
 
-The main objective of the work will be to prepare, optimize, and characterize nanoemulsions for the delivery of small chemical molecules for electron paramagnetic resonance (EPR) spectroscopy and imaging. The nano-formulated molecules will then be evaluated in vivo for their potential to detect oxidative stress in collaboration with the LCBPT laboratory - CNRS UMR 8601 (Laboratory of Pharmacological and Toxicological Chemistry and Biochemistry) as part of a pre-maturation project funded by CNRS Innovation.
+الهدف الرئيسي من العمل هو تحضير، تحسين، وتوصيف نانومستحلبات لتوصيل الجزيئات الكيميائية الصغيرة لاستخدامها في التحليل الطيفي بالرنين الإلكتروني البارامغناطيسي (EPR) والتصوير. سيتم تقييم الجزيئات النانوية في الجسم الحي لاختبار قدرتها على اكتشاف الإجهاد التأكسدي بالتعاون مع مختبر LCBPT - CNRS UMR 8601 كجزء من مشروع ما قبل النضوج الممول من CNRS Innovation.
 
-## Activities
+## الأنشطة
 
-- Optimize and adapt nanoemulsions to the molecules synthesized by LCBPT
-- Characterize the obtained formulations (DLS, zeta potential, etc.)
-- Participate in cell culture evaluation
-- Participate in the in vivo evaluation of selected molecules
-- Write and maintain protocols
-- Communicate the results obtained
+- تحسين وتكييف نانومستحلبات للجزيئات التي يتم تصنيعها بواسطة LCBPT
+- توصيف التركيبات المحصل عليها (DLS، جهد زيتا، إلخ.)
+- المشاركة في تقييم زراعة الخلايا
+- المشاركة في تقييم الجزيئات المختارة في الجسم الحي
+- كتابة والحفاظ على البروتوكولات
+- التواصل حول النتائج المحصل عليها
 
-## Skills
+## المهارات
 
-- Formulation and physico-chemical characterization
-- Basic knowledge of cell culture
-- Experience (level 2) in IV administration in rodents would be highly appreciated
-- Precision, autonomy, and organization in task management
-- Strong communication skills and ability to work in a multidisciplinary scientific team
+- التحضير والتوصيف الفيزيائي والكيميائي
+- معرفة أساسية بزراعة الخلايا
+- خبرة (المستوى 2) في الإدارة الوريدية للقوارض ستكون ميزة
+- الدقة والاستقلالية والتنظيم في إدارة المهام
+- مهارات تواصل قوية وقدرة على العمل في فريق علمي متعدد التخصصات
 
-## Work Context
+## سياق العمل
 
-The **Unit of Chemical and Biological Technologies for Health (UTCBS)** is an interdisciplinary joint research unit supported by the University of Paris, Inserm (unit 1267), and CNRS (UMR 8258). The UTCBS team focuses on innovative health technologies, particularly the development of new pharmaceutical formulations and the search for new diagnostic agents. Within UTCBS, the recruited engineer will work under the direction of Dr. Caroline Roques on the formulation of innovative probes for detecting oxidative stress by EPR. This project, resulting from a collaboration with Prof. Fabienne Peyrot (LCBPT laboratory), has led to a patent filing and is supported by pre-maturation programs from Paris Cité University and CNRS Innovation.
+**وحدة التقنيات الكيميائية والبيولوجية للصحة (UTCBS)** هي وحدة بحثية مشتركة متعددة التخصصات بدعم من جامعة باريس، Inserm (الوحدة 1267) وCNRS (UMR 8258). يركز فريق UTCBS على تقنيات الصحة المبتكرة، خاصة تطوير تركيبات دوائية جديدة والبحث عن عوامل تشخيصية جديدة. سيعمل المهندس المعين تحت إشراف الدكتورة كارولين روك على تحضير مسبارات مبتكرة لاكتشاف الإجهاد التأكسدي باستخدام EPR. أدى هذا المشروع، الذي نشأ عن تعاون مع الأستاذة فابيين بيروت (مختبر LCBPT)، إلى تقديم براءة اختراع وهو مدعوم من برامج ما قبل النضوج من جامعة باريس سيت وCNRS Innovation.
 
-## Constraints and Risks
+## القيود والمخاطر
 
-- Confined magnetic field (EPR equipment)
-- Remote work is not compatible with the proposed position
+- مجال مغناطيسي محصور (معدات EPR)
+- العمل عن بعد غير متوافق مع الوظيفة المقترحة

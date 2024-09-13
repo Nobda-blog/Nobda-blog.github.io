@@ -1,41 +1,43 @@
 ---
-title: Internship Master 2 inorganic chemistry (M/F)
-description: "Research internship Master 2 Zeolites are inorganic, microporous and crystalline materials generally composed of silicon and aluminum oxides. They can be functionalized by the addition of heteroelements, according to different methodologies. [ , ] The resulting zeolite materials have many industrial applications in catalysis, separation and adsorption processes. Oxidation reactions represent an important part of the production and decontamination processes for which heterogeneous catalysts are widely used. The project we propose aims at the synthesis, functionalization and characterization of zeolite materials with desirable properties for catalysis. These materials will be functionalized either by isomorphic substitution (insertion of heteroelement in tetrahedral sites) or by cation exchange (replacement of compensation cations, see Figure). The recruited intern will play an active role in the different aspects of the research project including the synthesis of organic structurings, the preparation of zeolites by hydrothermal means, the post-functionalization steps and the characterization of materials (XDR, SEM/EDX, TEM, nitrogen adsorption, solid state NMR). Catalytic testing will be performed collaboratively. "  
-cardImage: "@/images/insights/imter2.avif"  
+title: تدريب ماستر 2 في الكيمياء غير العضوية (M/F)
+description: "تدريب بحثي لماستر 2: الزيوليت هي مواد غير عضوية، ميكروية ومسامية وبلورية، تتكون عادةً من أكاسيد السيليكون والألمنيوم. يمكن تعديل هذه المواد بإضافة عناصر أخرى باستخدام منهجيات مختلفة. تتمتع المواد الزيوليتية الناتجة بالعديد من التطبيقات الصناعية في العمليات التحفيزية، والفصل، والامتزاز. تمثل تفاعلات الأكسدة جزءًا مهمًا من عمليات الإنتاج وإزالة التلوث التي تُستخدم فيها المحفزات غير المتجانسة على نطاق واسع. يهدف المشروع الذي نقترحه إلى تصنيع وتعديل وتوصيف المواد الزيوليتية بخصائص مرغوبة للتحفيز. سيتم تعديل هذه المواد إما عن طريق الاستبدال المتساوي (إدخال عنصر آخر في المواقع الرباعية) أو عن طريق تبادل الكاتيونات (استبدال الكاتيونات التعويضية). سيلعب المتدرب دورًا نشطًا في مختلف جوانب المشروع البحثي بما في ذلك تصنيع الهياكل العضوية، وتحضير الزيوليت بالوسائل المائية الحرارية، وخطوات ما بعد التعديل، وتوصيف المواد (XRD، SEM/EDX، TEM، امتزاز النيتروجين، NMR للحالة الصلبة). سيتم إجراء الاختبارات التحفيزية بشكل تعاوني."
+cardImage: "@/images/insights/imter2.avif"
 cardImageAlt: ""
 officialLink: "https://mailto:sio@uha.fr"
 applyNowLink: "https://mailto:sio@uha.fr"
 teamApplyLink: "/contact"
 ---
-## TDescription of the employer
 
-Institute of Materials Science of Mulhouse (IS2M) / UMR 7361
-Scientific Axis: Materials with Controlled Porosity (MPC)
-University of Haute Alsace (Mulhouse)
-This project benefits from a HiFunMat starting grant (https://hifunmat.unistra.fr/). The IS2M analytical platform provides the appropriate equipment and the trainee will be trained in the use of some of the devices. The intern will participate in the analysis, interpretation and presentation of results at meetings. Thus, he/she will benefit from a solid training in the field of inorganic chemistry, experience in a research laboratory and will be able to develop transversal skills useful in the perspective of a scientific career. The laboratory is located on the Illberg campus of the University of Haute-Alsace, 2 km from Mulhouse city centre (served by the tram).
-## Description of the profile sought
+## وصف صاحب العمل
 
-Student (M/F) enrolled in a chemistry course at Master 2 level in a higher education institution in a member country of the European Union (applications that do not meet this criterion will not be considered).
-The candidate (M/F) must be motivated, interested in research, willing to learn to use new techniques, ability to analyze results, think and organize work.
+معهد علوم المواد في مولهاوس (IS2M) / UMR 7361  
+المحور العلمي: المواد ذات المسامية المتحكم بها (MPC)  
+جامعة هوت الألزاس (مولهاوس)  
+يستفيد هذا المشروع من منحة HiFunMat البدائية (https://hifunmat.unistra.fr/). يوفر المنصة التحليلية التابعة لـ IS2M المعدات المناسبة، وسيتم تدريب المتدرب على استخدام بعض الأجهزة. سيشارك المتدرب في تحليل وتفسير وعرض النتائج في الاجتماعات. سيوفر هذا تدريبًا قويًا في مجال الكيمياء غير العضوية، وتجربة في مختبر بحثي، وتطوير مهارات متعددة التخصصات مفيدة في مسار مهني علمي. يقع المختبر في حرم إيلبرج التابع لجامعة هوت الألزاس، على بعد 2 كم من وسط مدينة مولهاوس (يخدمه الترام).
 
-## Special conditions of practice
+## وصف الملف الشخصي المطلوب
 
-Remuneration: bonus at the hourly rate in force (€4.35 per hour in 2024 or approximately €659.76 net/month).
+طالب (M/F) مسجل في برنامج ماستر 2 في الكيمياء في مؤسسة تعليم عالي في دولة عضو في الاتحاد الأوروبي (لن يتم النظر في الطلبات التي لا تفي بهذا الشرط).  
+يجب أن يكون المرشح (M/F) متحمسًا، مهتمًا بالبحث، وعلى استعداد لتعلم تقنيات جديدة، وقادرًا على تحليل النتائج، والتفكير النقدي، وتنظيم العمل.
 
-## Languages
+## الشروط الخاصة بالممارسة
 
-French, English
+التعويض: مكافأة بالساعة وفقًا للسعر الساري (€4.35 في الساعة في عام 2024 أو ما يقرب من €659.76 صافي/شهريًا).
 
-## General information
+## اللغات
 
-Job title: Research internship Master 2 inorganic chemistry (M/F)
-Reference: UMR7361-JEAPAI-003
-Place of work: MULHOUSE
-Country: France
-Date of publication: Friday, September 13, 2024
-Type of contract: Internship
-agreement Duration of contract: 6 months
-Expected date of employment: February 3, 2025
-Proportion of work: Full-time
-Level of diploma prepared: Level 7 - (Bac+5 and above)
-BAP: Chemical Sciences and Materials Sciences
+الفرنسية، الإنجليزية
+
+## المعلومات العامة
+
+**عنوان الوظيفة**: تدريب بحثي لماستر 2 في الكيمياء غير العضوية (M/F)  
+**المرجع**: UMR7361-JEAPAI-003  
+**مكان العمل**: مولهاوس  
+**الدولة**: فرنسا  
+**تاريخ النشر**: الجمعة، 13 سبتمبر 2024  
+**نوع العقد**: اتفاقية تدريب  
+**مدة العقد**: 6 أشهر  
+**تاريخ البدء المتوقع**: 3 فبراير 2025  
+**نسبة العمل**: دوام كامل  
+**مستوى الشهادة المُحضّرة**: المستوى 7 - (ماجستير أو ما يعادله)  
+**BAP**: علوم الكيمياء وعلوم المواد

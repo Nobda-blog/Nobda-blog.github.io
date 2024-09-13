@@ -1,36 +1,46 @@
 ---
-title: Internship - Development of a Deep Learning Calibration Method of an Adc M/F
-description: "In our laboratory of 15 people, who work on the development of image sensors and the integration of algorithms, your internship will consist of developing a method for compensating for physical non-idealities (noise, dispersions, nonlinearities, etc.) of an ADC (analog-to-digital converter). The investigated method will be based on advanced Deep Learning techniques, and will have to respect the constraints of silicon integration."  
-cardImage: "@/images/insights/inter4.avif"  
+title: تدريب - تطوير طريقة معايرة باستخدام التعلم العميق لمحول ADC (M/F)
+description: "في مختبرنا الذي يضم 15 شخصًا يعملون على تطوير أجهزة استشعار الصور ودمج الخوارزميات، سيشمل تدريبك تطوير طريقة لتعويض العيوب الفيزيائية (الضوضاء، التشتتات، اللاتخطيات، إلخ) لمحول ADC (محول من التناظري إلى الرقمي). ستعتمد الطريقة على تقنيات التعلم العميق المتقدمة، ويجب أن تلتزم بقيود التكامل في السيليكون."
+cardImage: "@/images/insights/inter4.avif"
 cardImageAlt: ""
 officialLink: "https://mailto:dpd@cea.fr"
 applyNowLink: "https://mailto:dpd@cea.fr"
 teamApplyLink: "/contact"
 ---
-## The main stages of this internship will focus on:
 
-- Investigate the different strategies for correcting the state of the art (foreground and background calibration), and select the most relevant strategies with regard to the project specifications;
-- Analyze the different sources of error associated with the different elements that make up the analog-to-digital converter;
-- Produce a model of the converter integrating the different sources of non-idealities, and the correction module by associated learning;
-- Evaluate the different remediation strategies and the associated implementation constraints by high-level simulation.
-The work will take place mainly on PC, in the L3I premises, using the classic Deep Learning framework (mainly Keras/Tensorflow).
+## المراحل الرئيسية لهذا التدريب ستركز على:
 
-## Cover letter required
+- دراسة الاستراتيجيات المختلفة لتصحيح الحالة الفنية (المعايرة الأمامية والخلفية)، واختيار الاستراتيجيات الأكثر ملاءمة مع متطلبات المشروع؛
+- تحليل مصادر الخطأ المختلفة المرتبطة بالعناصر المختلفة التي تشكل المحول التناظري إلى الرقمي؛
+- إنتاج نموذج للمحول يدمج مصادر العيوب المختلفة ووحدة التصحيح من خلال التعلم المرتبط؛
+- تقييم استراتيجيات التصحيح المختلفة والقيود المرتبطة بالتنفيذ من خلال محاكاة عالية المستوى.
+سيتم العمل بشكل رئيسي على جهاز الحاسوب، في مقر L3I، باستخدام إطار عمل التعلم العميق الكلاسيكي (أساساً Keras/Tensorflow).
 
-No
+## رسالة تحفيز مطلوبة
 
-## Start date
+لا
 
-Sep 11, 2024
+## تاريخ البدء
 
-## Experiment
+11 سبتمبر 2024
+
+## الخبرة
 
 Sup_7
 
-## Profile
+## الملف الشخصي
 
-You are at the end of your engineering school or Master 2 studies, in the field of machine learning, with a penchant for electronics. You have at least a first experience in the field of Deep Learning (through an academic or personal project). This course will allow you to put your theoretical knowledge to good use and confront you with a concrete problem of practical implementation. We expect the candidate to demonstrate listening skills, pugnacity and creativity. Still have a doubt? We offer you: A unique research framework, dedicated to ambitious projects to address major societal issues, A high-tech working environment and research equipment at the cutting edge of innovation, A campus in the heart of the metropolis, easily accessible by soft mobility, A recognized work-life balance, A contribution to the costs of catering, transport and accommodation (under conditions), Caring, passionate supervisors who want to transmit A diversity and inclusion policy, Real career opportunities at the end of your internship. All our positions are open to people with disabilities. The CEA's Disability Mission supports you and implements the necessary adjustments to meet your specific needs
+أنت في نهاية دراستك في مدرسة هندسية أو ماستر 2، في مجال تعلم الآلة، مع ميل للإلكترونيات. لديك على الأقل تجربة أولية في مجال التعلم العميق (من خلال مشروع أكاديمي أو شخصي). سيسمح لك هذا التدريب بتطبيق معرفتك النظرية على مشكلة ملموسة تتعلق بالتنفيذ العملي. نتوقع من المرشح أن يظهر مهارات الاستماع، والمثابرة، والإبداع. لا تزال مترددًا؟ نقدم لك:  
+- إطار بحثي فريد مخصص لمشاريع طموحة تعالج قضايا مجتمعية كبرى،  
+- بيئة عمل وتقنيات بحث متقدمة للغاية،  
+- حرم جامعي في قلب المدينة الكبرى، يمكن الوصول إليه بسهولة عبر وسائل النقل الصديقة للبيئة،  
+- توازن معترف به بين العمل والحياة الشخصية،  
+- مساهمة في تكاليف الطعام، والنقل، والإقامة (تحت شروط)،  
+- مشرفون متفانون وشغوفون يرغبون في نقل المعرفة،  
+- سياسة التنوع والشمول،  
+- فرص حقيقية للتوظيف في نهاية التدريب.  
+جميع وظائفنا مفتوحة للأشخاص ذوي الإعاقة. تدعمك مهمة الإعاقة التابعة لـ CEA وتنفذ التعديلات اللازمة لتلبية احتياجاتك الخاصة.
 
-## Function
+## الوظيفة
 
 Informatique_syst_info

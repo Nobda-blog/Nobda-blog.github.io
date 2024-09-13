@@ -1,30 +1,29 @@
 ---
-title: Complex Event Processing in an AI System for Healthcare 
-description: "The PhD will take place in the European THCS “Transforming Health and Care Systems” project RENEW which means “Reshaping data-driven smart healthcare to optimize resources and personalize care for hypertensive patients through AI and digital twin models”. The RENEW project has started in June 2024 for 3 years long. It involves 9 partners from Romania, Suede, Switzerland, Poland, Italy, Slovenia and France. The LS2N partner leads the work package about the smart data processing, the personal profiles and digital twin design."  
-cardImage: "@/images/insights/phd1.avif"  
+title: معالجة الأحداث المعقدة في نظام ذكاء اصطناعي للرعاية الصحية
+description: "سيتم إجراء الدكتوراه في إطار مشروع THCS الأوروبي “Transforming Health and Care Systems” تحت عنوان RENEW، الذي يعني 'إعادة تشكيل الرعاية الصحية الذكية المدفوعة بالبيانات لتحسين الموارد وتخصيص الرعاية للمرضى الذين يعانون من ارتفاع ضغط الدم من خلال نماذج الذكاء الاصطناعي والتوأمة الرقمية'. بدأ مشروع RENEW في يونيو 2024 لمدة 3 سنوات، ويشمل 9 شركاء من رومانيا، السويد، سويسرا، بولندا، إيطاليا، سلوفينيا وفرنسا. يقود الشريك LS2N حزمة العمل المتعلقة بمعالجة البيانات الذكية، وتصميم الملفات الشخصية الشخصية والتوأم الرقمي."
+cardImage: "@/images/insights/phd1.avif"
 cardImageAlt: ""
 officialLink: "https://mailto:fabien.picarougne@univ-nantes.fr"
 applyNowLink: "https://mailto:vincent.ricordel@univ-nantes.fr"
 teamApplyLink: "/contact"
 ---
-Catégorie : Doctorant
 
-PhD Title : Complex Event Processing in an AI System for Healthcare
-Keywords : Complex Event Processing, AI System, Healthcare Data, Digital Twin, Data Stream Processing, Root Cause Analysis, Counterfactual Analysis
-Laboratory & Teams : LS2N Nantes, IPI & Duke teams
-Contacts : [fabien.picarougne, guillaume.raschia, vincent.ricordel]@univ-nantes.fr
-Context : European THCS “Transforming Health and Care Systems” project RENEW.
+**الفئة**: دكتوراه
 
+**عنوان الدكتوراه**: معالجة الأحداث المعقدة في نظام ذكاء اصطناعي للرعاية الصحية  
+**الكلمات المفتاحية**: معالجة الأحداث المعقدة، نظام الذكاء الاصطناعي، بيانات الرعاية الصحية، التوأم الرقمي، معالجة تدفق البيانات، تحليل السبب الجذري، التحليل الافتراضي  
+**المختبر والفرق**: LS2N Nantes، فرق IPI وDuke  
+**جهات الاتصال**: [fabien.picarougne, guillaume.raschia, vincent.ricordel]@univ-nantes.fr  
+**السياق**: مشروع THCS الأوروبي "تحويل أنظمة الصحة والرعاية" RENEW.
 
+## الأهداف
 
-## Objectives
+تتطلب الصحة والرفاهية في المنزل مراقبة في الوقت الفعلي لمجموعة من القياسات والأحداث الخام على نطاق واسع وبشكل متكرر، تأتي من الأفراد وبيئاتهم. بالتركيز فقط على المرضى الذين يعانون من ارتفاع ضغط الدم، من المعروف أن نمط الحياة (النظام الغذائي، النشاط البدني، التبغ، الكحول، زيادة الوزن) يلعب دورًا حاسمًا في تقييم المخاطر.
 
-Health and well-being at home require to monitor in near-real time a bunch of measures and raw events at a large scale and a high frequency, coming both from the individuals and their environment. Focusing on hypertensive patients only, it is well-known that lifestyle (diet, physical activity, tobacco, alcohol, overweight) plays a crucial role in risk assessment.
+لذلك، تهدف الدكتوراه إلى بناء وصيانة وتحليل التوائم الرقمية للرعاية الصحية. كجزء من مشروع RENEW، الهدف النهائي هو تقديم ملاحظات للأفراد حول ممارساتهم ونمط حياتهم بناءً على نماذج الذكاء الاصطناعي ومعالجة تدفق البيانات. يجب أن تكون المؤسسات الصحية قادرة على إجراء تحليلات في الوقت الفعلي واستخلاص رؤى من النماذج الشخصية لمجموعة كبيرة من المرضى. لذلك، من الضروري تطوير بنية عبر الإنترنت قادرة على جمع وإعداد وتحليل بيانات الرعاية الصحية من مصادر متعددة بشكل مستمر.
 
-Thus, the PhD aims at building, maintaining and analyzing digital twins for healthcare [1]. As part of the RENEW project, the ultimate goal is to give feedback to individuals on their practices and lifestyle based on IA models [2] and stream processing [3,4]. Also, health institutions should be able to conduct real-time analyzes and gain insights from personal models of a large cohort of patients. All in all, it is then necessary to develop an online architecture capable of continuously collecting, preparing and analyzing health and care data from multiple sources.
+## الإرشادات
 
-## Guidelines
+يجب أن يأخذ خط العمل في الدكتوراه بعين الاعتبار أن كل مريض يقوم طواعية بتتبع الذات باستخدام تقنيات تتبع النشاط والأجهزة القابلة للارتداء. سيتم تجميع الإشارات من معدل منخفض إلى مرتفع محليًا وتحديثها عبر الإنترنت باستخدام التعلم الآلي غير الخاضع للإشراف لرسم صورة لتوأم رقمي شخصي مع الحفاظ على خصوصية الأفراد. يمكن فحص هذه النماذج الأولية بشكل مستمر لاستخراج "الأنماط" المفيدة، مما يثير القضية العلمية المتمثلة في تطبيق معالجة الأحداث المعقدة على الفضاء الكامن للنماذج.
 
-The PhD line of work should consider that each patient willingly operates self-quantification with activity tracking technologies and wearable devices [5]. The many low-to-high rate signals would be aggregated locally and updated online using unsupervised Machine Learning [6] to draw a sketch of a personal digital twin, still preserving privacy [7] of the individuals. Those raw models may be continuously scanned to extract useful “patterns” such that it raises the scientific issue of applying complex event processing on the latent space of the models.
-
-At a larger scale, personal model and patterns of each patient would be streamed to a central node where the all collection of digital twins is expected to consistently describe the population of individuals with interesting properties. Hence, it provides the material to conduct online predictive analyzes regarding the health of the population. It also allows for counterfactual scenarios, root cause analyzes and prescriptions [8] back to each patient.
+على نطاق أوسع، سيتم بث النموذج الشخصي وأنماط كل مريض إلى عقدة مركزية، حيث من المتوقع أن تصف مجموعة التوائم الرقمية السكانية خصائص مهمة. وبالتالي، توفر هذه البيانات مادة لإجراء تحليلات تنبؤية عبر الإنترنت حول صحة السكان، كما تتيح سيناريوهات افتراضية وتحليلات الأسباب الجذرية وتقديم الوصفات العلاجية لكل مريض.

@@ -1,44 +1,48 @@
 ---
-title: Signal Processing - AI Internship  Unfolding Parsimonious Goniometric Algorithms  
-description: "A fully funded training grant at King Abdullah University in Saudi Arabia with a monthly salary of $1,000 and funding for living and travel expenses."  
+title: معالجة الإشارات - تدريب داخلي في الذكاء الاصطناعي لتطوير خوارزميات الجونيوترية البسيطة  
+description: "منحة تدريب ممولة بالكامل في جامعة الملك عبد الله في المملكة العربية السعودية مع راتب شهري قدره 1000 دولار وتمويل لتغطية تكاليف المعيشة والسفر."  
 cardImage: "@/images/insights/intern1.avif"  
-cardImageAlt: ""
-officialLink: "https://vsrp.kaust.edu.sa/internship/search"
-applyNowLink: "https://vsrp.kaust.edu.sa/"
-teamApplyLink: "/contact"
+cardImageAlt: ""  
+officialLink: "https://vsrp.kaust.edu.sa/internship/search"  
+applyNowLink: "https://vsrp.kaust.edu.sa/"  
+teamApplyLink: "/contact"  
 ---
-Training at King Abdullah University in Saudi Arabia fully funded and paid $1,000 for 2025
 
-Good news! Training requests at KAUST are currently open. In this article, we will explain in detail about this training, its benefits, and the step-by-step application process.
+التدريب في جامعة الملك عبد الله في المملكة العربية السعودية ممول بالكامل ومدفوع بمبلغ 1000 دولار لعام 2025
 
-KAUST training is offered every year to 130 international students in more than 150 projects. The duration of the training ranges from 3 to 6 months. The KAUST Program for Visiting Research Students (VSRP) for 2025-2026 will offer a monthly salary of USD 1,000, a private bedroom/bathroom, and health insurance.
+أخبار سارة! طلبات التدريب في KAUST مفتوحة حاليًا. في هذه المقالة، سنشرح بالتفصيل هذا التدريب وفوائده وعملية التقديم خطوة بخطوة.
 
-## About King Abdullah University Training
-Located in the city of Jeddah, Saudi Arabia, King Abdulaziz University is one of the top 1,000 universities worldwide, according to the world's most renowned universities. King Abdulaziz University was awarded 143rd place in the QS World University Rankings by the best universities and received a total of 4.1 stars, according to student reviews on the study portal website, the best place to learn how students evaluate their studies and living experiences in universities from around the world.
+يُقدم تدريب KAUST كل عام لـ 130 طالبًا دوليًا في أكثر من 150 مشروعًا. تتراوح مدة التدريب من 3 إلى 6 أشهر. برنامج KAUST للطلاب الزائرين للبحث (VSRP) لعام 2025-2026 سيقدم راتبًا شهريًا قدره 1000 دولار أمريكي وغرفة نوم/حمام خاص وتأمين صحي.
 
-## State
-Saudi Arabia/Saudi Arabia
+## عن تدريب جامعة الملك عبد الله
+تقع جامعة الملك عبد العزيز في مدينة جدة، المملكة العربية السعودية، وتُعد واحدة من أفضل 1000 جامعة عالميًا، وفقًا لأفضل الجامعات في العالم. احتلت جامعة الملك عبد العزيز المرتبة 143 في تصنيف QS لأفضل الجامعات وحصلت على 4.1 نجوم وفقًا لتقييمات الطلاب على بوابة الدراسة، وهو أفضل موقع لتعلم كيفية تقييم الطلاب لتجاربهم الدراسية والمعيشية في الجامعات حول العالم.
 
-## City
-Thule/Thuwal
+## الدولة
+المملكة العربية السعودية
 
-## Criteria for admission to training
-- •Outstanding academic record suitable for the job you apply for
-- •Strong math training and skills
-- •Strong Computer Science Training and Skills
-- •A brief identification letter explaining your motives for submission
-- •Detailed CV (including your email address)
-- •A complete copy of the grades of all your studies at the university level
+## المدينة
+ثول
 
-## Training Benefits at King Abdullah University in Saudi Arabia Financed
-**The benefits of training include:**
-- •Custom
-- •Accommodation
-- •Many other benefits
+## معايير القبول في التدريب
+- •سجل أكاديمي متميز يناسب الوظيفة التي تتقدم لها  
+- •تدريب ومهارات قوية في الرياضيات  
+- •تدريب ومهارات قوية في علوم الحاسوب  
+- •خطاب تعريف موجز يوضح دوافعك للتقديم  
+- •سيرة ذاتية مفصلة (بما في ذلك عنوان بريدك الإلكتروني)  
+- •نسخة كاملة من درجات جميع دراساتك على مستوى الجامعة  
 
-## How to apply in training?
-**You can apply through the official link at the end of the article, through the following steps:**
-- •Click on the official link, you will be directed to the official fully funded training page.
-- •Fill in the data form, you must fill in all data on the official website.
-- •After completing the data, press Submit.
-- •Make sure you get an email to confirm your submission in training.
+## فوائد التدريب في جامعة الملك عبد الله في السعودية الممول
+**تشمل فوائد التدريب ما يلي:**
+- •راتب مخصص  
+- •إقامة  
+- •العديد من الفوائد الأخرى  
+
+## كيفية التقديم للتدريب؟
+**يمكنك التقديم من خلال الرابط الرسمي الموجود في نهاية المقالة، عبر الخطوات التالية:**
+- •اضغط على الرابط الرسمي، سيتم توجيهك إلى صفحة التدريب الممول بالكامل.  
+- •املأ نموذج البيانات، يجب ملء جميع البيانات على الموقع الرسمي.  
+- •بعد إكمال البيانات، اضغط على "إرسال".  
+- •تأكد من تلقيك بريدًا إلكترونيًا يؤكد تقديمك للتدريب.
+```
+
+Ce code est en Markdown et peut être utilisé sur n'importe quelle plateforme qui prend en charge ce format.

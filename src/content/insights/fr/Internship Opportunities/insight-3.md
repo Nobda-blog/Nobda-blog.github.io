@@ -1,39 +1,39 @@
 ---
-title: Internship (M/F) Aid to the valorization of the Geo-Narratives Project in the framework of cooperations with Brazil
-description: "Contribute to the preparation and facilitation of cartographic workshops as part of the Franco-Brazilian conference SEMIREFUGACA II at the end of November 2024, to feed the Geo-Narratives platform. As part of the Franco-Brazilian conference SEMIREFUGACA II in November 2024 and the Geo-Narratives project, an intern is needed for a 5-month mission from October 2024. Missions Participation in the preparation of cartographic workshops on migrations and life stories Assistance in the promotion of content and integration on the Geo-Narratives platform"
-cardImage: "@/images/insights/inter3.avif"  
+title: تدريب (M/F) المساعدة في تفعيل مشروع السرد الجغرافي في إطار التعاون مع البرازيل
+description: "المساهمة في تحضير وتسهيل ورش العمل الكارتوغرافية كجزء من مؤتمر SEMIREFUGACA II الفرنسي-البرازيلي في نهاية نوفمبر 2024، لتعزيز منصة السرد الجغرافي. كجزء من مؤتمر SEMIREFUGACA II الفرنسي-البرازيلي في نوفمبر 2024 ومشروع السرد الجغرافي، يُطلب متدرب لمهمة لمدة 5 أشهر ابتداءً من أكتوبر 2024. المهام تشمل المشاركة في تحضير ورش العمل الكارتوغرافية حول الهجرة وقصص الحياة، والمساعدة في تعزيز المحتوى ودمجه على منصة السرد الجغرافي."
+cardImage: "@/images/insights/inter3.avif"
 cardImageAlt: ""
 officialLink: "https://mailto:deve-spse1@liste.parisnanterre.fr"
 applyNowLink: "https://mailto:deve-spse1@liste.parisnanterre.fr"
 teamApplyLink: "/contact"
 ---
 
-## Description of the profile sought
+## وصف الملف الشخصي المطلوب
 
-Master 2 level training in human and social sciences, geography, cartography, cultural mediation, in progress...
-Interest in the themes of migration, hospitality, life
-stories Good writing and synthesis
-skills Mastery of office automation and mapping tools appreciated
-Sense of organization and rigor
-Ability to work in a team
-Very good level of French and Portuguese/English
+تدريب على مستوى ماستر 2 في العلوم الإنسانية والاجتماعية، الجغرافيا، الكارتوغرافيا، الوساطة الثقافية، قيد التنفيذ...  
+الاهتمام بموضوعات الهجرة، والضيافة، وقصص الحياة  
+مهارات جيدة في الكتابة والتلخيص  
+إتقان أدوات الأتمتة المكتبية وأدوات الكارتوغرافيا  
+حس التنظيم والدقة  
+القدرة على العمل ضمن فريق  
+مستوى جيد جدًا في الفرنسية والبرتغالية/الإنجليزية
 
-## Special conditions of practice
-The internship will take place on the premises of the laboratory, campus of the University of Paris Nanterre, as well as on the premises of the Institute for Convergences Migrations, Campus Condorcet.
+## الشروط الخاصة بالممارسة
+سيتم التدريب في مقر المختبر، حرم جامعة باريس نانتير، وكذلك في مقر معهد تقاربات الهجرة، حرم كوندورسيه.
 
-## Languages
-Very good level of French and Portuguese/English
+## اللغات
+مستوى جيد جدًا في الفرنسية والبرتغالية/الإنجليزية
 
-## General information
+## المعلومات العامة
 
-Title of the offer: Internship (M/F) Aid for the valorization of the Geo-Narratives Project in the context of cooperation with Brazil
-Reference: UMR7220-ALEMIK0-016
-Place of work: NANTERRE
-Country: France
-Date of publication: Monday, September 2, 2024
-Type of contract: Internship
-agreement Duration of the contract: 5 months
-Expected date of employment: October 1, 2024
-Proportion of work: Full-time
-Level of diploma prepared: Level 7 - (Bac+5 and more)
-BAP: Humanities and Social Sciences
+**عنوان العرض**: تدريب (M/F) المساعدة في تفعيل مشروع السرد الجغرافي في إطار التعاون مع البرازيل  
+**المرجع**: UMR7220-ALEMIK0-016  
+**مكان العمل**: نانتير  
+**الدولة**: فرنسا  
+**تاريخ النشر**: الاثنين، 2 سبتمبر 2024  
+**نوع العقد**: اتفاقية تدريب  
+**مدة العقد**: 5 أشهر  
+**تاريخ البدء المتوقع**: 1 أكتوبر 2024  
+**نسبة العمل**: دوام كامل  
+**مستوى الشهادة المُحضّرة**: المستوى 7 - (ماجستير أو ما يعادله)  
+**BAP**: العلوم الإنسانية والاجتماعية

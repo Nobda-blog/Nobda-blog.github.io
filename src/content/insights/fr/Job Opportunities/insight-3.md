@@ -1,61 +1,63 @@
 ---
-title: Software Manager of the Epos-France National Data Center (M/F)
-description: "The main mission of the person recruited will be:
-- the design, development and maintenance of the software assets necessary for the operation of the Epos-France seismological data center.
-- the intervention (directly or in supervision) in all phases of the software life cycle (analysis, development, qualification, integration, deployment, maintenance) in compliance with specifications, standards and safety rules In addition, the recruited engineer will participate in the operational activities of the seismological data center and contribute (for a maximum of 10% of his time) to transversal activities within the digital division of the OSUG."
-cardImage: "@/images/insights/j3.avif"  
+title: مدير برمجيات لمركز بيانات Epos-France الوطني (M/F)
+description: "تتمثل المهمة الرئيسية للشخص الذي سيتم توظيفه في:
+- تصميم، تطوير وصيانة الأصول البرمجية اللازمة لتشغيل مركز بيانات Epos-France الزلزالي.
+- التدخل (مباشرة أو تحت الإشراف) في جميع مراحل دورة حياة البرمجيات (التحليل، التطوير، التأهيل، التكامل، النشر، الصيانة) بما يتماشى مع المواصفات والمعايير وقواعد الأمان.
+بالإضافة إلى ذلك، سيشارك المهندس الذي سيتم تعيينه في الأنشطة التشغيلية لمركز بيانات الزلازل وسيساهم (بحد أقصى 10% من وقته) في الأنشطة العرضية داخل قسم الرقمنة في OSUG."
+cardImage: "@/images/insights/j3.avif"
 cardImageAlt: ""
 officialLink: "https://www.univ-grenoble-alpes.fr/"
 applyNowLink: "https://www.univ-grenoble-alpes.fr/"
 teamApplyLink: "/contact"
 ---
 
-**Application Deadline**: Tuesday, September 17, 2024, 23:59 Paris time.
+**آخر موعد لتقديم الطلبات**: الثلاثاء، 17 سبتمبر 2024، الساعة 23:59 بتوقيت باريس.
 
-## Job title: Software Manager of the Epos-France national data center (M/F)
+## المسمى الوظيفي: مدير برمجيات لمركز بيانات Epos-France الوطني (M/F)
 
-Reference: UAR832-BERBOE-019
-Number of Positions: 1
-Place of work: GIERES
-Date of publication: Thursday, September 12, 2024
-Type of contract: Technical/Administrative
-fixed-term contract Duration: 12 months
-Expected date of employment: November 1, 2024
-Proportion of work: Full-time
-Remuneration: from 2472,42€ gross according to experience
-Desired level of education: Level 7 - (Bac+5 and more)
-Desired experience: 1 to 4 years
-BAP: Computer Science, Statistics and Scientific
-Computing Typical job: Software engineering engineer
+المرجع: UAR832-BERBOE-019  
+عدد الوظائف: 1  
+مكان العمل: GIERES  
+تاريخ النشر: الخميس، 12 سبتمبر 2024  
+نوع العقد: تقني/إداري  
+مدة العقد: 12 شهرًا  
+تاريخ التوظيف المتوقع: 1 نوفمبر 2024  
+نسبة العمل: دوام كامل  
+الراتب: ابتداءً من 2472,42 يورو إجمالي حسب الخبرة  
+المستوى التعليمي المطلوب: المستوى 7 - (بكالوريا +5 أو أكثر)  
+الخبرة المطلوبة: من 1 إلى 4 سنوات  
+BAP: علوم الحاسوب، الإحصاء والحوسبة العلمية  
+نوع الوظيفة: مهندس برمجيات
 
-## Missions
+## المهام
 
-The main mission of the person recruited will be:
-- the design, development and maintenance of the software assets necessary for the operation of the Epos-France seismological data center.
-- the intervention (directly or in supervision) in all phases of the software life cycle (analysis, development, qualification, integration, deployment, maintenance) in compliance with specifications, standards and safety
-rules In addition, the recruited engineer will participate in the operational activities of the seismological data center and contribute (for a maximum of 10% of his time) to transversal activities within the digital division of the OSUG.
+المهمة الرئيسية للشخص الذي سيتم توظيفه هي:  
+- تصميم، تطوير وصيانة الأصول البرمجية اللازمة لتشغيل مركز بيانات Epos-France الزلزالي.  
+- التدخل (مباشرة أو تحت الإشراف) في جميع مراحل دورة حياة البرمجيات (التحليل، التطوير، التأهيل، التكامل، النشر، الصيانة) بما يتماشى مع المواصفات والمعايير وقواعد الأمان.  
+بالإضافة إلى ذلك، سيشارك المهندس الذي سيتم تعيينه في الأنشطة التشغيلية لمركز بيانات الزلازل وسيساهم (بحد أقصى 10% من وقته) في الأنشطة العرضية داخل قسم الرقمنة في OSUG.
 
-## Activities
+## الأنشطة
 
-- Take charge of all or part of the project management activity (estimate, plan, follow-up)
-- Contribute to the implementation and compliance with quality provisions and standards
-- Write and maintain technical and functional documentation
-- Model, design and/or configure all or part of the software solution- Design and develop services and functionalities
+- تولي المسؤولية عن كل أو جزء من نشاط إدارة المشروع (التقدير، التخطيط، المتابعة)  
+- المساهمة في تنفيذ وضمان الامتثال للأحكام والمعايير الخاصة بالجودة  
+- كتابة وصيانة الوثائق الفنية والوظيفية  
+- تصميم، تطوير و/أو تهيئة الحل البرمجي ككل أو جزء منه  
+- تصميم وتطوير الخدمات والوظائف  
+- تطوير استراتيجية الاختبار، وتصميم، وتحديد وتنفيذ الاختبارات الوظيفية و/أو التقنية  
+- إنشاء واختبار حزم التطبيقات وبرامج النشر في بيئة الإنتاج  
+- استلام، تثبيت، توثيق، وإتاحة الحزم من خلال متابعة الإصدارات  
+- تقديم المساعدة الوظيفية و/أو التقنية للمشغلين والمستخدمين  
+- تصميم إجراءات التدريب الفنية والوظيفية  
+- المشاركة في التدخلات التشغيلية واستعادة الحوادث في مركز البيانات  
+- في النشاط العرضي، المشاركة في اللجنة الفنية للمحور العرضي "نظام المعلومات للزلازل" في Epos-France
 
-- Develop the test strategy, design, specify and execute functional and/or technical
-tests - Create and test application packages and deployment scripts in production
-- Receive, install, document, make available packages by monitoring versions
-- Provide functional and/or technical assistance to operators and users
-- Design technical and functional training actions
-- Participate in operational interventions and incident recovery of the data
-center- In cross-functional activity, participate in the technical committee of the transversal axis "Information System for Seismology" of Epos-France
-## Constraints and RisksSkills
+## المهارات
 
-· Techniques
-* Mastery of the Python language and its ecosystem (best practices, packaging, testing and validation tools)
-* Mastery of gitlab software forging, version management best practices, and continuous
-integration and deployment features* Mastery of container technologies (Docker) for application
-deployment* Good knowledge of the use of deployment platforms (kubernetes)
-* Proficiency in GNU/Linux as a working and deployment
-environment* Knowledge of a relational database system (ideally PostgreSQL)
-* Knowledge of other programming languages appreciated (Elixir)
+· تقنيات
+* إتقان لغة Python ونظامها البيئي (أفضل الممارسات، التغليف، أدوات الاختبار والتحقق)
+* إتقان Gitlab لإدارة الإصدارات وميزات التكامل والنشر المستمر
+* إتقان تقنيات الحاويات (Docker) لنشر التطبيقات
+* معرفة جيدة باستخدام منصات النشر (Kubernetes)
+* إتقان بيئة GNU/Linux للعمل والنشر
+* معرفة بنظام قواعد البيانات العلائقية (يفضل PostgreSQL)
+* يُفضل معرفة لغات برمجة أخرى (مثل Elixir)

@@ -1,7 +1,7 @@
 ---
 title: معالجة الأحداث المعقدة في نظام ذكاء اصطناعي للرعاية الصحية  
 description: "تقدم هذه المنحة من قبل إيفا صوفي سيغوين في ألمانيا وهي مفتوحة للطلاب الدوليين. تغطي هذه المنحة كامل تكاليف الإقامة والطعام داخل الحرم الجامعي."
-cardImage: "@/images/insights/scholarship1.avif"
+cardImage: "@/images/insights/achol11.avif"
 cardImageAlt: ""
 officialLink: "https://tools.bard.edu/wwwmedia/files/5454270/16/ES_Seguin%20Scholarship.pdf"
 applyNowLink: "https://berlin.bard.edu/admissions/how-to-apply/application-requirements/"

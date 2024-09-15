@@ -1,7 +1,7 @@
 ---
 title: Signal Processing - AI Internship  Unfolding Parsimonious Goniometric Algorithms  
 description: "A fully funded training grant at King Abdullah University in Saudi Arabia with a monthly salary of $1,000 and funding for living and travel expenses."  
-cardImage: "@/images/insights/intern1.avif"  
+cardImage: "@/images/insights/intern11.avif"  
 cardImageAlt: ""
 officialLink: "https://vsrp.kaust.edu.sa/internship/search"
 applyNowLink: "https://vsrp.kaust.edu.sa/"

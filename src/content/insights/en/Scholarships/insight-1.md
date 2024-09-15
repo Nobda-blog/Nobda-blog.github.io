@@ -1,7 +1,7 @@
 ---
 title: Complex Event Processing in an AI System for Healthcare  
 description: "This scholarship is offered by Eva Sophie Seguin in Germany and is open to international students. This scholarship is covered by the full cost of on-campus room and board. "  
-cardImage: "@/images/insights/scholarship1.avif"  
+cardImage: "@/images/insights/achol11.avif"  
 cardImageAlt: ""
 officialLink: "https://tools.bard.edu/wwwmedia/files/5454270/16/ES_Seguin%20Scholarship.pdf"
 applyNowLink: "https://berlin.bard.edu/admissions/how-to-apply/application-requirements/"

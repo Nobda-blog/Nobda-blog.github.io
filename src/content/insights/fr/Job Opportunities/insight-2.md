@@ -1,7 +1,7 @@
 ---
 title: فني/ة (M/F) في استخلاص وتحليل الفيتوهورمونات والفيتامينات من مستخلصات الطحالب
 description: "تنفيذ عمليات استخلاص وتحليل الفيتوهورمونات والفيتامينات من مستخلصات الطحالب باستخدام LC/MSMS. سيتم تنفيذ هذه المهمة كجزء من مشروع MICA (Algaebiosteam). سيتم توفير مستخلصات الطحالب من قبل منسق المشروع. تطوير وتأكيد طريقة LC/MSMS للتحليلات الروتينية لمستخلصات الطحالب."
-cardImage: "@/images/insights/job2.avif"
+cardImage: "@/images/insights/j2.avif"
 cardImageAlt: ""
 officialLink: "https://www.ecpm.unistra.fr"
 applyNowLink: "https://www.ecpm.unistra.fr"

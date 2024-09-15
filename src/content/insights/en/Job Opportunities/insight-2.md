@@ -1,7 +1,7 @@
 ---
 title: Technician (M/F) in extraction and analysis of phytohormones and vitamins in algae extracts
 description: "Perform extractions and analyses of phytohormones and vitamins in algae extracts by LC/MSMS. This mission will be carried out as part of a MICA (Algaebiosteam) project. The algae extracts will therefore be provided by the project coordinator. Develop and validate the LC/MSMS method for routine analyses of algae extracts"
-cardImage: "@/images/insights/job2.avif"
+cardImage: "@/images/insights/j1.avif"
 cardImageAlt: ""
 officialLink: "https://www.ecpm.unistra.fr"
 applyNowLink: "https://www.ecpm.unistra.fr"

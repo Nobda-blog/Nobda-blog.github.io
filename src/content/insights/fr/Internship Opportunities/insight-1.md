@@ -1,7 +1,7 @@
 ---
 title: معالجة الإشارات - تدريب داخلي في الذكاء الاصطناعي لتطوير خوارزميات الجونيوترية البسيطة  
 description: "منحة تدريب ممولة بالكامل في جامعة الملك عبد الله في المملكة العربية السعودية مع راتب شهري قدره 1000 دولار وتمويل لتغطية تكاليف المعيشة والسفر."  
-cardImage: "@/images/insights/intern1.avif"  
+cardImage: "@/images/insights/intern11.avif"  
 cardImageAlt: ""  
 officialLink: "https://vsrp.kaust.edu.sa/internship/search"  
 applyNowLink: "https://vsrp.kaust.edu.sa/"  

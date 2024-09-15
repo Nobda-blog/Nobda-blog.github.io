@@ -1,7 +1,7 @@
 ---
 title: Technic(ne) biologist M/F
 description: "This recruitment is part of the RECAPTURED project, financed by the Martinique and Guadeloupe GREEN FUND. The Technician's main mission will be the administrative, logistical and human organization of field missions, as well as the collection of data in the field. He/she will ensure the transmission of technical, administrative and financial information about the project to the various administrative services of the CNRS. He/she will set up communication actions around the RECAPTED project."  
-cardImage: "@/images/insights/job2.avif"
+cardImage: "@/images/insights/j2.avif"
 cardImageAlt: ""
 officialLink: "https://damien.chevallier@cnrs.fr"
 applyNowLink: "https://damien.chevallier@cnrs.fr"

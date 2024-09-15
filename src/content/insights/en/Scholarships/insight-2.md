@@ -2,7 +2,7 @@
 title: Honjo Foundation Scholarship in Japan 2025
 
 description: "The Honjo International Scholarship Foundation offers fully funded scholarships. The Honjo Scholarship offers a monthly allowance, accommodation fees, and travel expenses to attend an international conference."
-cardImage: "@/images/insights/achol2.avif"  
+cardImage: "@/images/insights/achol4.avif"  
 cardImageAlt: ""
 officialLink: "https://entry.hisf.or.jp/"
 applyNowLink: "https://entry.hisf.or.jp/"

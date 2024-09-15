@@ -1,7 +1,7 @@
 ---
 title: فني/ة بيولوجي (M/F)
 description: "يأتي هذا التوظيف في إطار مشروع RECAPTURED، الممول من صندوق غرين في كل من مارتينيك وغوادلوب. تتمثل المهمة الرئيسية للفني/ة في التنظيم الإداري واللوجستي والبشري للمهام الميدانية، بالإضافة إلى جمع البيانات في الميدان. سيتولى/تتولى نقل المعلومات التقنية والإدارية والمالية المتعلقة بالمشروع إلى مختلف الخدمات الإدارية التابعة لـ CNRS. كما سيقوم/ستقوم بتنفيذ إجراءات الاتصال حول مشروع RECAPTURED."
-cardImage: "@/images/insights/job1.avif"
+cardImage: "@/images/insights/j1.avif"
 cardImageAlt: ""
 officialLink: "https://damien.chevallier@cnrs.fr"
 applyNowLink: "https://damien.chevallier@cnrs.fr"

@@ -12,9 +12,9 @@ teamApplyLink: "/contact"
 
 Qatar University offers a fully funded scholarship for 2025, providing a monthly stipend and travel tickets. Qatar University is ranked among the top 10 Arab universities and is a leading institution in Qatar and the Arab world. Applications are now open for Spring 2025.
 
-*Country of Study*: 
+**Country of Study**: 
 - Qatar  
-*City*: 
+**City**: 
 - Doha
 
 ## Overview of Qatar University Scholarship
@@ -30,16 +30,16 @@ Undergraduate (Bachelor's degree)
 
 ## Available Colleges at Qatar University
 Qatar University has 10 colleges:
-1. College of Arts and Sciences
-2. College of Business and Economics
-3. College of Education
-4. College of Engineering
-5. College of Health Sciences
-6. College of Law
-7. College of Medicine
-8. College of Pharmacy
-9. College of Sharia and Islamic Studies
-10. College of Dental Medicine
+- 1. College of Arts and Sciences
+- 2. College of Business and Economics
+- 3. College of Education
+- 4. College of Engineering
+- 5. College of Health Sciences
+- 6. College of Law
+- 7. College of Medicine
+- 8. College of Pharmacy
+- 9. College of Sharia and Islamic Studies
+- 10. College of Dental Medicine
 
 ## Qatar University Scholarship Funding
 Upon acceptance into the Qatar University Scholarship, you will receive:
@@ -53,11 +53,11 @@ Upon acceptance into the Qatar University Scholarship, you will receive:
 ## Application Timeline for Qatar University Spring 2025
 
 ### Admission Scholarships for International Students
-- *October 6, 2024*: Start of online application for international admission scholarships
-- *October 16, 2024*: Deadline for online application for international admission scholarships
-- *November 26, 2024*: Announcement of admission scholarship decisions for international students
+- **October 6, 2024**: Start of online application for international admission scholarships
+- **October 16, 2024**: Deadline for online application for international admission scholarships
+- **November 26, 2024**: Announcement of admission scholarship decisions for international students
 
 ### Scholarships for Excellence and GCC Nationals with Qatari Secondary Education
-- *November 3, 2024*: Start of online application for these scholarships
-- *November 20, 2024*: Deadline for online application for these scholarships
-- *December 24, 2024*: Announcement of scholarship decisions
+- **November 3, 2024**: Start of online application for these scholarships
+- **November 20, 2024**: Deadline for online application for these scholarships
+- **December 24, 2024**: Announcement of scholarship decisions

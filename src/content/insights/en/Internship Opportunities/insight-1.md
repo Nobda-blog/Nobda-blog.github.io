@@ -23,12 +23,12 @@ Saudi Arabia/Saudi Arabia
 Thule/Thuwal
 
 ## Criteria for admission to training
-- •Outstanding academic record suitable for the job you apply for
-- •Strong math training and skills
-- •Strong Computer Science Training and Skills
-- •A brief identification letter explaining your motives for submission
-- •Detailed CV (including your email address)
-- •A complete copy of the grades of all your studies at the university level
+- • Outstanding academic record suitable for the job you apply for
+- • Strong math training and skills
+- • Strong Computer Science Training and Skills
+- • A brief identification letter explaining your motives for submission
+- • Detailed CV (including your email address)
+- • A complete copy of the grades of all your studies at the university level
 
 ## Training Benefits at King Abdullah University in Saudi Arabia Financed
 **The benefits of training include:**

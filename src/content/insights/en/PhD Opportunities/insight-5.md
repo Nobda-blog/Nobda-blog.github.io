@@ -31,54 +31,54 @@ The French Government Scholarship (Eiffel) is one of the best scholarships that 
 The 2025 France Scholarship aims to enhance French higher education for international students eager to study in France. The scholarship is offered in collaboration with Campus France, which works globally to support students in pursuing higher education opportunities in France. The Eiffel Scholarship is specifically designed for students residing outside France, aiming to promote cooperation among French educational institutions to ensure the quality of French education. The scholarship is supported by the French Ministry of Foreign Affairs, aiming to attract foreign students to master's and doctoral programs and training them to make effective decisions in vital public and private sectors.
 
 ## Degree Level
-- Master's
-- Ph.D.
+- • Master's
+- • Ph.D.
 
 ## Duration of Study
-- Master's: 1-2 years
-- Ph.D.: 3 years
+- • Master's: 1-2 years
+- • Ph.D.: 3 years
 
 ## Available Specializations
 There are 7 specializations available in the French Government Scholarship (Eiffel):
-- Science and Technology
-- Biology and Health
-- Environmental Transition
-- Mathematics and Digital
-- Engineering Sciences
-- Social Sciences and Humanities
-- French History, Language, and Civilization
-- Law and Political Science
+- • Science and Technology
+- • Biology and Health
+- • Environmental Transition
+- • Mathematics and Digital
+- • Engineering Sciences
+- • Social Sciences and Humanities
+- • French History, Language, and Civilization
+- • Law and Political Science
 
 ## Eligible Countries
 Students from all over the world are eligible to apply for the French Government Scholarship (Eiffel).
 
 ## Scholarship Funding
 ### For Master's:
-- Monthly allowance: €1,181
-- International and national transportation
-- Health insurance
-- Housing assistance
-- Cultural activities
+- • Monthly allowance: €1,181
+- • International and national transportation
+- • Health insurance
+- • Housing assistance
+- • Cultural activities
 
 ### For Ph.D.:
-- Monthly allowance: €1,800
-- International and national transportation
-- Health insurance
-- Housing assistance
+- • Monthly allowance: €1,800
+- • International and national transportation
+- • Health insurance
+- • Housing assistance
 
 ## Required Documents
-- CV 
-- Motivation letter
-- Academic transcript
-- Valid passport
+- • CV 
+- • Motivation letter
+- • Academic transcript
+- • Valid passport
 
 ## Application Requirements
-- Acceptance into a higher education institution in France.
-- Minimum age of 27 for master's applicants.
-- Minimum age of 32 for Ph.D. applicants.
-- Master's applicants must not hold French nationality or be permanent residents in France.
-- Ph.D. applicants residing in France are eligible, but priority is given to those residing outside France.
-- Continuing education and vocational training are not eligible.
+- • Acceptance into a higher education institution in France.
+- • Minimum age of 27 for master's applicants.
+- • Minimum age of 32 for Ph.D. applicants.
+- • Master's applicants must not hold French nationality or be permanent residents in France.
+- • Ph.D. applicants residing in France are eligible, but priority is given to those residing outside France.
+- • Continuing education and vocational training are not eligible.
 
 ## How to Apply
 ### Step 1:

@@ -1,13 +1,14 @@
 import ogImageSrc from "@images/social.png";
 
 export const SITE = {
-  title: "Nobda",
-  tagline: "Top-quality Hardware Tools",
-  description: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs. Start exploring and contact our sales team for superior quality and reliability.",
-  description_short: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.",
-  url: "https://screwfast.uk",
-  author: "Emil Gulamov",
+  title: "Nobda - Find Internships, Jobs & Scholarships",
+  tagline: "Internships, PhD, Jobs, and Scholarships for Students",
+  description: "Nobda helps students find the best internships, PhD positions, jobs, and scholarships worldwide. Start your career journey with verified opportunities in various fields.",
+  description_short: "Find top internship, PhD, job, and scholarship opportunities for students.",
+  url: "https://nobda.com",  // Update with your actual website domain
+  author: "Nobda Team",
 };
+
 
 export const SEO = {
   title: SITE.title,
@@ -26,14 +27,21 @@ export const SEO = {
       name: SITE.title,
       description: SITE.description,
     },
+    potentialAction: {
+      "@type": "SearchAction",
+      "target": `${SITE.url}/search?q={search_term_string}`,
+      "query-input": "required name=search_term_string"
+    }
   },
 };
+
 
 export const OG = {
   locale: "en_US",
   type: "website",
   url: SITE.url,
-  title: `${SITE.title}: : Hardware Tools & Construction Services`,
-  description: "Equip your projects with ScrewFast's top-quality hardware tools and expert construction services. Trusted by industry leaders, ScrewFast offers simplicity, affordability, and reliability. Experience the difference with user-centric design and cutting-edge tools. Start exploring now!",
-  image: ogImageSrc,
+  title: `${SITE.title} - Internships, Jobs & Scholarships`,
+  description: "Explore the best internship, PhD, job, and scholarship opportunities for students worldwide. Start your journey with Nobda today!",
+  image: ogImageSrc, // Ensure this image is relevant (e.g., your logo or a banner)
 };
+

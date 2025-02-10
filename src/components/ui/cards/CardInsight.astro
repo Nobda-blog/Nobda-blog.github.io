@@ -6,7 +6,7 @@ import type { CollectionEntry } from "astro:content";
 
 const {
   insightEntry,
-  label = Astro.currentLocale === "fr" ? "Lire plus" : "Read more",
+  label = Astro.currentLocale === "fr" ? "اقرأ المزيد" : "Read more",
 } = Astro.props;
 
 
@@ -40,7 +40,7 @@ interface Props {
       {insightEntry.data.title}
     </h3>
     <!-- The description of the insight -->
-    <p class="mt-3 text-neutral-600 dark:text-neutral-400">
+    <p class="mt-3 text-neutral-600 dark:text-neutral-400 line-clamp-3 overflow-hidden" id="description">
       {insightEntry.data.description}
     </p>
     <!-- The "Read More" hyperlink going to the full insight. With an arrow icon -->

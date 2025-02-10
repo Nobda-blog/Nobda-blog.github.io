@@ -77,7 +77,7 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
 
         <div class="md:pt-8">
           <h1
-            class="mb-4 text-balance text-center text-2xl font-bold text-neutral-800 dark:text-neutral-200 sm:text-3xl md:mb-6 md:text-left"
+            class="rtl-content mb-4 text-balance text-center text-2xl font-bold text-neutral-800 dark:text-neutral-200 sm:text-3xl md:mb-6"
           >
             {post.data.title}
           </h1>
@@ -93,9 +93,26 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
             </ul> 
             <section
   class="mx-auto mt-10 max-w-[85rem] px-4 py-10 sm:px-6 sm:py-16 lg:px-8 lg:py-14 2xl:max-w-full"
-> <a id="nextInsight" href="#" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 20px;">
+> 
+<a id="nextInsight" href="#" style="color: #FA5A15;display: none; margin-top: 20px;">
   Next Insight
 </a>
+
+<style>
+  #nextInsight:focus, 
+  #nextInsight:hover {
+    text-decoration: underline; /* Change this to any effect you want */
+    outline: none;
+    background: none;
+    border: none;
+    box-shadow: none;
+  }
+  #nextInsight {
+  outline: none; /* Removes focus outline */
+}
+
+
+</style>
 
   <div class="max-w-screen-md">
     <h3 style="text-align: center;">هل اشتركت في قناة يوتيوب أو قناة تليجرام الخاصة بالفرص؟</h3>
@@ -122,7 +139,10 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
   </section>
 </MainLayout>
 
+
+
 <style is:global>
+
   :root {
     --transition-cubic: cubic-bezier(0.165, 0.84, 0.44, 1);
   }
@@ -311,6 +331,7 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
         // Fetch next page and extract title
         let response = await fetch(newUrl);
         if (response.ok) {
+          nextInsight.style.display = "inline-block"; // Show button
           let text = await response.text();
           let doc = new DOMParser().parseFromString(text, "text/html");
           let title = doc.querySelector("title")?.innerText || "Next Insight →";

@@ -369,6 +369,58 @@ export const Icons = {
     fill: "currentColor",
     title: "Slack",
   },
+  people: {
+    paths: [
+      {
+        d: "M5.5 21a3.5 3.5 0 0 1-3.5-3.5V14a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v3.5a3.5 3.5 0 0 1-3.5 3.5zM18.5 21a3.5 3.5 0 0 1-3.5-3.5V14a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v3.5a3.5 3.5 0 0 1-3.5 3.5zM12 13a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z",
+      },
+    ],
+    class:
+      "h-6 w-6 flex-shrink-0 text-neutral-700 hs-tab-active:text-orange-400 dark:text-neutral-300 dark:hs-tab-active:text-orange-300 md:h-7 md:w-7",
+    width: 24,
+    height: 24,
+    viewBox: "0 0 24 24",
+    fill: "none",
+    strokeWidth: "1.5",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    stroke: "currentColor",
+  },
+  globe: {
+    paths: [
+      {
+        d: "M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 0v20M2 12h20M15.07 2.93a16.22 16.22 0 0 1 0 18.14M8.93 2.93a16.22 16.22 0 0 0 0 18.14",
+      },
+    ],
+    class:
+      "h-6 w-6 flex-shrink-0 text-neutral-700 hs-tab-active:text-orange-400 dark:text-neutral-300 dark:hs-tab-active:text-orange-300 md:h-7 md:w-7",
+    width: 24,
+    height: 24,
+    viewBox: "0 0 24 24",
+    fill: "none",
+    strokeWidth: "1.5",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    stroke: "currentColor",
+  },
+  target: {
+    paths: [
+      {
+        d: "M12 3v4M12 17v4M3 12h4M17 12h4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83M12 8a4 4 0 1 1 0 8 4 4 0 0 1 0-8z",
+      },
+    ],
+    class:
+      "h-6 w-6 flex-shrink-0 text-neutral-700 hs-tab-active:text-orange-400 dark:text-neutral-300 dark:hs-tab-active:text-orange-300 md:h-7 md:w-7",
+    width: 24,
+    height: 24,
+    viewBox: "0 0 24 24",
+    fill: "none",
+    strokeWidth: "1.5",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    stroke: "currentColor",
+  },
+      
   quotation: {
     paths: [
       {

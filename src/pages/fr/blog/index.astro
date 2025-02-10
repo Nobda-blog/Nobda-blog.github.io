@@ -28,11 +28,11 @@ const insightPosts: CollectionEntry<"insights">[] = englishInsightsEntries;
 const otherPosts: CollectionEntry<"blog">[] = blogPosts.slice(1);
 
 // Define variables for page content
-const title: string = "Blog";
-const subTitle: string = "Explorez nos articles de blog";
-const secondTitle: string = "Opportunités";
-const secondSubTitle: string =
-  "Explorer nos possibilités pour un avenir meilleur";
+const title: string = "المدونة";
+const subTitle: string = "استكشف مقالات مدونتنا";
+const secondTitle: string = "الفرص";
+const secondSubTitle: string = "استكشف فرصنا لمستقبل أفضل";
+
 
 const pageTitle: string = `Blog | ${SITE.title}`;
 ---
@@ -61,7 +61,7 @@ const pageTitle: string = `Blog | ${SITE.title}`;
     class="mx-auto max-w-[85rem] space-y-8 px-4 pt-16 sm:px-6 lg:px-8 2xl:max-w-full"
   >
     <!--Page header-->
-    <div class="mx-auto max-w-3xl text-left sm:text-center">
+    <!-- <div class="mx-auto max-w-3xl text-left sm:text-center">
       <h1
         class="block text-balance text-4xl font-bold tracking-tight text-neutral-800 dark:text-neutral-200 md:text-5xl lg:text-6xl"
       >
@@ -79,16 +79,15 @@ const pageTitle: string = `Blog | ${SITE.title}`;
   <section
     class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
   >
-    <!--Blog posts grid-->
     <div class="grid gap-6 lg:grid-cols-2">
       {otherPosts.map((blogEntry) => <CardBlog blogEntry={blogEntry} />)}
     </div>
   </section>
-  <!--Most recent blog post-->
   <section
     class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
   >
-  </section>
+  </section> -->
+
   <!--Insights section-->
   <section
     class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"

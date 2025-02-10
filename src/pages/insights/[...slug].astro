@@ -99,9 +99,10 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
   class="mx-auto mt-10 max-w-[85rem] px-4 py-10 sm:px-6 sm:py-16 lg:px-8 lg:py-14 2xl:max-w-full"
 >
   <div class="max-w-screen-md">
-    <a id="nextInsight" href="#" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 20px;">
+    <a id="nextInsight" href="#" style="color: #FA5A15; padding: 10px 20px; text-decoration: none; display: none; margin-top: 20px;">
       Next Insight
-    </a>    <h3 style="text-align: center;">Have you subscribed to the YouTube channel or the Telegram channel for scholarships?</h3>
+    </a>   
+    <h3 style="text-align: center;">Have you subscribed to the YouTube channel or the Telegram channel for scholarships?</h3>
 
     <!-- Section subtitle -->
     <p
@@ -315,12 +316,13 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
         // Fetch next page and extract title
         let response = await fetch(newUrl);
         if (response.ok) {
+          nextInsight.style.display = "inline-block";
           let text = await response.text();
           let doc = new DOMParser().parseFromString(text, "text/html");
           let title = doc.querySelector("title")?.innerText || "Next Insight →";
           
           // Update button text with next page title
-          nextInsight.textContent = title.replace("|","");
+          nextInsight.textContent = "See also: "+title.replace("|","");
         } else {
           nextInsight.textContent = "Next Insight →"; // Default fallback
         }

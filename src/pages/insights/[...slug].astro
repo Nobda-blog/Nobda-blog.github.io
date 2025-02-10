@@ -1,4 +1,5 @@
 ---
+import type { GetStaticPaths } from "astro";
 // Import section components
 import { SITE } from "@data/constants";
 import MainLayout from "@/layouts/MainLayout.astro";
@@ -15,7 +16,6 @@ export async function getStaticPaths() {
     props: { post },
   }));
 }
-
 
 // export async function getStaticPaths() {
 //   const insightPosts = await getCollection("insights"
@@ -99,7 +99,9 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
   class="mx-auto mt-10 max-w-[85rem] px-4 py-10 sm:px-6 sm:py-16 lg:px-8 lg:py-14 2xl:max-w-full"
 >
   <div class="max-w-screen-md">
-    <h3 style="text-align: center;">Have you subscribed to the YouTube channel or the Telegram channel for scholarships?</h3>
+    <a id="nextInsight" href="#" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 20px;">
+      Next Insight
+    </a>    <h3 style="text-align: center;">Have you subscribed to the YouTube channel or the Telegram channel for scholarships?</h3>
 
     <!-- Section subtitle -->
     <p
@@ -290,4 +292,21 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
       }
     });
   });
+
+
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const currentUrl = window.location.href;
+    const urlParts = currentUrl.match(/(.*\/insight-)(\d+)(\/)$/);
+
+    if (urlParts) {
+      const baseUrl = urlParts[1]; // The part before the number
+      const number = parseInt(urlParts[2], 10); // Extract and convert the number
+      const newUrl = `${baseUrl}${number + 1}/`; // Increment and rebuild the URL
+
+      // Set the href attribute of the <a> button
+      document.getElementById("nextInsight").href = newUrl;
+    }
+  });
+
 </script>

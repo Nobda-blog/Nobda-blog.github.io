@@ -295,18 +295,43 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
 
 
 
-  document.addEventListener("DOMContentLoaded", function () {
-    const currentUrl = window.location.href;
-    const urlParts = currentUrl.match(/(.*\/insight-)(\d+)(\/)$/);
+  document.addEventListener("DOMContentLoaded", async function () {
+  let nextInsight = document.getElementById("nextInsight");
 
-    if (urlParts) {
-      const baseUrl = urlParts[1]; // The part before the number
-      const number = parseInt(urlParts[2], 10); // Extract and convert the number
-      const newUrl = `${baseUrl}${number + 1}/`; // Increment and rebuild the URL
+  if (nextInsight && nextInsight instanceof HTMLAnchorElement) {
+    let currentUrl = window.location.href;
+    let match = currentUrl.match(/(.*\/insight-)(\d+)(\/?)$/);
 
-      // Set the href attribute of the <a> button
-      document.getElementById("nextInsight").href = newUrl;
+    if (match) {
+      let baseUrl = match[1]; // Extract URL base
+      let number = parseInt(match[2], 10); // Extract current number
+      let newUrl = baseUrl + (number + 1) + "/"; // Incremented URL
+
+      // Set initial link (in case fetching fails)
+      nextInsight.href = newUrl;
+      nextInsight.textContent = "Loading..."; // Temporary text
+
+      try {
+        // Fetch next page and extract title
+        let response = await fetch(newUrl);
+        if (response.ok) {
+          let text = await response.text();
+          let doc = new DOMParser().parseFromString(text, "text/html");
+          let title = doc.querySelector("title")?.innerText || "Next Insight →";
+          
+          // Update button text with next page title
+          nextInsight.textContent = title.replace("|","");
+        } else {
+          nextInsight.textContent = "Next Insight →"; // Default fallback
+        }
+      } catch (error) {
+        console.error("Error fetching next page:", error);
+        nextInsight.textContent = "Next Insight →"; // Fallback if request fails
+      }
     }
-  });
+  }
+});
+
+
 
 </script>

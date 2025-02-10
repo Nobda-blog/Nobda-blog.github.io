@@ -29,9 +29,8 @@ export async function getStaticPaths() {
 
 // Get the props for this page that define a specific insight post
 const { post } = Astro.props;
-
+// post.body.replace("اقرأ أيضا","");
 const { Content } = await post.render();
-
 const pageTitle: string = `${post.data.title} | ${SITE.title}`;
 ---
 
@@ -291,21 +290,42 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
     });
   });
 
-  document.addEventListener("DOMContentLoaded", function () {
+ 
+  document.addEventListener("DOMContentLoaded", async function () {
+  let nextInsight = document.getElementById("nextInsight");
+
+  if (nextInsight && nextInsight instanceof HTMLAnchorElement) {
     let currentUrl = window.location.href;
-
-    // Ensure that the URL ends with "insight-X/"
     let match = currentUrl.match(/(.*\/insight-)(\d+)(\/?)$/);
-    
-    if (match) {
-      let baseUrl = match[1]; // Everything before the number
-      let number = parseInt(match[2], 10); // Extract and convert the number
-      let newUrl = baseUrl + (number + 1) + "/"; // Increment and rebuild the URL
 
-      // Set the new href for the button
-      document.getElementById("nextInsight").href = newUrl;
-    } else {
-      console.error("URL pattern not recognized:", currentUrl);
+    if (match) {
+      let baseUrl = match[1]; // Extract URL base
+      let number = parseInt(match[2], 10); // Extract current number
+      let newUrl = baseUrl + (number + 1) + "/"; // Incremented URL
+
+      // Set initial link (in case fetching fails)
+      nextInsight.href = newUrl;
+      nextInsight.textContent = "Loading..."; // Temporary text
+
+      try {
+        // Fetch next page and extract title
+        let response = await fetch(newUrl);
+        if (response.ok) {
+          let text = await response.text();
+          let doc = new DOMParser().parseFromString(text, "text/html");
+          let title = doc.querySelector("title")?.innerText || "Next Insight →";
+          
+          // Update button text with next page title
+          nextInsight.textContent = "اقرأ أيضا: "+title.replace("|","");
+        } else {
+          nextInsight.textContent = "Next Insight →"; // Default fallback
+        }
+      } catch (error) {
+        console.error("Error fetching next page:", error);
+        nextInsight.textContent = "Next Insight →"; // Fallback if request fails
+      }
     }
-  });
+  }
+});
+
 </script>

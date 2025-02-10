@@ -1,7 +1,7 @@
 import ogImageSrc from "@images/social.png";
 
 export const SITE = {
-  title: "Nobda - Find Internships, Jobs & Scholarships",
+  title: "",
   tagline: "Internships, PhD, Jobs, and Scholarships for Students",
   description: "Nobda helps students find the best internships, PhD positions, jobs, and scholarships worldwide. Start your career journey with verified opportunities in various fields.",
   description_short: "Find top internship, PhD, job, and scholarship opportunities for students.",

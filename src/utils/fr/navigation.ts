@@ -9,7 +9,9 @@ const navBarLinks = [
   { name: "خدمات", url: "/fr/services" },
   { name: "اتصل بنا", url: "/fr/contact" },
   
-];
+].reverse();
+
+
 // An array of links for footer
 const footerLinks = [
   {

@@ -63,10 +63,10 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
               >
               </div>
             </div>
-            <p class="text-pretty text-sm font-light text-neutral-500">
+            <p class="text-pretty text-sm font-light text-neutral-500 rtl-text">
               جدول المحتويات:
             </p>
-            <div id="toc" class="">
+            <div id="toc" class="rtl-text">
               <ul
                 class="space-y-2 text-pretty text-base text-neutral-700 transition duration-300 dark:text-neutral-400"
               >
@@ -83,7 +83,7 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
           </h1>
 
           <article
-            class="text-pretty text-lg text-neutral-700 dark:text-neutral-300"
+            class="text-pretty text-lg text-neutral-700 dark:text-neutral-300 rtl-text"
           >
             <Content />
             <ul>
@@ -99,6 +99,17 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
 </a>
 
 <style>
+  /* Apply RTL text direction only when needed */
+.rtl-text {
+  direction: rtl;
+  text-align: right;
+}
+
+.ltr-text {
+  direction: ltr;
+  text-align: left;
+}
+
   #nextInsight:focus, 
   #nextInsight:hover {
     text-decoration: underline; /* Change this to any effect you want */

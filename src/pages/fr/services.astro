@@ -26,13 +26,15 @@ const pageTitle: string = `Services | ${SITE.title}`;
 >
 
 <!-- الخدمات المدفوعة -->
-<div class="max-w-screen-md pt-20">
+<div class="max-w-screen-md pt-20 rtl-text">   
+
   <h1
     class="mb-4 text-balance text-4xl font-extrabold tracking-tight text-neutral-800 dark:text-neutral-200"
   >
   <span class="text-yellow-500 dark:text-yellow-400">الخدمات المدفوعة</span>
   </h1>
 </div>
+<div class="rtl-text">
 <MainSection
   title="المساعدة في التقديم"
   subTitle="احصل على دعم شخصي من فريق خبرائنا لتحسين طلبك للمنح الدراسية، التدريبات، الوظائف أو برامج الدكتوراه، مما يزيد من فرص نجاحك."
@@ -47,14 +49,16 @@ const pageTitle: string = `Services | ${SITE.title}`;
   btnTitle="طلب استشارة"
   btnURL="#"
 />
+</div>
 <!-- الخدمات المجانية -->
-<div class="max-w-screen-md pt-20">
+<div class="max-w-screen-md pt-20 rtl-text">
   <h1
     class="mb-4 text-balance text-4xl font-extrabold tracking-tight text-neutral-800 dark:text-neutral-200"
   >
   <span class="text-yellow-500 dark:text-yellow-400">الخدمات المجانية</span>
   </h1>
 </div>
+<div class="rtl-text">
 <MainSection
   title="فرص تعليمية"
   subTitle="احصل على مجموعة واسعة من المنح الدراسية والدعم المالي المصمم لدعم مسارك الأكاديمي."
@@ -70,6 +74,19 @@ const pageTitle: string = `Services | ${SITE.title}`;
   subTitle="اكتشف دورات مجانية ومدفوعة في جميع مجالات المعرفة، لمساعدتك على تطوير مهارات جديدة والتقدم في حياتك المهنية."
   btnExists={false}
 />
+</div>
 
 
 </MainLayout>
+<style>
+  .rtl-text {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .ltr-text {
+    direction: ltr;
+    text-align: left;
+  }
+  </style>
+  

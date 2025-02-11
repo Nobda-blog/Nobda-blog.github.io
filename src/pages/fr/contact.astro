@@ -26,7 +26,20 @@ import ContactSection from "@components/sections/fr/ContactSection_fr.astro";
     inLanguage: "fr",
   }}
 >
+
+<div class="rtl-text">
   <ContactSection />
+</div>
 </MainLayout>
 
-
+<style>
+  .rtl-text {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .ltr-text {
+    direction: ltr;
+    text-align: left;
+  }
+  </style>

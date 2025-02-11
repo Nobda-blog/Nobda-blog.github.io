@@ -13,7 +13,6 @@ import dashboard from "@images/dashboard-image.avif";
 
 
 ---
-
 <MainLayout>
   <!-- Add banner Here -->
   <AnnouncementBanner
@@ -21,7 +20,7 @@ import dashboard from "@images/dashboard-image.avif";
     btnTitle="Explore ScrewFast on GitHub"
     url="https://github.com/mearashadowfax/ScrewFast"
   />
-
+  <div class="rtl-text">
   <HeroSection
   title=`عزز مسيرتك المهنية مع <span class="text-yellow-500 dark:text-yellow-400">نبذة</span>`
   subTitle="منصتك الموثوقة للمنح الدراسية، التدريبات، برامج الدكتوراه، وفرص العمل. عزز مسيرتك المهنية، واغتنم الفرص، وحقق النجاح العالمي!"
@@ -32,7 +31,8 @@ import dashboard from "@images/dashboard-image.avif";
     src={heroImage}
     alt="نبذة"
   />
-
+  </div>
+  <div class="rtl-text">
   <FeaturesNavs
   title=`التنقل بين الفرص لم يكن أسهل من قبل. اكتشف كيف تُبسط <span class="text-yellow-500 dark:text-yellow-400">نبذة</span> العملية من البحث حتى تحقيق النجاح.`
   tabs={[
@@ -64,7 +64,21 @@ import dashboard from "@images/dashboard-image.avif";
   },
 ]}
   />
-  <div id="FAQ">
+  </div>
+  <div id="FAQ" class="rtl-text">  
   <FAQ title="الأسئلة الشائعة" faqs={faqs} />
   </div>
 </MainLayout>
+
+<style>
+  .rtl-text {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .ltr-text {
+    direction: ltr;
+    text-align: left;
+  }
+  </style>
+  

@@ -4,8 +4,8 @@ const navBarLinks = [
   { name: "مدونة", url: "/fr/blog" },
   { name: "منح دراسية", url: "/fr/Scholarships" },
   { name: "عروض التدريب", url: "/fr/Internship%20Opportunities"},
-  { name: "عروض الدكتوراه", url: "/fr/PhD%20Opportunities" },
   { name: "فرص عمل", url: "/fr/Job%20Opportunities" },
+  { name: "عروض اخرى", url: "/fr/Other" },
   { name: "خدمات", url: "/fr/services" },
   { name: "اتصل بنا", url: "/fr/contact" },
   

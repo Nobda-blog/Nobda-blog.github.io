@@ -81,7 +81,21 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
           >
             {post.data.title}
           </h1>
-
+          <div class="max-w-screen-md rtl-text">
+            <h3 style="text-align: center;">هل اشتركت في قناة يوتيوب أو قناة تليجرام الخاصة بالفرص؟</h3>
+        
+            <!-- Section subtitle -->
+            <p
+              class="mb-8 max-w-prose text-pretty font-light text-neutral-600 dark:text-neutral-400 sm:text-xl"
+            >
+            كن أول من يعرف عن فرصنا بمجرد نشرها. 
+            </p>
+            <!-- Conditional rendering of PrimaryCTA component if 'btnExists' property is truthy -->
+            <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+              <a href="https://t.me/nobdaforyou" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">انضم إلينا على Telegram</a>
+              <a href="https://www.youtube.com/@Nobda-x7y" style="background-color: #FF0000; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">انضم إلينا على YouTube</a>
+            </div>
+          </div>
           <article
             class="text-pretty text-lg text-neutral-700 dark:text-neutral-300 rtl-text"
           >
@@ -94,7 +108,13 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
             <section
   class="mx-auto mt-10 max-w-[85rem] px-4 py-10 sm:px-6 sm:py-16 lg:px-8 lg:py-14 2xl:max-w-full"
 > 
-<a id="nextInsight" href="#" style="color: #FA5A15;display: none; margin-top: 20px;">
+<a id="nextInsight1" href="#" style="color: #FA5A15;display: none; margin-top: 20px;">
+  Next Insight
+</a>
+<a id="nextInsight2" href="#" style="color: #FA5A15;display: none; margin-top: 20px;">
+  Next Insight
+</a>
+<a id="nextInsight3" href="#" style="color: #FA5A15;display: none; margin-top: 20px;">
   Next Insight
 </a>
 
@@ -133,7 +153,7 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
       class="mb-8 max-w-prose text-pretty font-light text-neutral-600 dark:text-neutral-400 sm:text-xl"
     >
     كن أول من يعرف عن فرصنا بمجرد نشرها. 
-  </p>
+    </p>
     <!-- Conditional rendering of PrimaryCTA component if 'btnExists' property is truthy -->
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
       <a href="https://t.me/nobdaforyou" style="background-color: #0088CC; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">انضم إلينا على Telegram</a>
@@ -323,41 +343,48 @@ const pageTitle: string = `${post.data.title} | ${SITE.title}`;
 
  
   document.addEventListener("DOMContentLoaded", async function () {
-  let nextInsight = document.getElementById("nextInsight");
+  const nextInsights = [
+    document.getElementById("nextInsight1"),
+    document.getElementById("nextInsight2"),
+    document.getElementById("nextInsight3")
+  ];
 
-  if (nextInsight && nextInsight instanceof HTMLAnchorElement) {
-    let currentUrl = window.location.href;
-    let match = currentUrl.match(/(.*\/insight-)(\d+)(\/?)$/);
+  nextInsights.forEach(async (nextInsight, index) => {
+    if (nextInsight && nextInsight instanceof HTMLAnchorElement) {
+      let currentUrl = window.location.href;
+      let match = currentUrl.match(/(.*\/insight-)(\d+)(\/?)$/);
 
-    if (match) {
-      let baseUrl = match[1]; // Extract URL base
-      let number = parseInt(match[2], 10); // Extract current number
-      let newUrl = baseUrl + (number + 1) + "/"; // Incremented URL
+      if (match) {
+        let baseUrl = match[1]; // Extract URL base
+        let number = parseInt(match[2], 10); // Extract current number
+        let newUrl = baseUrl + (number + index + 1) + "/"; // Incremented URL with an offset for each link
 
-      // Set initial link (in case fetching fails)
-      nextInsight.href = newUrl;
-      nextInsight.textContent = "Loading..."; // Temporary text
+        // Set initial link (in case fetching fails)
+        nextInsight.href = newUrl;
+        nextInsight.textContent = "Loading..."; // Temporary text
 
-      try {
-        // Fetch next page and extract title
-        let response = await fetch(newUrl);
-        if (response.ok) {
-          nextInsight.style.display = "inline-block"; // Show button
-          let text = await response.text();
-          let doc = new DOMParser().parseFromString(text, "text/html");
-          let title = doc.querySelector("title")?.innerText || "Next Insight →";
-          
-          // Update button text with next page title
-          nextInsight.textContent = "اقرأ أيضا: "+title.replace("|","");
-        } else {
-          nextInsight.textContent = "Next Insight →"; // Default fallback
+        try {
+          // Fetch next page and extract title
+          let response = await fetch(newUrl);
+          if (response.ok) {
+            nextInsight.style.display = "inline-block"; // Show button
+            let text = await response.text();
+            let doc = new DOMParser().parseFromString(text, "text/html");
+            let title = doc.querySelector("title")?.innerText || "Next Insight →";
+            
+            // Update button text with next page title
+            nextInsight.textContent = "اقرأ أيضا: " + title.replace("|", "");
+          } else {
+            nextInsight.textContent = "Next Insight →"; // Default fallback
+          }
+        } catch (error) {
+          console.error("Error fetching next page:", error);
+          nextInsight.textContent = "Next Insight →"; // Fallback if request fails
         }
-      } catch (error) {
-        console.error("Error fetching next page:", error);
-        nextInsight.textContent = "Next Insight →"; // Fallback if request fails
       }
     }
-  }
+  });
 });
+
 
 </script>

@@ -34,7 +34,7 @@ import Icon from "./icons/Icon.astro";
         lang === "ar" && (
           <a
             class="flex items-center gap-x-3.5 rounded-lg px-3 py-2 text-sm text-neutral-800 hover:bg-neutral-100 focus:bg-neutral-100 focus:outline-none dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700"
-            href={`/${lang === "en" ? "" : lang}`}
+            href={`/${false? "" : lang}`}
           >
             {label}
           </a>
@@ -87,9 +87,9 @@ document.addEventListener("DOMContentLoaded", function () {
           pathParts.splice(2, 0, "en");
         }
       } else {
-        if (lang !== "en") {
-          pathParts.unshift(lang);
-        }
+        // if (lang !== "en") {
+        //   pathParts.unshift(lang);
+        // }
       }
 
       url.pathname = pathParts.join("/");

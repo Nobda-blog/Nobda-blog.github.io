@@ -10,11 +10,11 @@ import { SITE } from "@data/constants";
 // Get all blogs post in English and sort them based on publish date
 
 const englishBlogEntries = await getCollection("blog", ({ id }) => {
-  return id.startsWith("fr/Internship Opportunities");
+  return id.startsWith("ar/");
 });
 
 const englishInsightsEntries = await getCollection("insights", ({ id }) => {
-  return id.startsWith("fr/Internship Opportunities");
+  return id.startsWith("ar/");
 });
 
 const blogPosts: CollectionEntry<"blog">[] = englishBlogEntries.sort(
@@ -28,11 +28,13 @@ const insightPosts: CollectionEntry<"insights">[] = englishInsightsEntries;
 const otherPosts: CollectionEntry<"blog">[] = blogPosts.slice(1);
 
 // Define variables for page content
-const title: string = "فرص التدريب";
-const subTitle: string =
-  "استكشف فرصنا لمستقبل أفضل";
+const title: string = "المدونة";
+const subTitle: string = "استكشف مقالات مدونتنا";
+const secondTitle: string = "الفرص";
+const secondSubTitle: string = "استكشف فرصنا لمستقبل أفضل";
 
-const pageTitle: string = `${title} | ${SITE.title}`;
+
+const pageTitle: string = `Blog | ${SITE.title}`;
 ---
 
 <MainLayout
@@ -59,7 +61,7 @@ const pageTitle: string = `${title} | ${SITE.title}`;
     class="mx-auto max-w-[85rem] space-y-8 px-4 pt-16 sm:px-6 lg:px-8 2xl:max-w-full"
   >
     <!--Page header-->
-    <div class="mx-auto max-w-3xl text-left sm:text-center">
+    <!-- <div class="mx-auto max-w-3xl text-left sm:text-center">
       <h1
         class="block text-balance text-4xl font-bold tracking-tight text-neutral-800 dark:text-neutral-200 md:text-5xl lg:text-6xl"
       >
@@ -77,20 +79,29 @@ const pageTitle: string = `${title} | ${SITE.title}`;
   <section
     class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
   >
-    <!--Blog posts grid-->
     <div class="grid gap-6 lg:grid-cols-2">
       {otherPosts.map((blogEntry) => <CardBlog blogEntry={blogEntry} />)}
     </div>
   </section>
-  <!--Most recent blog post-->
   <section
-    class="mx-auto max-w-[85rem] px-4 py-5 sm:px-6 lg:px-8 lg:py-2 2xl:max-w-full"
+    class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
   >
-  </section>
+  </section> -->
+
   <!--Insights section-->
   <section
-    class="mx-auto max-w-[85rem] px-4 py-1 sm:px-6 lg:px-8 lg:py-2 2xl:max-w-full"
+    class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 2xl:max-w-full"
   >
+    <div class="mx-auto mb-10 max-w-2xl text-center lg:mb-14">
+      <h2
+        class="text-2xl font-bold text-neutral-800 dark:text-neutral-200 md:text-4xl md:leading-tight"
+      >
+        {secondTitle}
+      </h2>
+      <p class="mt-1 text-pretty text-neutral-600 dark:text-neutral-400">
+        {secondSubTitle}
+      </p>
+    </div>
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
       {
         insightPosts.map((insightEntry) => (

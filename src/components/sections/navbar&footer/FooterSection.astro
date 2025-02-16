@@ -3,15 +3,15 @@
 import FooterSocialLink from "@components/ui/links/FooterSocialLink.astro";
 import EmailFooterInput from "@components/ui/forms/input/EmailFooterInput.astro";
 import enStrings from "@utils/navigation.ts";
-import frStrings from "@utils/fr/navigation.ts";
+import frStrings from "@utils/ar/navigation.ts";
 import BrandLogo from "@components/BrandLogo.astro";
 
 // Select the correct translation based on the page's lang prop:
-const strings = Astro.currentLocale === "fr" ? frStrings : enStrings;
+const strings = Astro.currentLocale === "ar" ? frStrings : enStrings;
 
 // Define the variables that will be used in this component
-const sectionThreeTitle: string = Astro.currentLocale === "fr" ? "ابقَ على اطلاع" : "Stay up to date";
-const sectionThreeContent: string = Astro.currentLocale === "fr" ? "ابق على اطلاع بأحدث العروض." :
+const sectionThreeTitle: string = Astro.currentLocale === "ar" ? "ابقَ على اطلاع" : "Stay up to date";
+const sectionThreeContent: string = Astro.currentLocale === "ar" ? "ابق على اطلاع بأحدث العروض." :
   "Stay updated with the latest News.";
 ---
 

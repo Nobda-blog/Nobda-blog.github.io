@@ -23,7 +23,7 @@ const footerLinks = [
 ];
 // An object of links for social icons
 const socialLinks = {
-  telegram: "https://t.me/nobdaforyou",
+  telegram: "https://t.me/nobdalive",
   instagram: "https://www.instagram.com/robotxandmore/",
   whatsapp: "https://whatsapp.com/channel/0029Vao1nXVBlHpVq95Al91J",
 };

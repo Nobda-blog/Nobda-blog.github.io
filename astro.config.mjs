@@ -21,7 +21,7 @@ export default defineConfig({
       defaultLocale: "en",
       locales: {
         en: "en",
-        fr: "fr"
+        ar: "ar"
       }
     }
   }), starlight({
@@ -45,9 +45,9 @@ export default defineConfig({
         lang: "fa",
         dir: "rtl"
       },
-      fr: {
-        label: "Français",
-        lang: "fr"
+      ar: {
+        label: "Arabic",
+        lang: "ar"
       },
       ja: {
         label: "日本語",
@@ -64,7 +64,7 @@ export default defineConfig({
         de: "Schnellstartanleitungen",
         es: "Guías de Inicio Rápido",
         fa: "راهنمای شروع سریع",
-        fr: "Guides de Démarrage Rapide",
+        ar: "Guides de Démarrage Rapide",
         ja: "クイックスタートガイド",
         "zh-cn": "快速入门指南"
       },

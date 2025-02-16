@@ -10,11 +10,11 @@ import { SITE } from "@data/constants";
 // Get all blogs post in English and sort them based on publish date
 
 const englishBlogEntries = await getCollection("blog", ({ id }) => {
-  return id.startsWith("fr/Job Opportunities");
+  return id.startsWith("ar/Job Opportunities");
 });
 
 const englishInsightsEntries = await getCollection("insights", ({ id }) => {
-  return id.startsWith("fr/Job Opportunities");
+  return id.startsWith("ar/Job Opportunities");
 });
 
 const blogPosts: CollectionEntry<"blog">[] = englishBlogEntries.sort(

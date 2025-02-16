@@ -4,8 +4,8 @@ const navBarLinks = [
   { name: "Blog", url: "/blog" },
   { name: "Scholarships", url: "/Scholarships" },
   { name: "Internship Opportunities", url: "/Internship%20Opportunities"},
-  { name: "PhD Opportunities", url: "/PhD%20Opportunities" },
   { name: "Job Opportunities", url: "/Job%20Opportunities" },
+  { name: "Other", url: "/Other" },
   { name: "Services", url: "/services" },
   { name: "Contact", url: "/contact" },
   

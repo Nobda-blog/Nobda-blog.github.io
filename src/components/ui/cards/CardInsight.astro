@@ -14,6 +14,8 @@ interface Props {
   insightEntry: CollectionEntry<"insights">;
   label?: string;
 }
+
+const isArabic = Astro.currentLocale === "ar";
 ---
 
 <!-- The anchor tag is the root container for the "Insight" card. It links to the insight detail page. -->
@@ -32,7 +34,7 @@ interface Props {
     />
   </div>
   <!-- This is the container for the insight's title and description. -->
-  <div class="mt-7">
+  <div class=`{mt-7 ${isArabic ? "text-right" : "text-left"}`>
     <!-- The title of the insight -->
     <h3
       class="text-xl font-bold text-neutral-800 group-hover:text-neutral-600 dark:text-neutral-200 dark:group-hover:text-neutral-400"
@@ -52,3 +54,23 @@ interface Props {
     </p>
   </div>
 </a>
+
+
+
+<style>
+  .rtl-text {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .ltr-text {
+    direction: ltr;
+    text-align: left;
+  }
+  </style>
+
+
+
+
+
+

@@ -12,10 +12,11 @@ interface Props {
 }
 
 const placeholder = Astro.currentLocale === "ar" ? "أدخل بريدك الإلكتروني" : "Enter your email";
+const isArabic = Astro.currentLocale === "ar";
 ---
 
 <div
-  class="mt-4 flex flex-col items-center gap-2 rounded-lg bg-neutral-200 p-2 dark:bg-neutral-800 sm:flex-row sm:gap-3"
+  class={`mt-4 flex flex-col items-center gap-2 rounded-lg bg-neutral-200 p-2 dark:bg-neutral-800 sm:flex-row sm:gap-3`}
 >
   <div class="w-full">
     <label for={id} class="sr-only">{label}</label>
@@ -23,7 +24,7 @@ const placeholder = Astro.currentLocale === "ar" ? "أدخل بريدك الإل
       type="text"
       id={id}
       name="footer-input"
-      class="block w-full rounded-lg border-transparent bg-neutral-100 px-4 py-3 text-sm text-neutral-600 focus:border-orange-400 focus:ring-orange-400 disabled:pointer-events-none disabled:opacity-50 dark:border-transparent dark:bg-neutral-700 dark:text-gray-300 dark:placeholder:text-neutral-300"
+      class={`block w-full rounded-lg border-transparent bg-neutral-100 px-4 py-3 text-sm text-neutral-600 focus:border-orange-400 focus:ring-orange-400 disabled:pointer-events-none disabled:opacity-50 dark:border-transparent dark:bg-neutral-700 dark:text-gray-300 dark:placeholder:text-neutral-300 ${isArabic ? "text-right" : "text-left"}`}
       placeholder={placeholder}
     />
   </div>

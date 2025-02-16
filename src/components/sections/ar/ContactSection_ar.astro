@@ -9,7 +9,7 @@ import Icon from "@components/ui/icons/Icon.astro";
 // Define the variables that will be used in this component
 const title: string = "تواصل معنا";
 const subTitle: string =
-  "هل لديك أسئلة أو ترغب في مناقشة مشروع؟ تواصل معنا ودعنا نطور الحل المثالي باستخدام أدواتنا وخدماتنا.";
+"تواصل معنا لأي استفسارات أو شراكات! نحن هنا لدعم مسيرتك المهنية ومساعدتك في العثور على الفرص المناسبة لك."  ;
 const formTitle: string = "املأ النموذج أدناه";
 const formSubTitle: string = "سنرد عليك في غضون 1 إلى 2 يوم .";
 
@@ -77,7 +77,9 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
                 </div>
             </div>
             <EmailContactInput id="hs-email-contacts" />
-            <PhoneInput id="hs-phone-number" />
+            <div class="text-right">
+              <PhoneInput id="hs-phone-number" />
+            </div>
             <div>
               <label for={"hs-about-contacts"} class="sr-only">{"Details"}</label>
               <input
@@ -109,7 +111,7 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
       </div>
 
       <!--ContactIconBlocks are used to display different methods of contacting, including visiting office, email, browsing knowledgebase, and FAQ.-->
-      <div class="divide-y divide-neutral-300 dark:divide-neutral-700">
+      <div class="divide-y divide-neutral-300 rtl-text dark:divide-neutral-700">
         <ContactIconBlock
           heading="FAQ"
           content="استكشف قسم الأسئلة الشائعة لدينا للحصول على إجابات سريعة وواضحة للأسئلة الشائعة."
@@ -141,3 +143,14 @@ const ringClasses = "ring-zinc-500 dark:ring-zinc-200";
   </div>
 </section>
 
+<style>
+  .rtl-text {
+    direction: rtl;
+    text-align: right;
+  }
+  
+  .ltr-text {
+    direction: ltr;
+    text-align: left;
+  }
+  </style>

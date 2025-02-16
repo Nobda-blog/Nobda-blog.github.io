@@ -26,6 +26,7 @@ const socialLinks = {
   telegram: "https://t.me/nobdaforyou",
   instagram: "https://www.instagram.com/robotxandmore/",
   whatsapp: "https://whatsapp.com/channel/0029Vao1nXVBlHpVq95Al91J",
+  youtube: "https://www.youtube.com/@Nobda-x7y",
 };
 
 export default {

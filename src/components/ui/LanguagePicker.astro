@@ -29,14 +29,16 @@ import Icon from "./icons/Icon.astro";
     aria-labelledby="hs-dropdown-hover-event"
   >
     {
-      // Map through the list of languages, creating a link for each language
+      // Only render Arabic since English is removed
       Object.entries(languages).map(([lang, label]) => (
-        <a
-          class="flex items-center gap-x-3.5 rounded-lg px-3 py-2 text-sm text-neutral-800 hover:bg-neutral-100 focus:bg-neutral-100 focus:outline-none dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700"
-          href={`/${lang === "en" ? "" : lang}`}
-        >
-          {label}
-        </a>
+        lang === "ar" && (
+          <a
+            class="flex items-center gap-x-3.5 rounded-lg px-3 py-2 text-sm text-neutral-800 hover:bg-neutral-100 focus:bg-neutral-100 focus:outline-none dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300 dark:focus:bg-neutral-700"
+            href={`/${lang === "en" ? "" : lang}`}
+          >
+            {label}
+          </a>
+        )
       ))
     }
   </div>
@@ -49,8 +51,9 @@ import Icon from "./icons/Icon.astro";
 </script>
 
 <script>
-type TLanguage = "ar" | "en";
-const languages: TLanguage[] = ["ar","en"];
+type TLanguage = "ar";
+
+const languages: TLanguage[] = ["ar"]; // Only Arabic is included now
 
 document.addEventListener("DOMContentLoaded", function () {
   const languageLinks = document.querySelectorAll(".hs-dropdown-menu a");

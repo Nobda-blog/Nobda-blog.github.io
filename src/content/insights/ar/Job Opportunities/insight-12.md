@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_12.avif"
 cardImageAlt: "" 
 officialLink: "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/portal-application-process.html" 
 applyNowLink: "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/portal-application-process.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

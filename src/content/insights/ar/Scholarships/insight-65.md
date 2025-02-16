@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_65.avif"
 cardImageAlt: "" 
 officialLink: "https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa" 
 applyNowLink: "https://sms-applicant-app.a-star.edu.sg/LoginPage.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

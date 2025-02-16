@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_111.avif"
 cardImageAlt: "" 
 officialLink: "https://www.gob.mx/amexcid/acciones-y-programas/becas-para-extranjeros-29785" 
 applyNowLink: "https://sigca.sre.gob.mx/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

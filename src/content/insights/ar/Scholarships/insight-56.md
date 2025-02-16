@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_56.avif"
 cardImageAlt: "" 
 officialLink: "https://msmt.gov.cz/eu-and-international-affairs/government-scholarships-developing-countries" 
 applyNowLink: "http://registr.dzs.cz/registr.nsf" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

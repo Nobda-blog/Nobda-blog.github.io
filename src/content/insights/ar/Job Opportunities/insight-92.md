@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_92.avif"
 cardImageAlt: "" 
 officialLink: "https://careers.fourseasons.com/us/en/apply%3FjobSeqNo=FSHFSHUSREQ10294529EXTERNALENUS%26#038;step=1" 
 applyNowLink: "https://careers.fourseasons.com/us/en/apply%3FjobSeqNo=FSHFSHUSREQ10294529EXTERNALENUS%26#038;step=1" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

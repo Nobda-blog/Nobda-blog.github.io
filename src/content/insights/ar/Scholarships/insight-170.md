@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_170.avif"
 cardImageAlt: "" 
 officialLink: "https://www.wur.nl/education-programmes/master/practical-information-masters/apply-for-a-master-programme.htm" 
 applyNowLink: "https://www.studielink.nl/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_16.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unilever.com" 
 applyNowLink: "https://www.unilever.com" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

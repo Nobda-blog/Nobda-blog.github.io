@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_106.avif"
 cardImageAlt: "" 
 officialLink: "https://www.a-star.edu.sg/docs/librariesprovider1/default-document-library/scholarships/astar-supervisors-projects/projects_2024-01-09-bmrc.xlsx%3Fsfvrsn=cdc9f425_20" 
 applyNowLink: "https://www.a-star.edu.sg/docs/librariesprovider1/default-document-library/scholarships/astar-supervisors-projects/projects_2024-01-09-serc.xlsx%3Fsfvrsn=7d331738_24" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_133.avif"
 cardImageAlt: "" 
 officialLink: "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/%3Fstatus=3%26#038;origin=190%26#038;subjectGrps=F%26#038;daad=%26#038;intention=%26#038;q=%26#038;page=1%26#038;detail=50076777" 
 applyNowLink: "https://www.daad.de/medien/deutschland/stipendien/formulare/forschungsstipendium_en.pdf" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

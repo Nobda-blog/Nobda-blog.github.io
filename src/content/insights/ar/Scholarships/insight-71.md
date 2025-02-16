@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_71.avif"
 cardImageAlt: "" 
 officialLink: "https://info.psu.edu.sa/MyScholarShip/DefaultEng.aspx" 
 applyNowLink: "https://info.psu.edu.sa/MyScholarShip/DefaultEng.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

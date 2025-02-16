@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_2.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ualberta.ca/education/programs/english-language-school/undergraduate-preparation.html" 
 applyNowLink: "https://www.ualberta.ca/education/media-library/faculty/documents/programs/els-program-admission.pdf" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

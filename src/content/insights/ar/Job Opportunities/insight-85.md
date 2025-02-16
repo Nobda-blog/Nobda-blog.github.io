@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_85.avif"
 cardImageAlt: "" 
 officialLink: "https://khaleejalforas.com/job-opportunity-in-bahrain/" 
 applyNowLink: "https://bh.indeed.com/m/viewjob%3Fjk=53576044cf971659%26#038;from=serp%26#038;tk=1i4otqoco2i5u08p%26#038;xkcb=SoAY67M39Yzk1DWtFR0PbzkdCdPP" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

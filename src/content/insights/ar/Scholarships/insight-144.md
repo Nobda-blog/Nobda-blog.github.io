@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_144.avif"
 cardImageAlt: "" 
 officialLink: "https://uwaterloo.ca/english/awards/english-undergraduate-awards#:~:text=A%20scholarship%2C%20valued%20at%20%242%2C000,in%20the%20Faculty%20of%20Arts." 
 applyNowLink: "https://uwaterloo.ca/english/awards/english-undergraduate-awards#:~:text=A%20scholarship%2C%20valued%20at%20%242%2C000,in%20the%20Faculty%20of%20Arts." 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

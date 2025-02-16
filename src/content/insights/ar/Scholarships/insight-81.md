@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_81.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unifi.it/index.php%3Fmodule=CMpro%26#038;func=viewpage%26#038;pageid=10901%26#038;newlang=eng" 
 applyNowLink: "https://www.unifi.it/index.php%3Fmodule=CMpro%26#038;func=viewpage%26#038;pageid=10901%26#038;newlang=eng" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

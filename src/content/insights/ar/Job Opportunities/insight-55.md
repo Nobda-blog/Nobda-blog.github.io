@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_55.avif"
 cardImageAlt: "" 
 officialLink: "https://headwayinstitute.org/hisa-youth-dialogue/" 
 applyNowLink: "https://headwayinstitute.org/hisa-youth-dialogue/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

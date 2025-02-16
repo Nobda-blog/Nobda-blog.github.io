@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_1.avif"
 cardImageAlt: "" 
 officialLink: "https://immigrationnewscanada.ca/high-demand-jobs-in-alberta-until-2033/" 
 applyNowLink: "https://immigrationnewscanada.ca/high-demand-jobs-in-alberta-until-2033/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

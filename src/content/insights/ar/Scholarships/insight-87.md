@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_87.avif"
 cardImageAlt: "" 
 officialLink: "https://www.expatrio.com/expatrio-scholarship" 
 applyNowLink: "https://www.expatrio.com/expatrio-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

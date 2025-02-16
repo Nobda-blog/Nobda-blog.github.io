@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_134.avif"
 cardImageAlt: "" 
 officialLink: "https://www.emu.edu.tr/en/prospective-students/undergraduate/undergraduate-scholarships/1167" 
 applyNowLink: "https://www.emu.edu.tr/en/prospective-students/undergraduate/undergraduate-scholarships/1167" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

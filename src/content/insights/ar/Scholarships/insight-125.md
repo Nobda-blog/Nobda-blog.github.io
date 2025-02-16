@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_125.avif"
 cardImageAlt: "" 
 officialLink: "https://unam.bilkent.edu.tr/" 
 applyNowLink: "https://stars.bilkent.edu.tr/gradapp/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

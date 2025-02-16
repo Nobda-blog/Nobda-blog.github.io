@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_45.avif"
 cardImageAlt: "" 
 officialLink: "https://grad.emu.edu.tr/en/fees/scholarships" 
 applyNowLink: "https://grad.emu.edu.tr/en/fees/scholarships" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_66.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unibocconi.it/en/current-students/funding/funding-bachelor-science-and-law-programs" 
 applyNowLink: "https://www.unibocconi.it/en/current-students/funding/funding-master-science-programs" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

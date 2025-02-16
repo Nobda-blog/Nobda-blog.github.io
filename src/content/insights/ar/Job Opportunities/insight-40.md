@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_40.avif"
 cardImageAlt: "" 
 officialLink: "https://www.careers-page.com/emerald-zebra-jobs/job/QV794YX8/apply" 
 applyNowLink: "https://www.careers-page.com/emerald-zebra-jobs/job/QV794YX8/apply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

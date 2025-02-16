@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_87.avif"
 cardImageAlt: "" 
 officialLink: "https://tre.tbe.taleo.net/tre01/ats/careers/v2/applyRequisition%3Forg=DNQV4N%26#038;cws=37%26#038;rid=623" 
 applyNowLink: "https://tre.tbe.taleo.net/tre01/ats/careers/v2/applyRequisition%3Forg=DNQV4N%26#038;cws=37%26#038;rid=623" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

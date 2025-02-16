@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_64.avif"
 cardImageAlt: "" 
 officialLink: "https://www.oneyoungworld.com/scholarships/z-zurich-foundation/2024/apply " 
 applyNowLink: "https://www.oneyoungworld.com/scholarships/z-zurich-foundation/2024/apply " 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

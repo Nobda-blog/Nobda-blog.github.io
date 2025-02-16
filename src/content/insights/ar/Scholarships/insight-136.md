@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_136.avif"
 cardImageAlt: "" 
 officialLink: "https://www.tiffin.edu/admissions/financial-aid/grants-scholarships-international/" 
 applyNowLink: "https://www.tiffin.edu/apply-now/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

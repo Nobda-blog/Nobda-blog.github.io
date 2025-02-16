@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_20.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ru.nl/en/education/scholarships/radboud-scholarship-programme" 
 applyNowLink: "https://www.ru.nl/en/education/scholarships/radboud-scholarship-programme" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

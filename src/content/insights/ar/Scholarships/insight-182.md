@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_182.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ares-ac.be/en/cooperation-au-developpement/scholarships" 
 applyNowLink: "https://giraf.ares-ac.be/en/formations_internationales_22_23" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

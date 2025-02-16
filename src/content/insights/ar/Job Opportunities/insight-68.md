@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_68.avif"
 cardImageAlt: "" 
 officialLink: "https://khaleejalforas.com/agricultural-volunteering-in-canada/" 
 applyNowLink: "https://khaleejalforas.com/agricultural-volunteering-in-canada/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

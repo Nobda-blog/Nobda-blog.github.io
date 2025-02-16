@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_19.avif"
 cardImageAlt: "" 
 officialLink: "https://volunteers.fifa.com/register" 
 applyNowLink: "https://volunteers.fifa.com/register" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

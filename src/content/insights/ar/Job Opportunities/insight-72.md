@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_72.avif"
 cardImageAlt: "" 
 officialLink: "https://www.maryvillecollege.edu/admissions/finaid/types-of-aid/scholarships-awards/first-year/" 
 applyNowLink: "https://www.maryvillecollege.edu/admissions/finaid/types-of-aid/scholarships-awards/first-year/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

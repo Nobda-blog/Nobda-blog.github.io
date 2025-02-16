@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_7.avif"
 cardImageAlt: "" 
 officialLink: "https://traineeships.ec.europa.eu/" 
 applyNowLink: "https://traineeships.ec.europa.eu/how-to-apply/application-procedure" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

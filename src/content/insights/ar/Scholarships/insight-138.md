@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_138.avif"
 cardImageAlt: "" 
 officialLink: "https://www.aus.edu/admissions/financial-grants-and-scholarships" 
 applyNowLink: "https://www.aus.edu/admissions/financial-grants-and-scholarships" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_53.avif"
 cardImageAlt: "" 
 officialLink: "https://globalbusinesssymposium.com/gbs/" 
 applyNowLink: "https://globalbusinesssymposium.com/gbs/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

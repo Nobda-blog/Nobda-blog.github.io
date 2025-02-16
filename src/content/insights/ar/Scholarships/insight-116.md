@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_116.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sbs.ox.ac.uk/oxford-experience/scholarships-and-funding/executive-diploma-scholarships-women" 
 applyNowLink: "https://www.sbs.ox.ac.uk/oxford-experience/scholarships-and-funding/executive-diploma-scholarships-women" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

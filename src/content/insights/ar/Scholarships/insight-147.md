@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_147.avif"
 cardImageAlt: "" 
 officialLink: "https://www.einsteinforum.de/about/fellowship/%3Flang=en" 
 applyNowLink: "https://www.einsteinforum.de/about/fellowship/%3Flang=en" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

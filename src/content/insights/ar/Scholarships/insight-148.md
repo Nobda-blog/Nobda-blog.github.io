@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_148.avif"
 cardImageAlt: "" 
 officialLink: "https://aau.ac.ae/ar/admission/undergraduate/financial-aid-and-scholarship" 
 applyNowLink: "https://aau.ac.ae/ar/admission/undergraduate/financial-aid-and-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

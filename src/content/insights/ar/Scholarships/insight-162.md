@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_162.avif"
 cardImageAlt: "" 
 officialLink: "https://eservices.awqaf.gov.kw/MinistryServicesGate/frames/Schollership1/form%20" 
 applyNowLink: "https://eservices.awqaf.gov.kw/MinistryServicesGate/frames/Schollership1/form%20" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

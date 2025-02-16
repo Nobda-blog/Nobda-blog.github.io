@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_142.avif"
 cardImageAlt: "" 
 officialLink: "https://www.scholarships.at/login/login.aspx" 
 applyNowLink: "https://www.scholarships.at/login/login.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

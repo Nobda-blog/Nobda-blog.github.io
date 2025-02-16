@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_112.avif"
 cardImageAlt: "" 
 officialLink: "https://biasiswa.mohe.gov.my/INTER/index.php" 
 applyNowLink: "https://biasiswa.mohe.gov.my/INTER/index.php#" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

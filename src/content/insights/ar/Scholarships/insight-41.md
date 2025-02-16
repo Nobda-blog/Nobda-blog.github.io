@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_41.avif"
 cardImageAlt: "" 
 officialLink: "https://www.dohainstitute.edu.qa/en/Admissions-Office/Pages/Scholarships.aspx" 
 applyNowLink: "https://www.dohainstitute.edu.qa/en/Admissions-Office/Pages/Scholarships.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_70.avif"
 cardImageAlt: "" 
 officialLink: "http://www.qu.edu.qa/students/admission/graduate/application-timeline" 
 applyNowLink: "http://www.qu.edu.qa/students/admission/graduate/application-timeline" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

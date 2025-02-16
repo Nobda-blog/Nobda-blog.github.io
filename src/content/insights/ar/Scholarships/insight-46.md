@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_46.avif"
 cardImageAlt: "" 
 officialLink: "https://vanier.gc.ca/en/home-accueil.html" 
 applyNowLink: "https://vanier.gc.ca/en/nomination_process-processus_de_mise_en_candidature.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

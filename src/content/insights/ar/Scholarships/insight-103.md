@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_103.avif"
 cardImageAlt: "" 
 officialLink: "https://nemtsovfund.org/en/our-projects/summer-school-en/" 
 applyNowLink: "https://nemtsovfund.org/en/our-projects/summer-school-en/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

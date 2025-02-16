@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_122.avif"
 cardImageAlt: "" 
 officialLink: "https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/research-training-program-scholarship" 
 applyNowLink: "https://www.monash.edu/graduate-research/future-students/apply/application/guide" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

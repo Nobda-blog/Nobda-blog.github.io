@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_47.avif"
 cardImageAlt: "" 
 officialLink: "https://youth.europa.eu/solidarity/placement/38818_en" 
 applyNowLink: "https://youth.europa.eu/solidarity/placement/38818_en" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

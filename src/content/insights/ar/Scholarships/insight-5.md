@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_5.avif"
 cardImageAlt: "" 
 officialLink: "https://www.mq.edu.au/study/admissions-and-entry/scholarships" 
 applyNowLink: "https://www.mq.edu.au/study/admissions-and-entry/scholarships" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

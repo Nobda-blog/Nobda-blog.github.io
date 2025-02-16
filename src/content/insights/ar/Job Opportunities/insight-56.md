@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_56.avif"
 cardImageAlt: "" 
 officialLink: "https://parrishandheimbecker.com/" 
 applyNowLink: "https://parrishandheimbecker.com/company/careers/current-opportunities/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

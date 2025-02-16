@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_81.avif"
 cardImageAlt: "" 
 officialLink: "https://www.gulftalent.com/uae/jobs/corporate-sales-manager-401771" 
 applyNowLink: "https://www.gulftalent.com/uae/jobs/corporate-sales-manager-401771" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_21.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sdu.dk/en/uddannelse/fees_and_funding/scholarships" 
 applyNowLink: "https://www.sdu.dk/en/uddannelse/fees_and_funding/scholarships" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

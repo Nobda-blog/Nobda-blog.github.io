@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_115.avif"
 cardImageAlt: "" 
 officialLink: "https://bsu.ase.ro/apply/" 
 applyNowLink: "https://docs.google.com/forms/d/e/1FAIpQLSfysQCBwZ84XdYDmmcLgQ4cJiCYPj6H2j-JZ4m1-Y1BP6B4YQ/viewform" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

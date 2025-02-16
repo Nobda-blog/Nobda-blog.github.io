@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_173.avif"
 cardImageAlt: "" 
 officialLink: "https://www.adu.ac.ae/ar/study/financials/scholarships/university-scholarship" 
 applyNowLink: "https://www.adu.ac.ae/ar/study/financials/scholarships/university-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

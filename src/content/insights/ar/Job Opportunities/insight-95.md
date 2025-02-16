@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_95.avif"
 cardImageAlt: "" 
 officialLink: "https://qa.indeed.com/jobs-in-Qatar" 
 applyNowLink: "https://qa.indeed.com/jobs-in-Qatar" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

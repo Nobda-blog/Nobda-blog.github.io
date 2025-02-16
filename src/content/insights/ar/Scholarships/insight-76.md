@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_76.avif"
 cardImageAlt: "" 
 officialLink: "https://eportugal.gov.pt/en/servicos/candidatar-se-a-uma-bolsa-de-estudo-para-o-ensino-superior" 
 applyNowLink: "https://eportugal.gov.pt/en/servicos/candidatar-se-a-uma-bolsa-de-estudo-para-o-ensino-superior" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

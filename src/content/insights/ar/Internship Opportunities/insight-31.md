@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_31.avif"
 cardImageAlt: "" 
 officialLink: "https://www.fao.org/employment/young-talent-programme/internship-programme/en" 
 applyNowLink: "https://jobs.fao.org/careersection/iam/accessmanagement/login.jsf%3Flang=en%26#038;redirectionURI=https%3A%2F%2Fjobs.fao.org%2Fcareersection%2Ffao_external%2Fprofile.ftl%3Flang%3Den%26#038;TARGET=https%3A%2F%2Fjobs.fao.org%2Fcareersection%2Ffao_external%2Fprofile.ftl%3Flang%3Den" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

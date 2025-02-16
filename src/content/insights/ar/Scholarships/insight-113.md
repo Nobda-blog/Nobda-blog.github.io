@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_113.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unimi.it/en/taxonomy/term/12" 
 applyNowLink: "https://registrazione.unimi.it/reg_utenti_esterni/ENG/registrazione/form.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

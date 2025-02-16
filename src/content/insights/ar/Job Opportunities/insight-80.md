@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_80.avif"
 cardImageAlt: "" 
 officialLink: "https://www.on.guichetemplois.gc.ca/rechercheemplois/offredemploi/41208364%3Fsource=searchresults" 
 applyNowLink: "https://www.on.guichetemplois.gc.ca/rechercheemplois/offredemploi/41208364%3Fsource=searchresults" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

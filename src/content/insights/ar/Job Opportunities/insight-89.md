@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_89.avif"
 cardImageAlt: "" 
 officialLink: "https://de.linkedin.com/jobs/view/key-account-manager-residential-at-mvgm-international-3973109145%3Fposition=23%26#038;pageNum=0%26#038;refId=Np%2F5WyXyGYnWTJge3STFfQ%3D%3D%26#038;trackingId=GuemmxKT%2BDD5rclyyYQndQ%3D%3D%26#038;trk=public_jobs_jserp-result_search-card" 
 applyNowLink: "https://de.linkedin.com/jobs/view/key-account-manager-residential-at-mvgm-international-3973109145%3Fposition=23%26#038;pageNum=0%26#038;refId=Np%2F5WyXyGYnWTJge3STFfQ%3D%3D%26#038;trackingId=GuemmxKT%2BDD5rclyyYQndQ%3D%3D%26#038;trk=public_jobs_jserp-result_search-card" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

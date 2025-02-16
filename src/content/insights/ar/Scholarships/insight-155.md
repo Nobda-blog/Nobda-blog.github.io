@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_155.avif"
 cardImageAlt: "" 
 officialLink: "https://www.skoltech.ru/en/apply/" 
 applyNowLink: "https://apply.skoltech.ru/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_52.avif"
 cardImageAlt: "" 
 officialLink: "https://mybanner.qu.edu.qa/PROD/bwskalog.P_DispLoginnon" 
 applyNowLink: "https://mybanner.qu.edu.qa/PROD/bwskalog.P_DispLoginnon" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

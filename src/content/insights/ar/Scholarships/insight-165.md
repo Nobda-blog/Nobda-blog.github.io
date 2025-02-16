@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_165.avif"
 cardImageAlt: "" 
 officialLink: "https://www.studyinfinland.fi/admissions/bachelors-and-masters-admissions" 
 applyNowLink: "https://www.studyinfinland.fi/admissions/bachelors-and-masters-admissions" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

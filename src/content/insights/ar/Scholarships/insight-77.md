@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_77.avif"
 cardImageAlt: "" 
 officialLink: "https://international.unitn.it/main/tuition-fees-and-scholarship" 
 applyNowLink: "https://international.unitn.it/main/tuition-fees-and-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

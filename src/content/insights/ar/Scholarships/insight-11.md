@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_11.avif"
 cardImageAlt: "" 
 officialLink: "https://admission.tulane.edu/tuition-aid/merit-scholarships" 
 applyNowLink: "https://admission.tulane.edu/apply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

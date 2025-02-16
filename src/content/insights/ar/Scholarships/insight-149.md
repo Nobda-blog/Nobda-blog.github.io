@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_149.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ieu.edu.tr/international/en/financial-support-students" 
 applyNowLink: "https://www.ieu.edu.tr/international/en/registration" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

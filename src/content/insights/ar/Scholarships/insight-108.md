@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_108.avif"
 cardImageAlt: "" 
 officialLink: "https://scholarships.adelaide.edu.au/" 
 applyNowLink: "https://login.adelaide.edu.au/cas/login%3Fservice=https%3A%2F%2Flogin.adelaide.edu.au%2Feacm-authenticator%2Fauthenticate%3Fnext_page%3Dask" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

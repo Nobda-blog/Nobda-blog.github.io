@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_167.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unizg.hr/homepage/" 
 applyNowLink: "https://www.unizg.hr/homepage/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

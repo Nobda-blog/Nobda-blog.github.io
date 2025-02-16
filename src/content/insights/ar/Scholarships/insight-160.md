@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_160.avif"
 cardImageAlt: "" 
 officialLink: "https://www.aubg.edu/admissions/bachelors/cost-aid/scholarships/" 
 applyNowLink: "https://www.aubg.edu/admissions/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

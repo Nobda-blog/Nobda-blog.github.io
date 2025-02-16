@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_63.avif"
 cardImageAlt: "" 
 officialLink: "https://iiss.congress.gen.tr/en/kayit" 
 applyNowLink: "https://iiss.congress.gen.tr/en/kayit" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

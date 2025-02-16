@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_31.avif"
 cardImageAlt: "" 
 officialLink: "https://admission.umontreal.ca/en/scholarship-for-international-students/" 
 applyNowLink: "https://admission.umontreal.ca/parcours/index-en.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

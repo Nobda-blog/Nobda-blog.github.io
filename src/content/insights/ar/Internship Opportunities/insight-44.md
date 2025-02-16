@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_44.avif"
 cardImageAlt: "" 
 officialLink: "https://www.lifeatspotify.com/" 
 applyNowLink: "https://www.lifeatspotify.com/jobs" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

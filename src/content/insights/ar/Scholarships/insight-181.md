@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_181.avif"
 cardImageAlt: "" 
 officialLink: "https://www.mofa.go.jp/index.html" 
 applyNowLink: "https://www.mofa.go.jp/about/emb_cons/over/index.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

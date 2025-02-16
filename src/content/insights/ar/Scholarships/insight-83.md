@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_83.avif"
 cardImageAlt: "" 
 officialLink: "https://www.imperial.ac.uk/business-school/mba" 
 applyNowLink: "https://www.imperial.ac.uk/business-school/mba/executive-mba/fees-and-funding/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

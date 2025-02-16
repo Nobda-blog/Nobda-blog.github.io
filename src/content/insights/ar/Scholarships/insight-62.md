@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_62.avif"
 cardImageAlt: "" 
 officialLink: "https://www.uaeu.ac.ae/en/cgs/scholarship.shtml" 
 applyNowLink: "https://www.uaeu.ac.ae/en/cgs/scholarship.shtml" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

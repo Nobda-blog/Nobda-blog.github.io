@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_26.avif"
 cardImageAlt: "" 
 officialLink: "https://www.volunteerhq.org/destinations/puerto-rico/community-development-in-san-juan" 
 applyNowLink: "https://www.volunteerhq.org/destinations/puerto-rico/community-development-in-san-juan" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

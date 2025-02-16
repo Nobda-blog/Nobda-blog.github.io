@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_58.avif"
 cardImageAlt: "" 
 officialLink: "https://www.up.pt/portal/en/live/student-life/scholarships-and-funding/" 
 applyNowLink: "https://www.up.pt/portal/en/live/student-life/scholarships-and-funding/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

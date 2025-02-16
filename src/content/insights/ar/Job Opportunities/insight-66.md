@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_66.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sorbonne.ae/ar/work-with-us/" 
 applyNowLink: "https://www.sorbonne.ae/ar/work-with-us/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

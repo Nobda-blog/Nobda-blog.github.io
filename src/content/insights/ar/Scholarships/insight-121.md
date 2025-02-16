@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_121.avif"
 cardImageAlt: "" 
 officialLink: "https://www.rosalux.de/en/foundation/studienwerk" 
 applyNowLink: "https://www.rosalux.de/stiftung/studienwerk/bewerbung/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

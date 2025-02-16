@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_179.avif"
 cardImageAlt: "" 
 officialLink: "https://afif.qa/scholarship-signup/ " 
 applyNowLink: "https://afif.qa/scholarship-signup/ " 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

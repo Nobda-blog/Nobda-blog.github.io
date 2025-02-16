@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_105.avif"
 cardImageAlt: "" 
 officialLink: "https://www.uottawa.ca/study/graduate-studies" 
 applyNowLink: "https://www.uottawa.ca/study/graduate-studies/how-to-apply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

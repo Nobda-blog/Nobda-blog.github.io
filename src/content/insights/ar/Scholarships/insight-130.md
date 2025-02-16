@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_130.avif"
 cardImageAlt: "" 
 officialLink: "https://studyinitaly.esteri.it/en/login" 
 applyNowLink: "https://studyinitaly.esteri.it/registrazione" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_40.avif"
 cardImageAlt: "" 
 officialLink: "https://vsrp.kaust.edu.sa/" 
 applyNowLink: "https://vsrp.kaust.edu.sa/internship/search" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

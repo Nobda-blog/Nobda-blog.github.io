@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_93.avif"
 cardImageAlt: "" 
 officialLink: "https://www.glassdoor.com/Job/germany-arabic-jobs-SRCH_IL.0,7_IN96_KO8,14.htm" 
 applyNowLink: "https://m5.apply.indeed.com/beta/indeedapply/form/contact-info" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

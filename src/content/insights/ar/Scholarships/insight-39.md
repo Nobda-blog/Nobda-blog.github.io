@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_39.avif"
 cardImageAlt: "" 
 officialLink: "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html" 
 applyNowLink: "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

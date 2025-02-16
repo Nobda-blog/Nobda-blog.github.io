@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_93.avif"
 cardImageAlt: "" 
 officialLink: "https://iu.edu.sa/Students/Guide" 
 applyNowLink: "https://iu.edu.sa/Students/Guide" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

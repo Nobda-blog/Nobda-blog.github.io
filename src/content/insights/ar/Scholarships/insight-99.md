@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_99.avif"
 cardImageAlt: "" 
 officialLink: "https://www.kau.edu.sa/Content-0-EN-285332" 
 applyNowLink: "https://studyinsaudi.moe.gov.sa/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

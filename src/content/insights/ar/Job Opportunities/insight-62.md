@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_62.avif"
 cardImageAlt: "" 
 officialLink: "https://qa.linkedin.com/jobs/view/account-manager-at-tesla-3774704985%3FrefId=9HAxlcJ3ue%2FYuYZIyYfoQg%3D%3D%26#038;trackingId=PNZjzIB8dKpjlPspf97z6A%3D%3D%26#038;position=5%26#038;pageNum=1%26#038;trk=public_jobs_jserp-result_search-card" 
 applyNowLink: "https://qa.linkedin.com/jobs/view/account-manager-at-tesla-3774704985%3FrefId=9HAxlcJ3ue%2FYuYZIyYfoQg%3D%3D%26#038;trackingId=PNZjzIB8dKpjlPspf97z6A%3D%3D%26#038;position=5%26#038;pageNum=1%26#038;trk=public_jobs_jserp-result_search-card" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

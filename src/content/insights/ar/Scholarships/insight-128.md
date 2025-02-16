@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_128.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/bourse-chalhoub" 
 applyNowLink: "https://admission.sciencespo.fr/applicants/login#_ga=2.96228444.1752217988.1606727370-274454940.1597098900" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

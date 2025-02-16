@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_44.avif"
 cardImageAlt: "" 
 officialLink: "https://youth.europa.eu/solidarity/placement/38782_en" 
 applyNowLink: "https://ecas.ec.europa.eu/cas/login%3FloginRequestId=ECAS_LR-8540246-USgNKLlcvx0aZE4WzIq6pzbzw5JCF3SHFK4qzvzI3xnfMzUsF9bjPY0aXWH45pJVuvnDOxIVsXuwniGQ0bMe1X9m-jpJZscgsw0K1pzVtZiSFB3-b1ZEBiOjOAgsq51YcQGnb6JPsD9Oc1THOteeyAf5SwHB7QsH0mM3FDtk9n2I9Lcg7wvTzHFluHBHdIWRTKW2Wa" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

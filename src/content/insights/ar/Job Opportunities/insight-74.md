@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_74.avif"
 cardImageAlt: "" 
 officialLink: "https://international.unisa.edu.au/scholarships-and-sponsorships/" 
 applyNowLink: "https://international.unisa.edu.au/scholarships-and-sponsorships/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

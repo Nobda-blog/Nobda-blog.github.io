@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_27.avif"
 cardImageAlt: "" 
 officialLink: "https://www.studyinkorea.go.kr/ko/main.do%3Fmessage=" 
 applyNowLink: "https://www.studyinkorea.go.kr/ko/login.do" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

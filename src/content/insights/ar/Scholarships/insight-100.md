@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_100.avif"
 cardImageAlt: "" 
 officialLink: "https://www.uni-hamburg.de/en/internationales/studierende/incoming/studium-mit-abschluss/waehrend-des-studiums/finanzierung/leistungsstipendien.html" 
 applyNowLink: "https://www.uni-hamburg.de/en/internationales/studierende/incoming/studium-mit-abschluss/waehrend-des-studiums/finanzierung/leistungsstipendien.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

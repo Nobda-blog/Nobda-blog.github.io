@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_174.avif"
 cardImageAlt: "" 
 officialLink: "https://foreign.fulbrightonline.org/" 
 applyNowLink: "https://foreign.fulbrightonline.org/apply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

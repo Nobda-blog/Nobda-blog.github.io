@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_40.avif"
 cardImageAlt: "" 
 officialLink: "https://research.ie/funding/goipg/" 
 applyNowLink: "https://irishresearch.smartsimple.ie/s_Login.jsp" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

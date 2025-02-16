@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_102.avif"
 cardImageAlt: "" 
 officialLink: "https://study.gov.pl/scholarship-citizens-developing-countries" 
 applyNowLink: "https://study.gov.pl/scholarship-citizens-developing-countries" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

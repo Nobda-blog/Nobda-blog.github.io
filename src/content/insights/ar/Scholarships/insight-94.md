@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_94.avif"
 cardImageAlt: "" 
 officialLink: "https://studyinsaudi.moe.gov.sa/" 
 applyNowLink: "https://studyinsaudi.moe.gov.sa/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

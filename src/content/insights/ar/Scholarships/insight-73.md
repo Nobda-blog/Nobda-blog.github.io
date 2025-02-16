@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_73.avif"
 cardImageAlt: "" 
 officialLink: "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship" 
 applyNowLink: "https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

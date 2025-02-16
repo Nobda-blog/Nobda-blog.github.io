@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_64.avif"
 cardImageAlt: "" 
 officialLink: "https://www.simmons.edu/undergraduate/admission-and-financial-aid/tuition-financial-aid/types-financial-aid/scholarships/distinguished-scholar" 
 applyNowLink: "https://www.simmons.edu/undergraduate/admission-and-financial-aid/tuition-financial-aid/types-financial-aid/scholarships/distinguished-scholar" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

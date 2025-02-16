@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_36.avif"
 cardImageAlt: "" 
 officialLink: "https://afif.qa/scholarship-terms-conditions/" 
 applyNowLink: "https://afif.qa/signup-scholarship/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

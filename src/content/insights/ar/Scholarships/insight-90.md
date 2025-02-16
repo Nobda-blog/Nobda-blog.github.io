@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_90.avif"
 cardImageAlt: "" 
 officialLink: "https://www.youthop.com/link%3Fu=https%3A%2F%2Fwww.sydney.edu.au%2Fscholarships%2Fe%2Fsydney-international-undergraduate-academic-excellence-scholarship.html" 
 applyNowLink: "https://www.youthop.com/link%3Fu=https%3A%2F%2Fsydney.au1.qualtrics.com%2Fjfe%2Fform%2FSV_4UVYI4CvxYuhwy2" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

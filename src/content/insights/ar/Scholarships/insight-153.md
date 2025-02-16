@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_153.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ulaval.ca/en/future-students/plan-your-studies/scholarships-and-financial-aid" 
 applyNowLink: "https://www.ulaval.ca/en/admission/apply-for-admission" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

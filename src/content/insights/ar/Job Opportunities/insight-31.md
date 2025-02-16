@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_31.avif"
 cardImageAlt: "" 
 officialLink: "https://researchfoundation.net/event/index.php%3Fid=2286442" 
 applyNowLink: "https://researchfoundation.net/event/index.php%3Fid=2286442" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

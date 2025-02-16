@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_21.avif"
 cardImageAlt: "" 
 officialLink: "https://khaleejalforas.com/travel-opportunity-to-canada/" 
 applyNowLink: "https://khaleejalforas.com/travel-opportunity-to-canada/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

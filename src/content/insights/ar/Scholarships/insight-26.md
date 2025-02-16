@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_26.avif"
 cardImageAlt: "" 
 officialLink: "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters" 
 applyNowLink: "https://erasmus-plus.ec.europa.eu/resources-and-tools/how-to-apply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

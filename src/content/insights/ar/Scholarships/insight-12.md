@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_12.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unil.ch/eb-sur/home/menuinst/about-the-sur-programme.html" 
 applyNowLink: "https://www.unil.ch/files/live/sites/eb-sur/files/How_to_Apply/Online%20application%20procedure%20SUR%20Programme%202024%20VF.pdf" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

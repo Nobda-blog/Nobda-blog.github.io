@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_10.avif"
 cardImageAlt: "" 
 officialLink: "https://hea.ie/policy/internationalisation/goi-ies/" 
 applyNowLink: "https://webportalapp.com/sp/login/heagrantapplication_25" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

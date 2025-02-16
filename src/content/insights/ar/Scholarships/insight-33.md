@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_33.avif"
 cardImageAlt: "" 
 officialLink: "https://ksu.edu.sa/en/" 
 applyNowLink: "https://dar.ksu.edu.sa/en/e-admission" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

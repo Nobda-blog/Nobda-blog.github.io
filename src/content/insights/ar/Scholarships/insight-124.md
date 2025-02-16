@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_124.avif"
 cardImageAlt: "" 
 officialLink: "https://www.uwa.edu.au/study/GLOBAL-EXCELLENCE-SCHOLARSHIP" 
 applyNowLink: "https://www.uwa.edu.au/study/How-to-apply#login" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_140.avif"
 cardImageAlt: "" 
 officialLink: "https://knight-hennessy.stanford.edu/" 
 applyNowLink: "https://knight-hennessy.stanford.edu/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

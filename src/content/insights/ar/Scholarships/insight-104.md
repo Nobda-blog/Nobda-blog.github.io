@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_104.avif"
 cardImageAlt: "" 
 officialLink: "http://www.kfupm.edu.sa/deanships/dgs/Pages/en/StartApplications.aspx" 
 applyNowLink: "http://www.kfupm.edu.sa/deanships/dgs/Pages/en/Full-MS-PhD-Scholarships-Opportunity.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

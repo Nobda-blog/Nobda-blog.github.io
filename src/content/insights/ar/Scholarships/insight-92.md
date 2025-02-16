@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_92.avif"
 cardImageAlt: "" 
 officialLink: "https://www.qmul.ac.uk/scholarships/items/deepmind-scholarship-2024-2025.html" 
 applyNowLink: "https://www.qmul.ac.uk/scholarships/items/deepmind-scholarship-2024-2025.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

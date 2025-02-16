@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_143.avif"
 cardImageAlt: "" 
 officialLink: "https://www.georgetown.edu/%3Futm_source=STUDYSHOOT%26#038;utm_medium=Grants%26#038;utm_campaign=STUDYSHOOT-Website%26#038;utm_id=33679%26#038;utm_term=STUDYSHOOT" 
 applyNowLink: "https://www.georgetown.edu/%3Futm_source=STUDYSHOOT%26#038;utm_medium=Grants%26#038;utm_campaign=STUDYSHOOT-Website%26#038;utm_id=33679%26#038;utm_term=STUDYSHOOT" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

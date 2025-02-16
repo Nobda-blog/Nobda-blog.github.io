@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_172.avif"
 cardImageAlt: "" 
 officialLink: "https://knb.kemdikbud.go.id/" 
 applyNowLink: "https://knb.kemdikbud.go.id/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_94.avif"
 cardImageAlt: "" 
 officialLink: "https://newhr.sharjah.ac.ae/en/Pages/NonAcademicJobs.aspx" 
 applyNowLink: "https://newhr.sharjah.ac.ae/en/Pages/JobOpportunities.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

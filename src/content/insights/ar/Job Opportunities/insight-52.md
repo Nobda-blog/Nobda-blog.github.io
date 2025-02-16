@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_52.avif"
 cardImageAlt: "" 
 officialLink: "https://action.alz.org/PersonifyEbusiness/Default.aspx%3FTabID=340%26#038;returnurl=https%3a%2f%2fvolunteer.alz.org%2fvolunteeropportunities%2fvolunteeropportunitiesredirect" 
 applyNowLink: "https://action.alz.org/PersonifyEbusiness/Default.aspx%3FTabID=340%26#038;returnurl=https%3a%2f%2fvolunteer.alz.org%2fvolunteeropportunities%2fvolunteeropportunitiesredirect" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

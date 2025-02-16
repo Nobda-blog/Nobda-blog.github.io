@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_8.avif"
 cardImageAlt: "" 
 officialLink: "https://ssb.hbku.edu.qa/PROD9/bwskalog.P_DispLoginNon" 
 applyNowLink: "https://ssb.hbku.edu.qa/PROD9/bwskalog.P_DispLoginNon" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_50.avif"
 cardImageAlt: "" 
 officialLink: "https://www.univ-grenoble-alpes.fr/universite/ambition-et-strategie/l-initiative-d-excellence-idex/les-appels-a-projets/call-for-applications-idex-master-scholarships-for-the-2023-2024-academic-year-1184934.kjsp" 
 applyNowLink: "https://www.univ-grenoble-alpes.fr/universite/ambition-et-strategie/l-initiative-d-excellence-idex/les-appels-a-projets/call-for-applications-idex-master-scholarships-for-the-2023-2024-academic-year-1184934.kjsp" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

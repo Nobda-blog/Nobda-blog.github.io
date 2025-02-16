@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_176.avif"
 cardImageAlt: "" 
 officialLink: "https://newton-prep.com/yousria-loza-sawiris-scholarship-app" 
 applyNowLink: "https://newton-prep.com/yousria-loza-sawiris-scholarship-app" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

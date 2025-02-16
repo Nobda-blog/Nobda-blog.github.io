@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_79.avif"
 cardImageAlt: "" 
 officialLink: "https://femmesetvilles.org/" 
 applyNowLink: "https://femmesetvilles.org/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_24.avif"
 cardImageAlt: "" 
 officialLink: "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program" 
 applyNowLink: "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

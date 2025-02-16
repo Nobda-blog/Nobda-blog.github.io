@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_55.avif"
 cardImageAlt: "" 
 officialLink: "https://admission.unisi.it/%3Fp=1218" 
 applyNowLink: "https://admission.unisi.it/%3Fp=1218" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

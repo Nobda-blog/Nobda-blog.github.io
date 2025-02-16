@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_88.avif"
 cardImageAlt: "" 
 officialLink: "https://www.jobbank.gc.ca/jobsearch/jobposting/41534780%3Fsource=searchresults" 
 applyNowLink: "https://www.jobbank.gc.ca/jobsearch/jobposting/41534780%3Fsource=searchresults" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_59.avif"
 cardImageAlt: "" 
 officialLink: "http://jgsuni.ciss.org.cn/Article_Detail/6060 " 
 applyNowLink: "http://jgsuni.ciss.org.cn/Article_Detail/6060 " 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

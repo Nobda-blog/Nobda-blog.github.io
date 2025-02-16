@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_166.avif"
 cardImageAlt: "" 
 officialLink: "https://iu.edu.sa/" 
 applyNowLink: "https://sso.iu.edu.sa/Account/login%3FReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3DEServicePortalProdution%26redirect_uri%3Dhttps%253A%252F%252Feservices.iu.edu.sa%252Fsignin-oidc%26response_type%3Dcode%26scope%3Dopenid%2520profile%26code_challenge%3DVoBVhnqS3ngIBYzHyElOcKP8XteQbB1hRHYXy3W0POo%26code_challenge_method%3DS256%26response_mode%3Dform_post%26nonce%3D638442884747741333.MTEzYWU2ZjYtYWQ5Mi00NWE0LWJmZDItMmQwNmYxZjM0NGU0Y2VjM2ExMjgtMDhjMy00OGE3LWIyYWQtNTBiZTg0ODg2OTY5%26state%3DCfDJ8KAE4UE8CelDn_Q28sL9OMeXazNMroWgBsbZ-Gix0c-ucU1YtdXixW4g-3FLHN0yMsh2HFrhlT_Enh9zZ5FGBSGG5N5IpEe-aRc46nADNPllcHQovcJujG61pFAR3I26c5I_6vRHKh_DarEd4PzDMQ6qlnEqKNyp2YACRdoT6PichlMEfZ4FdaU68NMGk_yye02T4retxOsU4iItWRGI4RX6gFJVNFh-OeZN7zdBpuhcEPODv3Zng7XUakOg5lfZ7yxYG0O8hYs69V_yS8DcPVhgBnDetVmIdPhkaroTTf-KzJjnhXVlDHazGLD80ihlfStCX4dfLcRhw3wOdbwslOU6HNx0Ai9on8xjLArfzC8u6Toby9qvfYjsUh044cuEiWj3Bhh2gYeLCXKz2hso_WY%26x-client-SKU%3DID_NETSTANDARD2_0%26x-client-ver%3D5.5.0.0" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

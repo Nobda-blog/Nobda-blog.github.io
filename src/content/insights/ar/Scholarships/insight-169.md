@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_169.avif"
 cardImageAlt: "" 
 officialLink: "https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex" 
 applyNowLink: "https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program-idex" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_18.avif"
 cardImageAlt: "" 
 officialLink: "https://sbw.berlin/en/portfolio-items/sbw-berlin-scholarship" 
 applyNowLink: "https://sbw.berlin/wp-content/uploads/2024/07/Guidelines_SBWBerlinScholarship_InternationalStudents-2.pdf" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

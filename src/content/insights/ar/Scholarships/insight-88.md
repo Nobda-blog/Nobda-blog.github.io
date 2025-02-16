@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_88.avif"
 cardImageAlt: "" 
 officialLink: "https://us.edu.pl/student/en/wsparcie-i-fundusze/" 
 applyNowLink: "https://us.edu.pl/student/en/wsparcie-i-fundusze/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

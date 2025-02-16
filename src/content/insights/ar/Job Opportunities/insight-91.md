@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_91.avif"
 cardImageAlt: "" 
 officialLink: "https://www.mittag-leffler.se/calls/call-for-junior-fellowships/proposal-instructions-and-submission" 
 applyNowLink: "https://www.mittag-leffler.se/calls/call-for-junior-fellowships/proposal-instructions-and-submission" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

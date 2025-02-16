@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_159.avif"
 cardImageAlt: "" 
 officialLink: "https://sbw.berlin/wp-content/uploads/2022/11/Criteria_SBWBerlinScholarship_Nov2022.pdf" 
 applyNowLink: "https://sbw.berlin/en/application-form-step-1/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

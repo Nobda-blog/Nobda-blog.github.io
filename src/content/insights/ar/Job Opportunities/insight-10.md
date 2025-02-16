@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_10.avif"
 cardImageAlt: "" 
 officialLink: "https://www.worldbank.org/en/about/careers/the-young-professionals-program/aboutypp" 
 applyNowLink: "https://worldbankgroup.csod.com/ats/careersite/jobdetails.aspx%3Fsite=1%26#038;c=worldbankgroup%26#038;id=29140" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_110.avif"
 cardImageAlt: "" 
 officialLink: "https://counselorcorporation.com/kolej-universiti-islam-perlis-kuips/" 
 applyNowLink: "https://counselorcorporation.com/kolej-universiti-islam-perlis-kuips/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

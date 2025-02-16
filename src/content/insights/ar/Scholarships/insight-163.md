@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_163.avif"
 cardImageAlt: "" 
 officialLink: "https://applymscenglish.unipi.it/en/studenti" 
 applyNowLink: "https://www.unipi.it/index.php/tuition-fees-and-financial-support/item/2275-dsu-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

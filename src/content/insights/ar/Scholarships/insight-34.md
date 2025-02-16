@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_34.avif"
 cardImageAlt: "" 
 officialLink: "https://www.chevening.org/scholarships/" 
 applyNowLink: "https://www.chevening.org/apply/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

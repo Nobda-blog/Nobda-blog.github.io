@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_32.avif"
 cardImageAlt: "" 
 officialLink: "https://www.maison-europe-nimes.eu/offres-ces/eurowerkstatt" 
 applyNowLink: "https://www.maison-europe-nimes.eu/offres-ces/eurowerkstatt" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

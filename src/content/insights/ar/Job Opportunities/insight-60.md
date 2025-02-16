@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_60.avif"
 cardImageAlt: "" 
 officialLink: "https://portal.qiwa.sa/" 
 applyNowLink: "https://portal.qiwa.sa/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

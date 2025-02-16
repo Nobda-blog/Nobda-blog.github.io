@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_75.avif"
 cardImageAlt: "" 
 officialLink: "https://spark.ngo/new-turkiye-scholarship-programme-for-international-students/" 
 applyNowLink: "https://spark.ngo/new-turkiye-scholarship-programme-for-international-students/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_175.avif"
 cardImageAlt: "" 
 officialLink: "https://www.univie.ac.at/en/" 
 applyNowLink: "https://www.univie.ac.at/en/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_178.avif"
 cardImageAlt: "" 
 officialLink: "https://www.alqasimia.ac.ae/en/AdmissionRegistration/Pages/TuitionScholarships.aspx" 
 applyNowLink: "https://www.alqasimia.ac.ae/en/AdmissionRegistration/Pages/Registration.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

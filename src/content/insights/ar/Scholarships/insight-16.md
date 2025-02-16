@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_16.avif"
 cardImageAlt: "" 
 officialLink: "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships/" 
 applyNowLink: "https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

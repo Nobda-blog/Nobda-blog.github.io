@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_30.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/" 
 applyNowLink: "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

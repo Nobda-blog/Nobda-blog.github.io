@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_8.avif"
 cardImageAlt: "" 
 officialLink: "https://dvprogram.state.gov" 
 applyNowLink: "https://dvprogram.state.gov" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

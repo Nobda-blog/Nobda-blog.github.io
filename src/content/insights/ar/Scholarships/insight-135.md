@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_135.avif"
 cardImageAlt: "" 
 officialLink: "https://boustany-foundation.org/scholarship-programmes/mba-harvard/" 
 applyNowLink: "https://boustany-foundation.org/scholarship-programmes/mba-harvard/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

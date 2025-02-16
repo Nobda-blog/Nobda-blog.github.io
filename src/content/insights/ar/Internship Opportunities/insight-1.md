@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_1.avif"
 cardImageAlt: "" 
 officialLink: "https://kuwait.un.org/en/jobs" 
 applyNowLink: "https://kuwait.un.org/en/jobs" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

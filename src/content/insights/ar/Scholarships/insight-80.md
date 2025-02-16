@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_80.avif"
 cardImageAlt: "" 
 officialLink: "https://www.uts.edu.au/scholarship/undergraduate-academic-excellence-international-scholarship" 
 applyNowLink: "https://www.uts.edu.au/scholarship/undergraduate-academic-excellence-international-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

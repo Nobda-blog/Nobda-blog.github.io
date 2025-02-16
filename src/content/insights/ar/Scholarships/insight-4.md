@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_4.avif"
 cardImageAlt: "" 
 officialLink: "https://www.universite-paris-saclay.fr/en/informations-utiles/" 
 applyNowLink: "https://www.universite-paris-saclay.fr/en/informations-utiles/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

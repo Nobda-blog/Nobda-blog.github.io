@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_63.avif"
 cardImageAlt: "" 
 officialLink: "https://future.utoronto.ca/pearson/about/#about" 
 applyNowLink: "https://future.utoronto.ca/pearson/about/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

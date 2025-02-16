@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_132.avif"
 cardImageAlt: "" 
 officialLink: "https://www.oneyoungworld.com/scholarships/brighter-living/2024" 
 applyNowLink: "https://www.oneyoungworld.com/scholarships/brighter-living/2024/apply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

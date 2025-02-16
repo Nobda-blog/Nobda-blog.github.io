@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_25.avif"
 cardImageAlt: "" 
 officialLink: "https://aiu.edu.my/scholarship/" 
 applyNowLink: "https://apply.aiu.edu.my/%3Fpage=home" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

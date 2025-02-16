@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_71.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ox.ac.uk/clarendon" 
 applyNowLink: "https://www.ox.ac.uk/clarendon" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

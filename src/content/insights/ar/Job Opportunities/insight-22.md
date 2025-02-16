@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_22.avif"
 cardImageAlt: "" 
 officialLink: "https://wipo.taleo.net/careersection/wp_ext_yep/jobsearch.ftl%3Flang=en" 
 applyNowLink: "https://wipo.taleo.net/careersection/wp_ext_yep/jobsearch.ftl%3Flang=en" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

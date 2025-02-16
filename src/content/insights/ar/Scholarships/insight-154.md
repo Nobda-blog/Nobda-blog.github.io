@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_154.avif"
 cardImageAlt: "" 
 officialLink: "https://www.dohainstitute.edu.qa/AR/Prospective_Students/Admissions/Pages/scholorships_new.aspx" 
 applyNowLink: "https://www.dohainstitute.edu.qa/AR/Prospective_Students/Registration/Pages/registration.aspx" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

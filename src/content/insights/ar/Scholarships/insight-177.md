@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_177.avif"
 cardImageAlt: "" 
 officialLink: "https://www.uzh.ch/en.html" 
 applyNowLink: "https://www.uzh.ch/en.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

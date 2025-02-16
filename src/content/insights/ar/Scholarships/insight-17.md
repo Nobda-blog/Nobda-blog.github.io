@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_17.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ku.dk/studies/masters/application-and-admission/tuition-fees-and-scholarships#ce15341" 
 applyNowLink: "https://www.ku.dk/studies/masters/application-and-admission/tuition-fees-and-scholarships#ce15341" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

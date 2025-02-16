@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_25.avif"
 cardImageAlt: "" 
 officialLink: "https://summerofcode.withgoogle.com/" 
 applyNowLink: "https://summerofcode.withgoogle.com/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

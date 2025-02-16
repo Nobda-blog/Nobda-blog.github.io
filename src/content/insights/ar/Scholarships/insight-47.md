@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_47.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sdu.dk/en/uddannelse/ansoegning-optagelse/kandidat-erhvervskandidat/non-eu-admission" 
 applyNowLink: "https://www.sdu.dk/en/uddannelse/ansoegning-optagelse/kandidat-erhvervskandidat/non-eu-admission" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

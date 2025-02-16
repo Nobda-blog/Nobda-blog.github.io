@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_53.avif"
 cardImageAlt: "" 
 officialLink: "https://mbzuai.ac.ae/study/admissions" 
 applyNowLink: "https://mbzuai.ac.ae/study/admissions" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

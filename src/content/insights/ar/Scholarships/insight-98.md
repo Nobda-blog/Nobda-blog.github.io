@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_98.avif"
 cardImageAlt: "" 
 officialLink: "https://www.concordia.ca/students/financial/scholarships-funding/scholarships.html" 
 applyNowLink: "https://www.concordia.ca/students/financial/scholarships-funding/scholarships.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

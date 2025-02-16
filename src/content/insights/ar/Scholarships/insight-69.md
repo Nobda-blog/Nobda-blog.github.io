@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_69.avif"
 cardImageAlt: "" 
 officialLink: "https://ubd.edu.bn/admission/graduate/graduate-fees-funding/ugrs/" 
 applyNowLink: "https://apply.ubd.edu.bn/orbeon/uis-welcome/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

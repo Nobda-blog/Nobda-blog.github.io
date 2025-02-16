@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_22.avif"
 cardImageAlt: "" 
 officialLink: "https://stipendiumhungaricum.hu/" 
 applyNowLink: "https://apply.stipendiumhungaricum.hu/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

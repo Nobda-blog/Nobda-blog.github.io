@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_156.avif"
 cardImageAlt: "" 
 officialLink: "https://www.campusfrance.org/fr/la-bourse-france-excellence-eiffel" 
 applyNowLink: "https://www.campusfrance.org/fr/user/register" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

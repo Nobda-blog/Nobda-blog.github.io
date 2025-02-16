@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_50.avif"
 cardImageAlt: "" 
 officialLink: "https://admissions.dohainstitute.edu.qa/psp/ps/EMPLOYEE/SA/c/QUERY_MANAGER.QUERY_VIEWER.GBL%3F%26#038;cmd=login%26#038;languageCd=ARA%26#038;" 
 applyNowLink: "https://admissions.dohainstitute.edu.qa/psc/ps/EMPLOYEE/PSFT_HR/c/A_RA_ONL_APP.A_APL_REGISTRATION.GBL%3F" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

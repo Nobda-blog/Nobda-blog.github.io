@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_126.avif"
 cardImageAlt: "" 
 officialLink: "https://fulbright-egypt.org/program/student/" 
 applyNowLink: "https://apply.iie.org/ffsp2022/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

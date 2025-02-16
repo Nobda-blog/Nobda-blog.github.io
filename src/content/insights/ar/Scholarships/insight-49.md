@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_49.avif"
 cardImageAlt: "" 
 officialLink: "https://www.campusfrance.org/fr/le-programme-de-bourses-eiffel" 
 applyNowLink: "https://www.campusfrance.org/fr/candidature-enseignement-superieur-france" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

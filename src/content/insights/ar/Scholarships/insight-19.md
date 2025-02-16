@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_19.avif"
 cardImageAlt: "" 
 officialLink: "https://international.olemiss.edu/scholarships-for-international-undergraduates/" 
 applyNowLink: "https://international.olemiss.edu/scholarships-for-international-undergraduates/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

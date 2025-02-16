@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_28.avif"
 cardImageAlt: "" 
 officialLink: "https://www.hisf.or.jp/en/scholarship/foreigner/" 
 applyNowLink: "https://entry.hisf.or.jp/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

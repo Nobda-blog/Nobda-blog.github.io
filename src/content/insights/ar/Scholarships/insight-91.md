@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_91.avif"
 cardImageAlt: "" 
 officialLink: "https://www.youthop.com/link%3Fu=https%3A%2F%2Fwww.sdu.dk%2Fen%2Fuddannelse%2Ffees_and_funding%2Fscholarships" 
 applyNowLink: "https://www.youthop.com/link%3Fu=https%3A%2F%2Fwww.sdu.dk%2Fen%2Fuddannelse%2Ffees_and_funding%2Fscholarships" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

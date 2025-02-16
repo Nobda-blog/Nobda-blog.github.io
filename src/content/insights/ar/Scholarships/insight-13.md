@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_13.avif"
 cardImageAlt: "" 
 officialLink: "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/" 
 applyNowLink: "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

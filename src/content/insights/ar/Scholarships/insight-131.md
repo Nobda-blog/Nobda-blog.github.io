@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_131.avif"
 cardImageAlt: "" 
 officialLink: "https://www.aus.edu/admissions/financial-grants-and-scholarships#bachelor-s--grants-and-scholarships" 
 applyNowLink: "https://aus.elluciancrmrecruit.com/Apply/Account/Login%3FReturnUrl=%2fApply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

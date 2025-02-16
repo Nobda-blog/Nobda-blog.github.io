@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_32.avif"
 cardImageAlt: "" 
 officialLink: "https://internationaladmissions.umy.ac.id/register/247" 
 applyNowLink: "http://www.umy.ac.id/full-time-study" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

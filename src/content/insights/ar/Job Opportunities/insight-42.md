@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_42.avif"
 cardImageAlt: "" 
 officialLink: "https://eth4d.ethz.ch/funding-opportunities/ETH4D-exchange-grants/ETH4D-doctoral-mentorship-programme/application-form--eth4d-mentorship-programme.html" 
 applyNowLink: "https://inf.ethz.ch/studies/summer-research-fellowship/how-to-appy.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

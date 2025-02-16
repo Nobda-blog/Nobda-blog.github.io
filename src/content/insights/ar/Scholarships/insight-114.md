@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_114.avif"
 cardImageAlt: "" 
 officialLink: "https://qatarscholarships.qa/" 
 applyNowLink: "https://ssom.lu.edu.qa/prod/bwykolad.P_DispLoginNon" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

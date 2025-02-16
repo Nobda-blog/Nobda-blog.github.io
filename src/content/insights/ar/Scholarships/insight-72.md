@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_72.avif"
 cardImageAlt: "" 
 officialLink: "https://www.volunteerhq.org/destinations/romania/%3Futm_source=gooverseas.com%26#038;utm_medium=referral%26#038;utm_campaign=gooverseas_romania%26#038;utm_content=romania_visit_site" 
 applyNowLink: "https://www.volunteerhq.org/destinations/romania/%3Futm_source=gooverseas.com%26#038;utm_medium=referral%26#038;utm_campaign=gooverseas_romania%26#038;utm_content=romania_visit_site" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

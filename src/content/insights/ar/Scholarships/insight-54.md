@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_54.avif"
 cardImageAlt: "" 
 officialLink: "https://khaleejalforas.com/abu-dhabi-university-scholarship/" 
 applyNowLink: "https://khaleejalforas.com/abu-dhabi-university-scholarship/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

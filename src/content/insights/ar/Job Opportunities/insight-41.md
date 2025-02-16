@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_41.avif"
 cardImageAlt: "" 
 officialLink: "https://apply.darmasiswa.kemdikbud.go.id/register" 
 applyNowLink: "https://apply.darmasiswa.kemdikbud.go.id/register" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

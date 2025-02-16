@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_152.avif"
 cardImageAlt: "" 
 officialLink: "https://www.hof-university.com/studying-at-hof-university/preparing-your-stay/how-to-finance-your-studies.html" 
 applyNowLink: "https://sso.hof-university.de/idp/profile/SAML2/Redirect/SSO%3Fexecution=e1s1" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

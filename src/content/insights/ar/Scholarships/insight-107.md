@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_107.avif"
 cardImageAlt: "" 
 officialLink: "https://www.imd.org/mba/financing/one-year-mba-program-scholarships/" 
 applyNowLink: "https://account.imd.org/register%3Fgotourl=https://www.imd.org/pardot-tracking%3FencodedTrackingData=aHR0cHM6Ly9teWltZC5pbWQub3JnL015SU1EL3MvaG9tZT9yZWRpcmVjdF90eXBlPWltZF9hcHBseSZwcm9kdWN0X2lkPTAxdDBZMDAwMDA5SmxsVVFBUyZwcm9ncmFtaWQ9YUtkMXYwMDAwMDA0SEdLQ0EyJndpemFyZGlkPWFOMzBZMDAwMDAwNENDUlNBMiZwcm9kdWN0U2hvcnROYW1lPU1CQQ%3d%3d" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

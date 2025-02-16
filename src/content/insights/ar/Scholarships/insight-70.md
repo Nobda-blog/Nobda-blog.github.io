@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_70.avif"
 cardImageAlt: "" 
 officialLink: "https://uwaterloo.ca/future-students/financing/international-scholarships" 
 applyNowLink: "https://uwaterloo.ca/future-students/financing/international-scholarships" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_14.avif"
 cardImageAlt: "" 
 officialLink: "https://www.kuleuven.be/scholarships/year/2025-2026/master-mind-scholarship" 
 applyNowLink: "https://www.kuleuven.be/scholarships/year/2025-2026/master-mind-scholarship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

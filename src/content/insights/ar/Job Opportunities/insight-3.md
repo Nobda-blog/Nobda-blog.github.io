@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_3.avif"
 cardImageAlt: "" 
 officialLink: "https://www.bayt.com/" 
 applyNowLink: "https://www.bayt.com/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

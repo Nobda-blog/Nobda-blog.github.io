@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_29.avif"
 cardImageAlt: "" 
 officialLink: "https://piktalent.com/en/internships/switzerland/geneva/paid-industrial-engineering-internship-in-geneva-switzerland%3Futm_campaign=google_jobs_apply%26#038;utm_source=google_jobs_apply%26#038;utm_medium=organic" 
 applyNowLink: "https://piktalent.com/en/applicant/login" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

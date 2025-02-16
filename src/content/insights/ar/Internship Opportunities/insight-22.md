@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_22.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ausbildung.de/" 
 applyNowLink: "https://www.ausbildung.de/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

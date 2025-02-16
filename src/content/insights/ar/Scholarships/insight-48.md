@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_48.avif"
 cardImageAlt: "" 
 officialLink: "https://www.mitacs.ca/our-programs/globalink-research-internship-students/" 
 applyNowLink: "https://www.mitacs.ca/our-programs/globalink-research-internship-students/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

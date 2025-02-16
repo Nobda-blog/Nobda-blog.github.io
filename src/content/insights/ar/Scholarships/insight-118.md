@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_118.avif"
 cardImageAlt: "" 
 officialLink: "https://studyinazerbaijan.edu.az/web/upload/files/HA%20%C4%B0GP/H_Aliyev_IEG_CALL_18_04.pdf" 
 applyNowLink: "https://studyinazerbaijan.edu.az/web/upload/files/HA%20%C4%B0GP/H_Aliyev_IEG_CALL_18_04.pdf" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

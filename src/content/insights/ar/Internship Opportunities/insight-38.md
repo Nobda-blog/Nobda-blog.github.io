@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_38.avif"
 cardImageAlt: "" 
 officialLink: "https://careers.smartrecruiters.com/CERN/tech" 
 applyNowLink: "https://careers.smartrecruiters.com/CERN/tech" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

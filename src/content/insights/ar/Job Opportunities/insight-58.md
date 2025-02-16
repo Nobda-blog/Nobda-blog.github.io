@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_58.avif"
 cardImageAlt: "" 
 officialLink: "https://au.linkedin.com/jobs/view/human-resources-business-partner-at-public-sector-people-3822666081%3FrefId=nQ80%2BdLxOJJID5CVpEzvlA%3D%3D%26#038;trackingId=ELe81wzGjAjEu0sXV5rxrg%3D%3D%26#038;position=5%26#038;pageNum=0%26#038;trk=public_jobs_jserp-result_search-card" 
 applyNowLink: "https://au.linkedin.com/jobs/view/human-resources-business-partner-at-public-sector-people-3822666081%3FrefId=nQ80%2BdLxOJJID5CVpEzvlA%3D%3D%26#038;trackingId=ELe81wzGjAjEu0sXV5rxrg%3D%3D%26#038;position=5%26#038;pageNum=0%26#038;trk=public_jobs_jserp-result_search-card" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

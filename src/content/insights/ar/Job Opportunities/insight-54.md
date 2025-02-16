@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_54.avif"
 cardImageAlt: "" 
 officialLink: "https://stellamccartney.wd3.myworkdayjobs.com/en-US/SMCExternal/job/Via-Santo-Spirito-Milan/Sales-Assistant--Milan-Santo-Spirito--Arabic-Speaker-_R2583/apply/applyManually%20" 
 applyNowLink: "https://stellamccartney.wd3.myworkdayjobs.com/en-US/SMCExternal/job/Via-Santo-Spirito-Milan/Sales-Assistant--Milan-Santo-Spirito--Arabic-Speaker-_R2583/apply/applyManually%20" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

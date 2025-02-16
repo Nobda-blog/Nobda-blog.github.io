@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_6.avif"
 cardImageAlt: "" 
 officialLink: "https://www.goabroad.com/volunteer-abroad/search/canada/volunteer-abroad-1" 
 applyNowLink: "https://www.goabroad.com/volunteer-abroad/search/canada/volunteer-abroad-1" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

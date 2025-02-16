@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_78.avif"
 cardImageAlt: "" 
 officialLink: "https://international.ku.edu.tr/graduate-programs/how-to-apply/" 
 applyNowLink: "https://international.ku.edu.tr/graduate-programs/how-to-apply/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

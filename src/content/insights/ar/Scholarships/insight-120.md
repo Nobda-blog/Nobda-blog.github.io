@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_120.avif"
 cardImageAlt: "" 
 officialLink: "https://www.epfl.ch/education/master/master-excellence-fellowships/" 
 applyNowLink: "https://isa.epfl.ch/imoniteur_ISAP/!farforms.htm%3Fx=master" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

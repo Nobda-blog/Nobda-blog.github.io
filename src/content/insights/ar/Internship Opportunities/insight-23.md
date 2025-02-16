@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_23.avif"
 cardImageAlt: "" 
 officialLink: "https://www.findcourses.com/search/training-in-the-united-states" 
 applyNowLink: "https://www.findcourses.com/search/training-in-the-united-states" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

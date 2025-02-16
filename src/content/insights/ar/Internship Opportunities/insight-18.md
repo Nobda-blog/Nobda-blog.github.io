@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_18.avif"
 cardImageAlt: "" 
 officialLink: "https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices" 
 applyNowLink: "https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

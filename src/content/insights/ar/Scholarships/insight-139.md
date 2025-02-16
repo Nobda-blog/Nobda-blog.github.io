@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_139.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ucalgary.ca/registrar/awards/university-calgary-international-entrance-scholarship" 
 applyNowLink: "https://www.ucalgary.ca/registrar/registration/how-register" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_97.avif"
 cardImageAlt: "" 
 officialLink: "https://www.gcub.org.br/programas/terceira-edicao-do-programa-gcub-de-mobilidade-internacional-gcub-mob-edital-gcub-mob-no-001-2024/" 
 applyNowLink: "https://www.gcub.org.br/programas/terceira-edicao-do-programa-gcub-de-mobilidade-internacional-gcub-mob-edital-gcub-mob-no-001-2024/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

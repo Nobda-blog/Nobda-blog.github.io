@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_49.avif"
 cardImageAlt: "" 
 officialLink: "https://www.microsoft.com/ar-eg/" 
 applyNowLink: "https://www.microsoft.com/ar-eg/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_16.avif"
 cardImageAlt: "" 
 officialLink: "https://khaleejalforas.com/agricultural-volunteer-opportunity-in-canada/" 
 applyNowLink: "https://www.workaway.info/en/host/899664396149" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_158.avif"
 cardImageAlt: "" 
 officialLink: "https://www.studyinnl.org/dutch-education/studies%3Fscholarship=Orange+Knowledge+Programma+%28OKP%29" 
 applyNowLink: "https://www.studyinnl.org/dutch-education/studies%3Fscholarship=Orange+Knowledge+Programma+%28OKP%29" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_51.avif"
 cardImageAlt: "" 
 officialLink: "https://tr.linkedin.com/jobs/view/team-manager-istanbul-airport-at-gucci-3768727608%3FrefId=ZEL%2Bgbgg9wF%2Fu9rTweLImw%3D%3D%26#038;trackingId=B6hJg6ddhftFcCyrlQnWeg%3D%3D%26#038;position=1%26#038;pageNum=0%26#038;trk=public_jobs_jserp-result_search-card" 
 applyNowLink: "https://tr.linkedin.com/jobs/view/team-manager-istanbul-airport-at-gucci-3768727608%3FrefId=ZEL%2Bgbgg9wF%2Fu9rTweLImw%3D%3D%26#038;trackingId=B6hJg6ddhftFcCyrlQnWeg%3D%3D%26#038;position=1%26#038;pageNum=0%26#038;trk=public_jobs_jserp-result_search-card" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

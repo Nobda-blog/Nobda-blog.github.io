@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_3.avif"
 cardImageAlt: "" 
 officialLink: "https://www.geneva-academy.ch/news/detail/487-apply-to-our-llm-in-international-humanitarian-law-and-human-rights" 
 applyNowLink: "https://www.geneva-academy.ch/masters/ll-m/start-an-application" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

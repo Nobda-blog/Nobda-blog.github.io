@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_86.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unipa.it/mobilita/en/new-students/new-students---enrolment/enrolment-procedures-for-extra-eu-foreign-students/" 
 applyNowLink: "https://www.unipa.it/mobilita/en/new-students/new-students---enrolment/enrolment-procedures-for-extra-eu-foreign-students/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

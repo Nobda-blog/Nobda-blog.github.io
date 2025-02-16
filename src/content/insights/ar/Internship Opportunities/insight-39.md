@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_39.avif"
 cardImageAlt: "" 
 officialLink: "https://fa-eolw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions" 
 applyNowLink: "https://fa-eolw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

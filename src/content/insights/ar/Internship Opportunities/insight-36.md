@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_36.avif"
 cardImageAlt: "" 
 officialLink: "https://khaleejalforas.com/internships-in-qatar-for-everyone/" 
 applyNowLink: "https://khaleejalforas.com/internships-in-qatar-for-everyone/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

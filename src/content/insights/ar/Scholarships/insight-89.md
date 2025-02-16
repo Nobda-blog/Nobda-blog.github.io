@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_89.avif"
 cardImageAlt: "" 
 officialLink: "https://www.fao.org/employment/young-talent-programme/internship-programme/en" 
 applyNowLink: "https://www.fao.org/employment/young-talent-programme/internship-programme/en" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

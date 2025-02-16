@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_0.avif"
 cardImageAlt: "" 
 officialLink: "https://graboppo.com/%d9%81%d8%b1%d8%b5%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d9%81%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-2025-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%b1%d8%a7%d8%a6%d8%b9%d8%a9/" 
 applyNowLink: "https://graboppo.com/%d9%81%d8%b1%d8%b5%d8%a9-%d8%aa%d8%af%d8%b1%d9%8a%d8%a8-%d9%81%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-2025-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%b1%d8%a7%d8%a6%d8%b9%d8%a9/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

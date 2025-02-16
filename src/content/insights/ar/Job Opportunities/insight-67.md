@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_67.avif"
 cardImageAlt: "" 
 officialLink: "https://sa.linkedin.com/jobs/view/senior-regulations-associate-legal-at-the-royal-commission-for-alula-3815773619%3FrefId=FTh6cn4OncpkSrMEoJDywQ%3D%3D%26#038;trackingId=Cs1HDjswDsLioYmnkif%2F7Q%3D%3D%26#038;position=24%26#038;pageNum=5%26#038;trk=public_jobs_jserp-result_search-card" 
 applyNowLink: "https://sa.linkedin.com/jobs/view/senior-regulations-associate-legal-at-the-royal-commission-for-alula-3815773619%3FrefId=FTh6cn4OncpkSrMEoJDywQ%3D%3D%26#038;trackingId=Cs1HDjswDsLioYmnkif%2F7Q%3D%3D%26#038;position=24%26#038;pageNum=5%26#038;trk=public_jobs_jserp-result_search-card" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

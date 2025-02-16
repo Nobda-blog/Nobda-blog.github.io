@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_90.avif"
 cardImageAlt: "" 
 officialLink: "https://www.randstad.es/candidatos/ofertas-empleo/oferta/electromecanico-sector-alimentacion-2781566/" 
 applyNowLink: "https://www.randstad.es/candidatos/ofertas-empleo/oferta/electromecanico-sector-alimentacion-2781566/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_151.avif"
 cardImageAlt: "" 
 officialLink: "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-fellowship" 
 applyNowLink: "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/georg-forster-research-fellowship" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

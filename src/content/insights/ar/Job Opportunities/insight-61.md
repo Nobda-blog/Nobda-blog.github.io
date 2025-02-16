@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_61.avif"
 cardImageAlt: "" 
 officialLink: "https://www.tamm.abudhabi/ar-ae" 
 applyNowLink: "https://www.tamm.abudhabi/ar-ae" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

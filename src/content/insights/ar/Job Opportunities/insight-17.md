@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_17.avif"
 cardImageAlt: "" 
 officialLink: "https://www.guichetemplois.gc.ca/trouverunemploi" 
 applyNowLink: "https://www.guichetemplois.gc.ca/trouverunemploi" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_29.avif"
 cardImageAlt: "" 
 officialLink: "https://tools.bard.edu/wwwmedia/files/5454270/16/ES_Seguin%20Scholarship.pdf" 
 applyNowLink: "https://berlin.bard.edu/admissions/how-to-apply/application-requirements/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

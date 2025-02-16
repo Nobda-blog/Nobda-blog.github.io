@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_145.avif"
 cardImageAlt: "" 
 officialLink: "https://web-en.unipv.it/info-for/fees-and-fundings/financial-support/" 
 applyNowLink: "https://web-en.unipv.it/info-for/fees-and-fundings/financial-support/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

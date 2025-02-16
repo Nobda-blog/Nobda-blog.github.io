@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_49.avif"
 cardImageAlt: "" 
 officialLink: "https://gestioacademica.upf.edu/regi/controlreg/registroPublico%3FentradaPublica=true%26#038;pais=GB%26#038;idioma=en%26#038;destino=MOF" 
 applyNowLink: "https://gestioacademica.upf.edu/regi/controlreg/registroPublico%3FentradaPublica=true%26#038;pais=GB%26#038;idioma=en%26#038;destino=MOF" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

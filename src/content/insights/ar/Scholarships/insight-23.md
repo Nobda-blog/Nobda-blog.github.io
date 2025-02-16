@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_23.avif"
 cardImageAlt: "" 
 officialLink: "https://www.hbku.edu.qa/en/admissions" 
 applyNowLink: "https://hbkuqa.elluciancrmrecruit.com/Apply/Account/Login%3FReturnUrl=%2fApply" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_65.avif"
 cardImageAlt: "" 
 officialLink: "https://pt.linkedin.com/jobs/view/operador-de-produ%C3%A7%C3%A3o-at-contisystems-3821691065%3FrefId=Bj0OmhSuarbaY20czIwSlw%3D%3D%26#038;trackingId=7vXw9D64gJSCZukF1kvWAA%3D%3D%26#038;position=3%26#038;pageNum=0%26#038;trk=public_jobs_jserp-result_search-card" 
 applyNowLink: "https://pt.linkedin.com/jobs/view/operador-de-produ%C3%A7%C3%A3o-at-contisystems-3821691065%3FrefId=Bj0OmhSuarbaY20czIwSlw%3D%3D%26#038;trackingId=7vXw9D64gJSCZukF1kvWAA%3D%3D%26#038;position=3%26#038;pageNum=0%26#038;trk=public_jobs_jserp-result_search-card" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

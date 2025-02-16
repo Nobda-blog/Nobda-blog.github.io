@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_127.avif"
 cardImageAlt: "" 
 officialLink: "https://www.studyinholland.nl/finances/scholarships/highlighted-scholarships/orange-knowledge-programme" 
 applyNowLink: "http://www.studyfinder.nl/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

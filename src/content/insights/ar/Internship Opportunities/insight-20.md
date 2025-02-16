@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_20.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sciencedz.net/ar/events.php%3Fcountryid=CA%26#038;page=2" 
 applyNowLink: "https://www.sciencedz.net/ar/events.php%3Fcountryid=CA%26#038;page=2" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

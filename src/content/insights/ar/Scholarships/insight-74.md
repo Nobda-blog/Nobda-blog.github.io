@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_74.avif"
 cardImageAlt: "" 
 officialLink: "https://www.aud.edu/admissions/scholarships/" 
 applyNowLink: "https://www.aud.edu/admissions/scholarships/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

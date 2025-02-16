@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_45.avif"
 cardImageAlt: "" 
 officialLink: "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html" 
 applyNowLink: "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-northern-immigration-pilot.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

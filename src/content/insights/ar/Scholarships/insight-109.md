@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_109.avif"
 cardImageAlt: "" 
 officialLink: "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#1816515618" 
 applyNowLink: "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#1816515618" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

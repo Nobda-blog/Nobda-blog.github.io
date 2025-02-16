@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_51.avif"
 cardImageAlt: "" 
 officialLink: "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/sdetail02/1374094.htm" 
 applyNowLink: "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/sdetail02/1374094.htm" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

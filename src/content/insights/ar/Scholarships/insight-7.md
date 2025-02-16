@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_7.avif"
 cardImageAlt: "" 
 officialLink: "https://www.auckland.ac.nz/en/study/scholarships-and-awards/find-a-scholarship/university-of-auckland-international-student-excellence-scholarship-844-all.html" 
 applyNowLink: "https://www.auckland.ac.nz/en/study/applications-and-admissions/apply-now.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

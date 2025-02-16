@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_12.avif"
 cardImageAlt: "" 
 officialLink: "https://www.oecd.org/careers/internship-programme/" 
 applyNowLink: "https://www.oecd.org/careers/apply/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

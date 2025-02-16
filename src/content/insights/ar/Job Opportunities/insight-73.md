@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_73.avif"
 cardImageAlt: "" 
 officialLink: "https://scholarships.studyinromania.gov.ro/" 
 applyNowLink: "https://scholarships.studyinromania.gov.ro/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

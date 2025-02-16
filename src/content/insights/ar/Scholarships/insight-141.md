@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_141.avif"
 cardImageAlt: "" 
 officialLink: "https://www.boell.de/en/application" 
 applyNowLink: "https://www.boell.de/sites/default/files/a2-1bewerbungprom_sept2017_en_1.pdf%3Fdimension1=division_sw" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

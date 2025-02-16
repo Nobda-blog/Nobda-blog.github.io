@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_164.avif"
 cardImageAlt: "" 
 officialLink: "https://education-in-russia.com/" 
 applyNowLink: "https://education-in-russia.com/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

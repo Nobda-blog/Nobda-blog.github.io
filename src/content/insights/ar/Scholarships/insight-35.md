@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_35.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ceu.edu/admissions/how-to-apply/deadlines" 
 applyNowLink: "https://sits.ceu.edu/urd/sits.urd/run/siw_ipp_lgn.login%3Fprocess=siw_ipp_app_crs" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

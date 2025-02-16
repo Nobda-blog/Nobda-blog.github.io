@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_2.avif"
 cardImageAlt: "" 
 officialLink: "https://au.indeed.com/jobs%3Fq=seasonal+work+in+australia%26#038;l=%26#038;from=searchOnDesktopSerp%2Cwhatautocomplete%26#038;vjk=63dc79334f68a31c" 
 applyNowLink: "https://au.indeed.com/jobs%3Fq=seasonal+work+in+australia%26#038;l=%26#038;from=searchOnDesktopSerp%2Cwhatautocomplete%26#038;vjk=63dc79334f68a31c" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

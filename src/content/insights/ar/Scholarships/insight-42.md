@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_42.avif"
 cardImageAlt: "" 
 officialLink: "https://www.um.edu.mt/study/feesfunding/scholarships/masterresearchphd/" 
 applyNowLink: "https://www.um.edu.mt/study/feesfunding/scholarships/masterresearchphd/" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

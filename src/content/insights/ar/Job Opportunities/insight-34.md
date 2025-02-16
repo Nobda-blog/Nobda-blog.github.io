@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_34.avif"
 cardImageAlt: "" 
 officialLink: "https://www.hbku.edu.qa/ar/careers" 
 applyNowLink: "https://www.hbku.edu.qa/ar/careers" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

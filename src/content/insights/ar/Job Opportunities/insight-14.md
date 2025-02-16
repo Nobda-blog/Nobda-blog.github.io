@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_14.avif"
 cardImageAlt: "" 
 officialLink: "https://www.unil.ch/international/en/home/menuinst/etudiants-internationaux/etudiantes-internationaux-reguliers/bourses-master-de-lunil.html#standard_109" 
 applyNowLink: "https://www.unil.ch/immat/home/menuinst/futurs-etudiants/master/avec-un-bachelor-etranger/sinscrire-en-ligne-et-prepar.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

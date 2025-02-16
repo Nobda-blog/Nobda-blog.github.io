@@ -5,7 +5,7 @@ cardImage: "@/images/insights/intership_35.avif"
 cardImageAlt: "" 
 officialLink: "https://www.alqasimifoundation.com/internship-opportunities" 
 applyNowLink: "https://www.alqasimifoundation.com/internship-opportunities" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

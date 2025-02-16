@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_67.avif"
 cardImageAlt: "" 
 officialLink: "https://uns.ac.id/en/admission/uns-scholarship/" 
 applyNowLink: "https://spmb.uns.ac.id/international/default/login" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

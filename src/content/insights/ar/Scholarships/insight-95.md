@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_95.avif"
 cardImageAlt: "" 
 officialLink: "https://mccallmacbainscholars.org/program/" 
 applyNowLink: "https://mccallmacbainscholars.org/apply/#how" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

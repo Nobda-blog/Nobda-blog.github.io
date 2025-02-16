@@ -5,7 +5,7 @@ cardImage: "@/images/insights/job_23.avif"
 cardImageAlt: "" 
 officialLink: "https://itar.in/conf/index.php%3Fid=2295310" 
 applyNowLink: "https://itar.in/conf/index.php%3Fid=2295310" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 

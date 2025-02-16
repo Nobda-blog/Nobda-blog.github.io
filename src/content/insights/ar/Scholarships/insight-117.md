@@ -5,7 +5,7 @@ cardImage: "@/images/insights/scholarship_117.avif"
 cardImageAlt: "" 
 officialLink: "https://www.ualberta.ca/graduate-studies/awards-and-funding/scholarships/graduate-entrance.html" 
 applyNowLink: "https://www.ualberta.ca/graduate-studies/prospective-students/apply-for-admission/index.html" 
-teamApplyLink: "/fr/contact"
+teamApplyLink: "/ar/contact"
 
 ---
 
